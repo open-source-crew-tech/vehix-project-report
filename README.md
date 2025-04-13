@@ -27,9 +27,9 @@
 
 # Project Report Collaboration Insights 
 
-  - **Link de la organización:** [https://github.com/CrewTech-OpenSource](https://github.com/CrewTech-OpenSource)
+  - **Link de la organización:** [https://github.com/open-source-crew-tech](https://github.com/open-source-crew-tech)
 
-  - **Link del repositorio:** [https://github.com/CrewTech-OpenSource/CrewTech-Project-Report-OpenSource](https://github.com/CrewTech-OpenSource/CrewTech-Project-Report-OpenSource)
+  - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report)
 
 ---
 
