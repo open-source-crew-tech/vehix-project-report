@@ -85,5 +85,20 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 + Facilidad de uso sin necesidad de conocimientos mecánicos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+- _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
+
+- _Creemos que existe un mercado creciente de propietarios de vehículos que buscan soluciones tecnológicas para mejorar la eficiencia y reducir los costos de mantenimiento de sus vehículos._
+   - Sabremos que nuestra hipótesis es correcta cuando recibamos un aumento del 40% de comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
+
+- _Creemos que la aplicación Vehix puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción del 15% a más en los costos de mantenimiento y reparación de los vehículos de los usuarios a través de encuestas por medio de la app.
+
+- _Creemos que la aplicación Vehix puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 25% de comentarios positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
+
+- _Creemos que la aplicación Vehix puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivos
