@@ -106,6 +106,46 @@ En este apartado se indicarán los sistemas de organización que se han usado pa
 
 Para la landing page se ha utilizado una estructura jerárquica en la landing page de Vehix porque permite organizar la información de forma clara y progresiva, guiando al usuario desde lo más general hasta lo más específico.
 
+- Inicio
+  
+   Banner: imagen principal que comunica el valor del producto
+  
+   Call to Action: botón destacado como “Empieza ahora”
+
+- Beneficios para conductores
+  
+   Mantenimiento inteligente:
+  
+   Alertas de fallas en tiempo real
+  
+   Diagnóstico automático desde la app
+
+   Acceso a talleres:
+  
+   Ubicación de talleres cercanos
+  
+   Integración directa con talleres afiliados
+
+- Beneficios para mecánicos
+  
+   Diagnóstico avanzado: Acceso a historial y estado del vehículo desde la app
+  
+   Nuevos clientes: Visibilidad en el mapa de talleres recomendados por Vehix
+
+- Sobre nosotros
+  
+   Misión y visión:
+  
+   Nuestra propuesta de valor como startup
+  
+   Enfoque en tecnología y prevención
+
+- Contacto
+  
+   Correo electrónico: canal directo de atención
+
+   Redes sociales: enlaces a Facebook, Instagram, etc.
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
