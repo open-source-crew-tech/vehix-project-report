@@ -22,12 +22,12 @@ Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunic
 
 - **Gris muy claro (#F5F5F5):** Fondos de tarjetas o secciones secundarias.
 
-  [color_principales](/assets/imgs/chapter-IV/paleta_de_colores.PNG)
+  [color_principales](/assets/imgs/chapter-IV/paleta_de_colores.png)
  
 ##### **Color de acento:**
  
 - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
-  [color_acento](/assets/imgs/chapter-IV/color_turquesa.PNG)
+  [color_acento](/assets/imgs/chapter-IV/color_turquesa.png)
 
 #### 4.1.1.2 Tipografía
 
@@ -39,7 +39,7 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
  
  - **Justificación:** Su estilo clásico y elegante aporta seriedad y estructura visual, ideal para secciones donde se desea captar la atención con autoridad sin perder sofisticación.
 
-[pt_serif_regular](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
+[pt_serif_regular](/assets/imgs/chapter-IV/pt-serif-regular.png)
 
 ##### **Roboto Regular**
  
@@ -47,7 +47,7 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 - **Justificación:** Diseñada para pantallas digitales, Roboto ofrece alta legibilidad, ritmo equilibrado y modernidad. Es ideal para descripciones, formularios y mensajes explicativos.
 
-[roboto_regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
+[roboto_regular](/assets/imgs/chapter-IV/roboto-regular.png)
 
 ##### **Montserrat Regular**
 
@@ -55,7 +55,7 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 - **Justificación:** Con un estilo geométrico y contemporáneo, Montserrat da un toque moderno y dinámico. Es perfecta para jerarquizar acciones y destacar elementos interactivos.
 
-[monserrat_regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
+[monserrat_regular](/assets/imgs/chapter-IV/Monserrat-regular.png)
 
 #####  4.1.1.3 Spacing:
 
