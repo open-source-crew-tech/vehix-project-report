@@ -57,7 +57,7 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 ![monserrat_regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
-#####  4.1.1.3 Spacing:
+#### 4.1.1.3 Spacing:
 
 Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
 
@@ -77,7 +77,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 
 ![logo](/assets/imgs/chapter-IV/logo.png)
 
- #### **Características del logotipo**
+ ##### **Características del logotipo**
 
 - **Tipografía:** Se utiliza una fuente **sans serif moderna** con líneas limpias y proporciones equilibradas. Esta elección transmite claridad, orden y tecnología, elementos clave del producto.
 
