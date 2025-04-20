@@ -3,6 +3,9 @@
 ![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.png)
 
 ![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-2.png)
+
+![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.png)
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ![impactmapping](/assets/imgs/chapter-III/Impact-map.png)
