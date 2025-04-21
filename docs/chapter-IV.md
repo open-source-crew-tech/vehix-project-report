@@ -112,35 +112,29 @@ Para la landing page se ha utilizado una estructura jerárquica en la landing pa
   
    Call to Action: botón destacado como “Empieza ahora”
 
-- Beneficios para conductores
-  
-   Mantenimiento inteligente:
-  
-   Alertas de fallas en tiempo real
-  
-   Diagnóstico automático desde la app
+- Beneficios
 
-   Acceso a talleres:
-  
-   Ubicación de talleres cercanos
-  
-   Integración directa con talleres afiliados
+Beneficios para conductores
 
-- Beneficios para mecánicos
-  
-   Diagnóstico avanzado: Acceso a historial y estado del vehículo desde la app
-  
-   Nuevos clientes: Visibilidad en el mapa de talleres recomendados por Vehix
+Beneficios para mecánicos
+
+- Testimonios
 
 - Sobre nosotros
   
-   Misión y visión:
-  
    Nuestra propuesta de valor como startup
-  
-   Enfoque en tecnología y prevención
+
+  Perfiles de integrantes
+
+- Preguntas frecuentes
+
+- Compatibilidad de vehículos
 
 - Contacto
+  
+  formulario de contacto
+  
+- Soporte
   
    Correo electrónico: canal directo de atención
 
