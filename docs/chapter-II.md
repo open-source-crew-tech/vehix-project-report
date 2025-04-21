@@ -450,6 +450,7 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
 Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
 
 #### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
 ¿Qué tipo de vehículo usas actualmente y con qué frecuencia lo conduces?
 
 ¿Qué tan pendiente estás del mantenimiento preventivo de tu vehículo? ¿Llevas algún tipo de registro?
