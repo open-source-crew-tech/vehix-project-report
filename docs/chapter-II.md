@@ -513,16 +513,6 @@ Los conductores entrevistados comparten un perfil común: son usuarios frecuente
 
 Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falta de mantenimiento preventivo, lo que crea una oportunidad clara para soluciones que anticipen fallas. Todos muestran una alta familiaridad y apertura al uso de aplicaciones móviles, siempre que sean intuitivas y claras.
 
-Los aspectos más valorados por este segmento son:
-
-Alertas personalizadas
-
-Diagnósticos simples y entendibles
-
-Recomendaciones para evitar fallas
-
-Mejora de hábitos de conducción
-
 Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
 
 **Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
