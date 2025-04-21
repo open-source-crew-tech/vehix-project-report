@@ -510,6 +510,8 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
+![user personas img](/assets/imgs/chapter-II/user-personas-segment-1.png)
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
