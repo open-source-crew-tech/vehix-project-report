@@ -513,7 +513,7 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 Entrevista 1:
 
-![rocio img](/assets/imgs/chapter-II/rocio.jpg)
+![rocio img](/assets/imgs/chapter-II/rocio.png)
 
 [tiempo]
 
@@ -535,7 +535,7 @@ Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que v
 
 Entrevista 2:
 
-![lucas img](/assets/imgs/chapter-II/lucas.jpg)
+![lucas img](/assets/imgs/chapter-II/lucas.png)
 
 [tiempo]
 
@@ -558,7 +558,7 @@ Le gusta la idea de usar una app para recibir alertas, saber qué le pasa a su a
 
 Entrevista 3:
 
-![johnny img](/assets/imgs/chapter-II/johnny.jpg)
+![johnny img](/assets/imgs/chapter-II/johnny.png)
 
 [tiempo]
 
