@@ -508,6 +508,23 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
+**Segmento 1: Propietarios de vehículos urbanos (uso personal)**
+Los conductores entrevistados comparten un perfil común: son usuarios frecuentes de sus vehículos, principalmente para trabajo, compras y actividades personales. Aunque tienen cierta conciencia sobre el mantenimiento, su enfoque es predominantemente reactivo, actuando ante señales visibles o auditivas, sin llevar un registro sistemático de servicios o revisiones.
+
+Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falta de mantenimiento preventivo, lo que crea una oportunidad clara para soluciones que anticipen fallas. Todos muestran una alta familiaridad y apertura al uso de aplicaciones móviles, siempre que sean intuitivas y claras.
+
+Los aspectos más valorados por este segmento son:
+
+Alertas personalizadas
+
+Diagnósticos simples y entendibles
+
+Recomendaciones para evitar fallas
+
+Mejora de hábitos de conducción
+
+Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
+
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
 Primer Segmento:
