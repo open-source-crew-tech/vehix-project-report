@@ -106,6 +106,60 @@ Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para log
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
+En el diseño de la interfaz de usuario, el sistema de etiquetado (**Labeling System**) cumple un rol fundamental para guiar la navegación y facilitar la comprensión del contenido. En el caso de **Vehix**, tanto en su landing page como en la aplicación web, se ha priorizado el uso de **etiquetas claras, breves y fácilmente reconocibles** para representar funciones, secciones y temas clave.
+
+#### Landing Page
+
+En el diseño del landing page de Vehix, las etiquetas se han seleccionado para **comunicar información de forma directa**, evitar la ambigüedad y facilitar la navegación del usuario. Se busca que las etiquetas sean **claras, breves y universales**, con un enfoque tanto informativo como persuasivo. 
+
+##### Principios aplicados:
+
+- **Lenguaje directo** para facilitar la lectura.
+    
+- **Máximo dos palabras** por etiqueta.
+    
+- **Ubicación estratégica** para guiar el recorrido del visitante
+
+
+#### Etiquetas utilizadas
+
+| Etiqueta          | Ubicación                      | Función asociada                      |
+| ----------------- | ------------------------------ | ------------------------------------- |
+| **Subscriptions** | Menú superior                  | Redirige a los planes de pago         |
+| **Benefits**      | Menú superior y sección visual | Muestra ventajas por tipo de usuario  |
+| **Testimonials**  | Menú superior                  | Muestra opiniones de usuarios reales  |
+| **Who are we?**   | Menú superior                  | Presentación del equipo de desarrollo |
+| **Support**       | Menú superior                  | Enlace al formulario de contacto      |
+| **Compatibility** | Menú superior y sección visual | Muestra qué vehículos son compatibles |
+
+
+#### Web Application
+
+En la aplicación web, el sistema de etiquetado cumple una función de **navegación interna** y organización del contenido relacionado al estado del vehículo. Aquí, las etiquetas están orientadas a **acciones técnicas, diagnósticos y mantenimiento**, usando un lenguaje más funcional pero igualmente accesible.
+
+##### Principios aplicados:
+
+- **Claridad técnica**, sin ser excesivamente complejas.
+    
+- **Consistencia** entre elementos del dashboard.
+    
+- **Asociación directa** entre etiqueta y contenido mostrado.
+
+
+#### Etiquetas utilizadas:
+
+| Etiqueta                  | Ubicación      | Función asociada                            |
+| ------------------------- | -------------- | ------------------------------------------- |
+| **Home**                  | Barra superior | Acceso al panel principal                   |
+| **Bluetooth**             | Barra superior | Conexión del adaptador vehicular            |
+| **Library**               | Barra superior | Acceso a materiales técnicos y guías        |
+| **Diagnostic**            | Barra superior | Acceso al sistema de escaneo                |
+| **Historial de escaneos** | Dashboard      | Muestra los diagnósticos pasados            |
+| **Resumen de estado**     | Dashboard      | Muestra el estado actual del vehículo       |
+| **Alertas recientes**     | Dashboard      | Muestra notificaciones de fallos detectados |
+| **Estado vehicular**      | Dashboard      | Información técnica en tiempo real          |
+| **PLAN PRO**              | Dashboard      | Destaca visualmente la suscripción premium  |
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
