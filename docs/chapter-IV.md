@@ -1,63 +1,66 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
+
 ### 4.1.1. General Style Guidelines
-#### 4.1.1.1 Colores
+### 4.1.1.1 Colores
    
   La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
 
   Esta combinación logra un equilibrio entre seriedad y accesibilidad, ideal para una aplicación enfocada en el mantenimiento vehicular.
 
-##### **Colores principales:**
+   #### **Colores principales:** 
    
-- **Negro puro (#000000):** Para títulos, íconos, botones y elementos destacados.
+   La gama de grises elegida permite mantener una interfaz visualmente limpia, neutra y moderna,
+   facilitando el enfoque en el contenido y las funcionalidades sin distracciones visuales innecesarias. Además, el gris proporciona un equilibrio entre profesionalismo y accesibilidad.
+   
+   ##### **Escala de grises**
+   
+| Color                                      | Justificación                                                                                                                                                                          |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#FAFAFA`  `#F5F5F5`                       | Se utiliza como fondo base en formularios y secciones de contenido. Aporta luminosidad sin ser completamente blanco, reduciendo la fatiga visual. Ideal para mantener limpieza visual. |
+| `#EEEEEE`  `#E0E0E0`                       | Aplicado como fondo en tarjetas, cajas de contenido o elementos con jerarquía secundaria. Brinda separación visual sin contraste excesivo.                                             |
+| `#BDBDBD`  `#9E9E9E`                       | Sirve para bordes, líneas divisoras o elementos neutros. Ayuda a estructurar la interfaz sin añadir ruido visual.                                                                      |
+| `#757575`  `#616161`  `#424242`  `#212121` | Utilizado en textos secundarios, íconos, botones no activos y etiquetas. Proporciona contraste sin recurrir al negro puro, facilitando una jerarquía visual adecuada.                  |
 
-- **Blanco puro (#FFFFFF):** Color base para fondos principales y espacios de lectura.
-
-- **Gris oscuro (#2E2E2E):** Textos secundarios, menús colapsables o estados inactivos.
-
-- **Gris medio (#7D7D7D):** Indicaciones complementarias y descripciones.
-
-- **Gris claro (#D6D6D6):** Líneas divisoras, bordes y campos desactivados.
-
-- **Gris muy claro (#F5F5F5):** Fondos de tarjetas o secciones secundarias.
-
-  ![color_principales](/assets/imgs/chapter-IV/paleta_de_colores.PNG)
+ ##### **Escala de negros**
  
-##### **Color de acento:**
- 
+ La escala de negros con diferentes niveles de opacidad se usa estratégicamente para reforzar el contraste, resaltar contenido principal y crear una sensación de profundidad en la interfaz.
+
+| RGBA                                          | Justificación                                                                                                                        |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `rgba(0, 0, 0, 0.87)`                         | Ideal para texto principal, títulos y mensajes importantes. Asegura máxima legibilidad en interfaces claras.                         |
+| `rgba(0, 0, 0, 0.6)` a `rgba(0, 0, 0, 0.42)`  | Aplicado en textos secundarios, etiquetas o descripciones más sutiles. Mantiene legibilidad sin competir con el contenido principal. |
+| `rgba(0, 0, 0, 0.26)` a `rgba(0, 0, 0, 0.06)` | Utilizado en bordes suaves, sombras o elementos desactivados. Ayuda a construir jerarquía y profundidad sin distracción visual.      |
+
+ #### **Color de acento:**
+
 - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
-![color_acento](/assets/imgs/chapter-IV/color_turquesa.PNG)
 
-#### 4.1.1.2 Tipografía
+### 4.1.1.2 Tipografía
 
 En **Vehix**, la tipografía es un componente esencial para transmitir claridad, profesionalismo y accesibilidad en cada pantalla de la aplicación. Se ha definido el uso de tres fuentes principales, combinando elegancia, legibilidad y modernidad.
 
-##### **PT Serif Regular**
+ #### **PT Serif Regular**
+
+ - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
+
+- **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
+
  
- - **Uso:** Títulos principales o mensajes destacados.
+ #### **Roboto Regular**
  
- - **Justificación:** Su estilo clásico y elegante aporta seriedad y estructura visual, ideal para secciones donde se desea captar la atención con autoridad sin perder sofisticación.
+- **Uso:** Contenido general, campos de formularios y textos secundarios.
 
-![pt_serif_regular](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
+- **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
 
-##### **Roboto Regular**
- 
-- **Uso:** Cuerpo de texto y contenidos largos.
+ #### **Montserrat Regular**
 
-- **Justificación:** Diseñada para pantallas digitales, Roboto ofrece alta legibilidad, ritmo equilibrado y modernidad. Es ideal para descripciones, formularios y mensajes explicativos.
+- **Uso:** Títulos principales, subtítulos y botones.
 
-![roboto_regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
+- **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
 
-##### **Montserrat Regular**
-
-- **Uso:** Botones, etiquetas, menús y elementos de navegación.
-
-- **Justificación:** Con un estilo geométrico y contemporáneo, Montserrat da un toque moderno y dinámico. Es perfecta para jerarquizar acciones y destacar elementos interactivos.
-
-![monserrat_regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
-
-#####  4.1.1.3 Spacing:
+###  4.1.1.3 Spacing:
 
 Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
 
@@ -66,16 +69,15 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 - **16 px:** Margen interno típico para botones, tarjetas y campos de formulario.
 
 - **24 px:** Separación entre secciones pequeñas o subtítulos.
-  
+
 - **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
 
-#### 4.1.1.4 Branding:
 
- ##### **Logo**
+### 4.1.1.4 Branding:
+
+ #### **Logo**
  
  El logotipo de **Vehix** ha sido diseñado bajo principios de simplicidad, elegancia y profesionalismo, alineado con la propuesta de valor de la aplicación como una herramienta confiable para el cuidado preventivo de vehículos.
-
-![logo](/assets/imgs/chapter-IV/logo.png)
 
  #### **Características del logotipo**
 
@@ -87,7 +89,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 
 - **Ausencia de íconos gráficos:** Por decisión estratégica, el logotipo **no incluye ilustraciones** (como autos, herramientas o ruedas), con el fin de mantener una imagen minimalista y evitar asociaciones literales que limiten la escalabilidad de la marca.
 
-#### 4.1.1.5 Tono de Comunicación
+### 4.1.1.5 Tono de Comunicación
 
 Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para lograrlo, se han definido las siguientes **dimensiones de tono**.
 
@@ -97,6 +99,7 @@ Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para log
 | Formal / Casual          | **Casual**     | Se busca cercanía sin perder profesionalismo, ideal para usuarios cotidianos.      |
 | Respetuoso / Irreverente | **Respetuoso** | El respeto es clave para construir relaciones duraderas con los usuarios.          |
 | Entusiasta / Sereno      | **Sereno**     | Un tono calmado evita alarmismos y transmite tranquilidad en situaciones técnicas. |
+
 
   
 ### 4.1.2. Web Style Guidelines
