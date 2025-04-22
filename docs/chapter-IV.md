@@ -166,7 +166,7 @@ Los **SEO Tags** y **Meta Tags** son elementos clave del código HTML que permit
 
 #### Landing Page
 
-  **Título de la página: **
+  **Título de la página:**
   
 ``` 
 <title> Vehix | Monitorea tu vehículo en tiempo real</title>
@@ -182,7 +182,7 @@ Los **SEO Tags** y **Meta Tags** son elementos clave del código HTML que permit
 
   Resume de forma clara y directa los beneficios de usar la plataforma. Esta descripción aparece debajo del título en Google y ayuda a convencer al usuario de visitar el sitio.
 
-**Palabras Clave (Keywords): **
+**Palabras Clave (Keywords):**
 
 ```
 <meta name="keywords" content="Vehix, plataforma automotriz, diagnóstico de vehículos, mantenimiento del auto, conectar carro, OBD2, app para autos">
@@ -215,7 +215,7 @@ Los **SEO Tags** y **Meta Tags** son elementos clave del código HTML que permit
 
 Presenta los beneficios funcionales de la app para usuarios registrados. Aumenta el interés y claridad sobre lo que se puede hacer en el sistema.
 
-**Palabras Clave (Keywords): **
+**Palabras Clave (Keywords):**
 
 ```
 <meta name="keywords" content="Vehix, dashboard auto, escaneo de vehículos, alertas automotrices, historial de mantenimientos, diagnóstico técnico, sensores auto">
