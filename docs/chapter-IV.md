@@ -210,6 +210,7 @@ Los **SEO Tags** y **Meta Tags** son elementos clave del código HTML que permit
 
 ```
  <meta name="description" content="Consulta el estado actual de tu auto, recibe alertas, revisa mantenimientos y detecta problemas con el sistema Vehix."> 
+
 ```
 
 Presenta los beneficios funcionales de la app para usuarios registrados. Aumenta el interés y claridad sobre lo que se puede hacer en el sistema.
@@ -218,6 +219,7 @@ Presenta los beneficios funcionales de la app para usuarios registrados. Aumenta
 
 ```
 <meta name="keywords" content="Vehix, dashboard auto, escaneo de vehículos, alertas automotrices, historial de mantenimientos, diagnóstico técnico, sensores auto">
+
 ```
 
 Palabras clave más técnicas para posicionar la aplicación en entornos especializados.
