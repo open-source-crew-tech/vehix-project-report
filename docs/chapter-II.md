@@ -711,13 +711,43 @@ Primer Segmento:
 
 ![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
 
+
 Segundo Segmento:
 
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+**Segmento 1**
+
+![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
+
+
+**Segmento 2**
+
+![user-journey-mapping-segment-2](/assets/imgs/chapter-II/user-journey-mapping-segment-2.png)
+
+
+**Segmento 3**
+
+![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
+
 ### 2.3.4. Empathy Mapping
+**Segmento 1**
+
+![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
+
+
+**Segmento 2**
+
+![empathy-mapping-segment-2](/assets/imgs/chapter-II/empathy-mapping-segment-2.png)
+
+
+**Segmento 3**
+
+![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 
