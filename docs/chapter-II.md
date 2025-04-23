@@ -580,6 +580,21 @@ Uso del vehículo: Diario
 
 Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control estricto del mantenimiento. Su experiencia con una reparación costosa por falta de revisión lo hace más receptivo a soluciones preventivas. Está cómodo con la tecnología y usaría una app siempre que sea fácil de entender. Le interesa recibir alertas sobre fallas y consejos para mejorar su conducción. Valora poder evitar gastos imprevistos y alargar la vida útil de su vehículo, y estaría dispuesto a pagar un monto accesible si la app realmente le ayuda.
 
+Entrevista 4: 
+![sebastian img](/assets/imgs/chapter-II/interview-sebastian.png)
+
+[9:58 - 13:14] duración:  3 minutos 16 segundos
+
+Nombre: Sebastián Armando 
+
+Apellido: Del Rio
+
+Edad: 25 años
+
+Distrito: Chorrillos 
+
+Resumen: Sebastián es un conductor que realiza el mantenimiento de su vehículo de manera reactiva, aproximadamente cada tres o cuatro meses, sin seguir un calendario fijo. Suele acudir al taller solo cuando escucha ruidos extraños o percibe alguna falla. Esta falta de control ya le ha generado problemas costosos, como una falla en la bomba de gasolina en plena jornada, lo que lo obligó a cancelar su trabajo y asumir una reparación costosa. En el día a día, se guía únicamente por los testigos del tablero y no cuenta con herramientas que le brinden un diagnóstico claro del estado de su vehículo. Reconoce que una conducción brusca acelera el desgaste, pero a veces no puede evitarlo debido al ritmo de trabajo. Probó una app que se conectaba a un escáner OBD prestado, pero la experiencia fue negativa porque mostraba códigos técnicos que no entendía. Por eso, valora una aplicación sencilla, con alertas claras, resúmenes semanales del estado del auto, recomendaciones de conducción y recordatorios de mantenimiento. Está dispuesto a pagar una suscripción mensual si esta le permite prevenir fallas, reducir gastos en reparaciones y trabajar con mayor tranquilidad. Su perfil representa a un usuario práctico que busca soluciones accesibles y fáciles de usar.
+
 ### 2.2.3. Análisis de entrevistas
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
