@@ -398,7 +398,7 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-Link: [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+**Link:** [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/wireframe/log-in/log-in.png)
@@ -456,7 +456,7 @@ Link: [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
-Link: [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+**Link:** [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
@@ -516,7 +516,7 @@ Link: [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1O
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
-Link: [Prototipo en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+**Link:** [Prototipo en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 
