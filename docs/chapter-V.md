@@ -7,6 +7,61 @@
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-05-22</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:50 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of crewtech</td>
+		</tr>
+		<tr>
+			<td>Sprint 0 Review Summary</td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td>Sprint 0 Retrospective Summary</td>
+			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Spritn 1 Goal</td>
+			<td>We're focusing on building our landing page. We believe this contributes to the sustainability of the product within our organization. This will be confirmed when we see a significant increase in engagement with our landing page.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Velocity</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td>26</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.

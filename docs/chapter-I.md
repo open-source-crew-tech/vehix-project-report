@@ -88,6 +88,14 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos, y el poco conocimiento técnico. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
+
+A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
+
+Ante esta situación, surge nuestra pregunta de negocio: 
+***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y técnico, y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo?***
+
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Assumptions**
@@ -163,6 +171,8 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
 
 #### 1.2.2.4. Lean UX Canvas
+![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.png)
+
 ## 1.3. Segmentos objetivos
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
  - Edad: 25 a 55 años
