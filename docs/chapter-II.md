@@ -509,6 +509,8 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ### 2.2.2. Registro de entrevistas
 
+link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EYpGQVx-EgBErpjNXjetCO8BCMPzhP1T3tUCnnB_lBSyow?e=Sxl1uU
+
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
 Entrevista 1:
