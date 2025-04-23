@@ -633,7 +633,7 @@ Entrevista 7:
 
 [23:42 - 30:19] 
 
-Duración: 6 minutos 41 segundos
+Duración: 6 minutos 37 segundos
 
 Nombre: Richard
 
@@ -665,22 +665,22 @@ Resume: Se entrevistó a José Navarro, un mecánico automotriz, acerca de los d
 
 Entrevista 9:
 
-![richard img](/assets/imgs/chapter-II/richard.png)
+![richard img](/assets/imgs/chapter-II/luis.png)
 
-[23:42 - 30:19] 
+[35:20 - 39:00] 
 
 
-Duración: 6 minutos 41 segundos
+Duración: 3 minutos 40 segundos
 
-Nombre: Richard
+Nombre: Luis
 
-Apellidos: Rios Sandoval
+Apellidos: Villalba 
 
-Edad: 53 años
+Edad: 30 años
 
-Distrito: Villa el salvador
+Distrito: Salamanca
 
-Resumen: 
+Resumen: Se entrevistó a Luis, un mecánico automotriz con varios años de experiencia, realizando las preguntas correspondientes para conocer los desafíos que enfrenta en su trabajo y cómo la tecnología podría ayudarlo mediante una aplicación. Luis menciona que, en la mayoría de casos, los clientes llegan a su taller sin saber con claridad qué parte del vehículo está fallando. Esto le hace perder tiempo en el diagnóstico inicial. Además, señala que el uso de una app sería muy beneficioso para llevar un historial de mantenimiento de cada vehículo que atiende, lo cual le permitiría brindar un servicio más organizado y eficiente. También recalca lo útil que sería contar con una app que permita realizar diagnósticos automáticos o más precisos, lo cual le ayudaría a detectar fallas con mayor rapidez y exactitud. Luis finaliza la entrevista comentando que estaría dispuesto a pagar por una suscripción a una app que le brinde mayor visibilidad para su taller, así como herramientas que faciliten su trabajo diario y le ayuden a mejorar la calidad del servicio que ofrece.
 
 
 ### 2.2.3. Análisis de entrevistas
