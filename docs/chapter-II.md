@@ -581,9 +581,12 @@ Uso del vehículo: Diario
 Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control estricto del mantenimiento. Su experiencia con una reparación costosa por falta de revisión lo hace más receptivo a soluciones preventivas. Está cómodo con la tecnología y usaría una app siempre que sea fácil de entender. Le interesa recibir alertas sobre fallas y consejos para mejorar su conducción. Valora poder evitar gastos imprevistos y alargar la vida útil de su vehículo, y estaría dispuesto a pagar un monto accesible si la app realmente le ayuda.
 
 Entrevista 4: 
+
 ![sebastian img](/assets/imgs/chapter-II/interview-sebastian.png)
 
-[9:58 - 13:14] duración:  3 minutos 16 segundos
+[9:58 - 13:14] 
+
+Duración:  3 minutos 16 segundos
 
 Nombre: Sebastián Armando 
 
@@ -594,6 +597,24 @@ Edad: 25 años
 Distrito: Chorrillos 
 
 Resumen: Sebastián es un conductor que realiza el mantenimiento de su vehículo de manera reactiva, aproximadamente cada tres o cuatro meses, sin seguir un calendario fijo. Suele acudir al taller solo cuando escucha ruidos extraños o percibe alguna falla. Esta falta de control ya le ha generado problemas costosos, como una falla en la bomba de gasolina en plena jornada, lo que lo obligó a cancelar su trabajo y asumir una reparación costosa. En el día a día, se guía únicamente por los testigos del tablero y no cuenta con herramientas que le brinden un diagnóstico claro del estado de su vehículo. Reconoce que una conducción brusca acelera el desgaste, pero a veces no puede evitarlo debido al ritmo de trabajo. Probó una app que se conectaba a un escáner OBD prestado, pero la experiencia fue negativa porque mostraba códigos técnicos que no entendía. Por eso, valora una aplicación sencilla, con alertas claras, resúmenes semanales del estado del auto, recomendaciones de conducción y recordatorios de mantenimiento. Está dispuesto a pagar una suscripción mensual si esta le permite prevenir fallas, reducir gastos en reparaciones y trabajar con mayor tranquilidad. Su perfil representa a un usuario práctico que busca soluciones accesibles y fáciles de usar.
+
+Entrevista 5:
+
+![rocio img](/assets/imgs/chapter-II/interview-rocio.png)
+
+[13:14 - 17:01]
+
+Duración: 3 minutos 47 segundos
+
+Nombre: Rocio 
+
+Apellido: Castañeda Herrera
+
+Edad: 48 años
+
+Distrito: Villa María del Triunfo
+
+Resumen: La entrevistada es una conductora que depende totalmente de su vehículo para su trabajo diario, por lo que procura hacerle mantenimiento cada 5,000 kilómetros. Intenta ser ordenada con eso, ya que cualquier falla impacta directamente en sus ingresos. Hace dos meses tuvo un problema con el sistema de frenos que la dejó dos días sin trabajar, justo en un fin de semana, lo que le generó una pérdida considerable.Su única forma de monitorear el estado del auto es a través del tablero y los sonidos del motor. No cuenta con herramientas adicionales. Valora mucho su estilo de conducción: evita frenar bruscamente, no sobrecarga el auto y trata de manejar de forma cuidadosa. Una vez un mecánico le mostró una app conectada a un escáner OBD, que le pareció útil, aunque era más por curiosidad y no volvió a usarla. Le gustaría contar con una app simple, con notificaciones claras sobre el motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento. Está dispuesta a pagar una suscripción mensual si le ayuda a evitar gastos fuertes a futuro.
 
 ### 2.2.3. Análisis de entrevistas
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
