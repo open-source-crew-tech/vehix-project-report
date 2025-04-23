@@ -634,6 +634,24 @@ Distrito: Surco
 
 Resumen: Melina Sofía Gutiérrez Ramos es conductora de una app de movilidad y realiza el mantenimiento de su vehículo cada tres meses, aunque en ocasiones lo posterga por falta de tiempo o dinero. Su decisión de llevarlo al taller suele depender de si nota fallas como ruidos o comportamientos extraños en el auto. Recientemente, tuvo problemas con la batería mientras trabajaba, lo que le hizo perder ingresos y tiempo, generándole frustración. Actualmente, se guía solo por las luces del tablero y los sonidos del auto, sin contar con herramientas que le den un diagnóstico más preciso. Reconoce la importancia de manejar con suavidad para evitar daños, algo que ha mejorado con la experiencia. Probó una app de diagnóstico con un mecánico, pero la información era muy técnica e inentendible. Melina valoraría una aplicación sencilla que ofrezca alertas claras sobre el estado del motor, frenos o aceite, y que le dé consejos de conducción y recordatorios de mantenimiento. Considera ideal una herramienta que le explique de forma simple lo que necesita revisar para evitar quedarse varada. Está dispuesta a pagar una suscripción mensual si eso le ayuda a prevenir fallas graves y cuidar mejor su vehículo, siempre que el precio sea razonable y el servicio confiable.
 
+Entrevista 8:
+
+![jose img](/assets/imgs/chapter-II/interview-jose.png)
+
+[30:19 - 35:20]
+
+Duración: 5 minutos 1 segundo
+
+Nombre: José Antonio  
+
+Apellido: Navarro Amezquita
+
+Edad: 53 años
+
+Distrito: Villa maría del triunfo
+
+Resume: Se entrevistó a José Navarro, un mecánico automotriz, acerca de los desafíos que enfrenta en su trabajo diario y cómo la tecnología podría ayudarlo. José comenta que con frecuencia recibe clientes que no tienen claro qué falla tiene su vehículo, lo cual le hace perder tiempo en diagnósticos. Señala que una aplicación capaz de generar diagnósticos previos o conectarse con la computadora del auto sería muy beneficiosa tanto para él como para el cliente. También destaca la utilidad de contar con un historial técnico del vehículo en una app, lo cual permitiría identificar fallas más rápido. Además, se mostró interesado en aparecer en un mapa digital de talleres, ya que le ayudaría a atraer más clientes. Aprecia la posibilidad de recibir datos precisos de sensores del auto, lo que agilizaría el trabajo. Está dispuesto a pagar una suscripción mensual si la herramienta demuestra ser rentable. Finalmente, considera que la información más útil que podría recibir de una app es el historial técnico detallado de cada vehículo. Concluye diciendo que la idea le parece muy buena y que sin duda utilizaría una plataforma de este tipo si estuviera disponible.
+
 
 ### 2.2.3. Análisis de entrevistas
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
