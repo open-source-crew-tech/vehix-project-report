@@ -707,17 +707,29 @@ Además, consideran valioso el acceso a datos de los sensores del vehículo y es
 
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
-Primer Segmento:
+**Segmento 1**
 
 ![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
 
 
-Segundo Segmento:
+**Segmento 2**
 
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
 
 ### 2.3.2. User Task Matrix
+**Segmento 1**
+
+![user task matrix segment 1](/assets/imgs/chapter-II/user-task-matrix-segment-1.png)
+
+**Segmento 2**
+
+![user task matrix segment 2](/assets/imgs/chapter-II/user-task-matrix-segment-2.png)
+
+**Segmento 3**
+
+![user task matrix segment 3](/assets/imgs/chapter-II/user-task-matrix-segment-3.png)
+
 ### 2.3.3. User Journey Mapping
 **Segmento 1**
 
