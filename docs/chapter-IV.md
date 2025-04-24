@@ -23,6 +23,8 @@ Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunic
 | `#BDBDBD`  `#9E9E9E`                       | Sirve para bordes, líneas divisoras o elementos neutros. Ayuda a estructurar la interfaz sin añadir ruido visual.                                                                      |
 | `#757575`  `#616161`  `#424242`  `#212121` | Utilizado en textos secundarios, íconos, botones no activos y etiquetas. Proporciona contraste sin recurrir al negro puro, facilitando una jerarquía visual adecuada.                  |
 
+![escala-gris](/assets/imgs/chapter-IV/escala-gris.PNG)
+
  ##### **Escala de negros**
  
  La escala de negros con diferentes niveles de opacidad se usa estratégicamente para reforzar el contraste, resaltar contenido principal y crear una sensación de profundidad en la interfaz.
@@ -33,9 +35,14 @@ Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunic
 | `rgba(0, 0, 0, 0.6)` a `rgba(0, 0, 0, 0.42)`  | Aplicado en textos secundarios, etiquetas o descripciones más sutiles. Mantiene legibilidad sin competir con el contenido principal. |
 | `rgba(0, 0, 0, 0.26)` a `rgba(0, 0, 0, 0.06)` | Utilizado en bordes suaves, sombras o elementos desactivados. Ayuda a construir jerarquía y profundidad sin distracción visual.      |
 
+
+![escala-negra](/assets/imgs/chapter-IV/escala-negra.PNG)
+ 
  #### **Color de acento:**
 
 - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
+
+![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
 
 ### 4.1.1.2 Tipografía
 
@@ -47,6 +54,7 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 - **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
 
+![pt-serif](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
  
  #### **Roboto Regular**
  
@@ -54,11 +62,15 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 - **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
 
+![roboto-regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
+
  #### **Montserrat Regular**
 
 - **Uso:** Títulos principales, subtítulos y botones.
 
 - **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
+
+![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
 ###  4.1.1.3 Spacing:
 
@@ -76,6 +88,8 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 ### 4.1.1.4 Branding:
 
  #### **Logo**
+
+ ![logo](/assets/imgs/chapter-IV/logo.png)
  
  El logotipo de **Vehix** ha sido diseñado bajo principios de simplicidad, elegancia y profesionalismo, alineado con la propuesta de valor de la aplicación como una herramienta confiable para el cuidado preventivo de vehículos.
 
