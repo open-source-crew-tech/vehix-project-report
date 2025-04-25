@@ -63,6 +63,15 @@
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Rios Piñan, Dayro Richard|addicted2u| C | 
+| Julca Minaya, Sergio Gino|sergioJM05| C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | L | 
+| Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | 
+| Espinoza Chávez, Moisés Filemón | MoisesECh | C |
+
 #### 5.2.1.3. Sprint Backlog 1
 <table>
 	<tbody>
