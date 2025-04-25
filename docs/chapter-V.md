@@ -77,7 +77,33 @@
 
 | Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
 |------------|--------|-----------|-----------------|---------------------|-------------|
-| AntonioNavarro24/<repository_name> | feature | <commit_id> | <commit_message> | <commit_body> | date |
+| sergioJM05/vehix-landing-page | main | 01665b9 | initial commmit | - | 25/04/2025 |
+| sergioJM05/vehix-landing-page | develop | 01665b9 | initial commmit | - | 25/04/2025 |
+| sergioJM05/vehix-landing-page | release | 01665b9 | initial commmit | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | b038263 | chore: add initial image | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 11d6326 | feat: add rapid navigation | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | feecd09 | chore: add rapid navigation images | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 0185221  | feat: add rapid navigation section in en and es | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | d0b3401  | feat: add platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | e5ed21c  | feat: add platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | 39ef15b  | feat: update platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |develop | a6fc669  | feat: add platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | d0b3401  | feat: add platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | e5ed21c  | feat: add platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page |feature/platform-contextualization | 39ef15b  | feat: update platform contextualization | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | a6fc669  | feat: add platform contextualization | feature/platform-contextualization | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | f3cb7d3 | feat: add introduction video | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | 1323e5e | feat: add introduction video in es | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 014691a | feat: add introduction video in es | feature/introduction-video | 25/04/2025 |
+| MoisesECh/vehix-landing-page | feature/benefits-evidence | 2d755ea | feature: add benefits evidence | - | 25/04/2025 |
+| MoisesECh/vehix-landing-page | feature/benefits-evidence | a851b82 | feature: add benefits evidence in spanish | - | 25/04/2025 |
+| MoisesECh/vehix-landing-page | feature/benefits-evidence | 4cae4d3 | chore: add benefits evidence images | - | 25/04/2025 |
+| MoisesECh/vehix-landing-page | develop | 4cb8eff  | feat: add benefits evidence in en and es | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | 6864421 | feat: add subscriptions | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | d9c6cfb | feat: add subscriptions | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | c909fac | feat: add subscriptions section in en and es | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | 05b116e | feat: add testimonials | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | f8ab97e | feat: add testimonials in spanish | - | 25/04/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
