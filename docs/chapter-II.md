@@ -717,6 +717,11 @@ Además, consideran valioso el acceso a datos de los sensores del vehículo y es
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
 
+**Segmento 3**
+
+![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
+
+
 ### 2.3.2. User Task Matrix
 **Segmento 1**
 
