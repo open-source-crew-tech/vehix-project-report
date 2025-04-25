@@ -540,6 +540,10 @@ Segundo Segmento:
 
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
+Tercer Segmento:
+
+![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
