@@ -325,3 +325,7 @@
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la landing page, con el uso de HTML, CSS y JavaScript, y sus commits correspondientes.
+
+![individual-commits](/assets/imgs/chapter-V/individual-commits.png)
+![contributors-general-commits](/assets/imgs/chapter-V/contributors-general-commits.png)
