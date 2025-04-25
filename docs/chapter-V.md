@@ -64,13 +64,13 @@
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 Leader (L) /Collaborator (C)| Aspect Name 1 Leader (L) /Collaborator (C)| 
-| ------------------------------------|-----------------|-------------------------------------------|-------------------------------------------|
-| Rios Piñan, Dayro Richard|addicted2u| C | C |
-| Julca Minaya, Sergio Gino|sergioJM05| C | C |
-| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | C |
-| Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | C |
-| Espinoza Chávez, Moisés Filemón | MoisesECh | C | C |
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Rios Piñan, Dayro Richard|addicted2u| C | 
+| Julca Minaya, Sergio Gino|sergioJM05| C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | L | 
+| Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | 
+| Espinoza Chávez, Moisés Filemón | MoisesECh | C |
 
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
