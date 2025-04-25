@@ -416,6 +416,11 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 | sergioJM05/vehix-landing-page | main | 0bbe59e | feat: add release | release | 25/04/2025|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
