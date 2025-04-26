@@ -416,6 +416,17 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
    
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/who_are_we_wireframe.png)
+
+![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/faq_wireframe.png)
+
+![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/compatibility_wireframe.png)
+
+![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/contact_wireframe.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/footer_wireframe.png)
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
