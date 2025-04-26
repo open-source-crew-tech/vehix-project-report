@@ -419,6 +419,16 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 
 desktop:
 
+![header](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/explanatory-video.png)
+
+![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
+
+![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
@@ -428,6 +438,8 @@ desktop:
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
+
+**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
 mobile:
 
