@@ -417,6 +417,16 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/banner.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/testimonials.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/footer.png)
+
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 **Link:** [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
