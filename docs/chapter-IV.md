@@ -429,7 +429,17 @@ desktop:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
-mobile: 
+mobile:
+
+![header](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+
+![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/explanatory-video.png)
+
+![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscriptions.png)
+
+![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
+
+![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
 
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
 
@@ -440,6 +450,8 @@ mobile:
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
+
+**Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
