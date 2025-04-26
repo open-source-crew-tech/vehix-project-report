@@ -418,14 +418,25 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/banner.png)
+Desktop:
 
-![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/benefits.png)
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/testimonials.png)
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
-![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/footer.png)
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
 
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
+
+Mobile:
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
