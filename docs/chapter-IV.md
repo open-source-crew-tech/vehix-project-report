@@ -416,6 +416,55 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
    
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+desktop:
+
+![header](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/explanatory-video.png)
+
+![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
+
+![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
+
+![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
+
+![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
+
+**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
+
+mobile:
+
+![header](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+
+![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/explanatory-video.png)
+
+![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscriptions.png)
+
+![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
+
+![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+
+![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
+
+![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
+
+![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
+
+**Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
