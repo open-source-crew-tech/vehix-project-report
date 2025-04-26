@@ -601,7 +601,8 @@ mobile:
 ![software-architecture-components-diagrams](/assets/imgs/chapter-IV/component-diagram.png)
 
 ## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
+### 4.7.1. Class Diagram
+![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
