@@ -556,3 +556,4 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+![database-diagram](/assets/imgs/chapter-IV/vehix-db.png)
