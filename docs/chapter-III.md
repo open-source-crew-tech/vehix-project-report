@@ -1,10 +1,16 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
-![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.png)
+Segmento 1:
 
-![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-2.png)
+![to-be-scenario-mapping-segment-1](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.jpg)
 
-![tobe scenario img](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.png)
+Segemento 2: 
+
+![to-be-scenario-mapping-segment-2](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-2.jpg)
+
+Segemento 3:
+
+![to-be-scenario-mapping-segment-3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
 
 ## 3.2. User Stories
 
