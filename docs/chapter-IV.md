@@ -466,6 +466,55 @@ mobile:
 **Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
 
 ### 4.3.2. Landing Page Mock-up
+
+Desktop:
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
+
+**Link:** [Landing Page Mock-up Desktpo (ANGULAR)](https://www.figma.com/design/lRwE2inDrGxkbKubGMD60s/Landing-Page-material?node-id=6-2&t=g0WNp2SZQcUv5WAn-1)
+
+Mobile:
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
+
+**Link:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 **Link:** [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
