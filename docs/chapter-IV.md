@@ -417,15 +417,29 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/who_are_we_wireframe.png)
+desktop:
 
-![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/faq_wireframe.png)
+![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
-![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/compatibility_wireframe.png)
+![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
 
-![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/contact_wireframe.png)
+![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
-![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/footer_wireframe.png)
+![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
+
+mobile: 
+
+![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
+
+![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
+
+![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
