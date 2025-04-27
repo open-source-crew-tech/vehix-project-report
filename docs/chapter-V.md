@@ -345,6 +345,8 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+Para el desarrollo del sprint 1, se ha implementado la landing page, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
+
 | Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
 |------------|--------|-----------|-----------------|---------------------|-------------|
 | sergioJM05/vehix-landing-page | main | 01665b9 | initial commmit | - | 25/04/2025 |
