@@ -25,11 +25,49 @@
 
 # **Registro de Versiones Del Informe**
 
+
+
+| Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
+|---------|-------------|--------------------------------------|------------------------------------------------------------------------|
+| 0.0     | 20/03/2024  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
+| 1.0     | 21/03/2024  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
+| 1.1     | 30/03/2024  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
+| 1.2     | 31/03/2024  | Espinoza Chávez, Moisés Filemón                        | Se realizan los user diagrams y Lean UX                               |
+| 1.3     | 10/04/2024  | Espinoza Chávez, Moisés Filemón                         | Se colocan las user stories                                           |
+| 1.4     | 13/04/2024  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
+| 1.5     | 04/04/2024  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
+| 1.6     | 05/04/2024  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
+| 1.7     | 06/04/2024  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
+| 1.8     | 10/04/2024  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
+| 1.9     | 15/04/2024  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
+| 2.0     | 20/04/2024  | Rios Piñan, Dayro Richard                      | Finaliza cambios en HU y Product Backlog                              |
+| 2.1     | 22/04/2024  | Espinoza Chávez, Moisés Filemón                      | Arreglos generales, HU, C4 Diagrams                          |
+| 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+
 # Project Report Collaboration Insights 
 
   - **Link de la organización:** [https://github.com/open-source-crew-tech](https://github.com/open-source-crew-tech)
 
-  - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report)
+  - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report
+  
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+
+![commits img](/assets/imgs/chapter-I/commits.png)
+---
+
+# Student Outcome
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+|Criterio Específico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|**Comunica oralmente con efectividad a diferentes rangos de audiencia**|Baca Camargo, Vitaly Arturo  <br>**TB1:** Durante el desarrollo del proyecto, participé activamente en las reuniones de coordinación, aportando ideas claras, oportunas y bien estructuradas que promovieron la mejora continua del equipo. Utilicé diferentes estrategias de comunicación según el contexto, asegurándome de que todos los integrantes comprendieran los objetivos a corto y largo plazo. Además, brindé retroalimentación constante, fortaleciendo el compromiso grupal.  <br>  <br>Julca Minaya, Sergio Gino  <br>**TB1:** Me comuniqué de manera proactiva y efectiva con el equipo, realizando seguimientos constantes para verificar el avance de las tareas y detectando posibles riesgos a tiempo. Motivé activamente a los integrantes durante momentos críticos, utilizando un lenguaje positivo y orientado a resultados, lo que mantuvo la moral alta y la cohesión grupal.  <br>  <br>Rios Piñan, Dayro Richard  <br>**TB1:** A lo largo del proyecto, me encargué de comunicar de manera oral las observaciones y puntos de mejora identificados, explicándolos de forma clara para asegurar su correcta implementación. Fomenté un entorno de diálogo abierto que permitió recibir aportes de todos los miembros, enriqueciendo así la calidad del trabajo realizado.  <br>  <br>Navarro Chinga, Antonio Jhair  <br>**TB1:** Mi participación en las reuniones grupales estuvo enfocada en recordar constantemente los objetivos por cumplir y reforzar los puntos de mejora detectados. Implementé estrategias de comunicación para alinear expectativas y mantener el enfoque del equipo en la entrega de valor continuo.  <br>  <br>Espinoza Chávez, Moisés Filemón  <br>**TB1:** Durante las sesiones de trabajo, participé activamente expresando mis opiniones y observaciones de manera respetuosa y fundamentada. Esta interacción permitió abordar los retos de forma colaborativa, mejorar la comprensión de las tareas y fortalecer el compromiso general con el proyecto.|En general, los estudiantes demostraron habilidades sólidas de comunicación oral, adecuando sus mensajes a las necesidades y características de su audiencia. La claridad, asertividad y adaptación en su comunicación permitieron optimizar el trabajo colaborativo, agilizar la toma de decisiones y fortalecer la cohesión grupal, lo que fue clave para alcanzar los objetivos propuestos en el proyecto.|
+|**Comunica por escrito con efectividad a diferentes rangos de audiencia**|Baca Camargo, Vitaly Arturo  <br>**TB1:** Durante el proyecto, elaboré reportes de avance de forma periódica, presentando la información de manera clara, estructurada y comprensible. Utilicé tablas, esquemas y resúmenes ejecutivos para facilitar la revisión y el análisis de los avances tanto por parte del equipo como de los stakeholders. Esta práctica contribuyó a mantener una documentación organizada y una trazabilidad efectiva del proyecto.  <br>  <br>Julca Minaya, Sergio Gino  <br>**TB1:** Me encargué de redactar minutas y resúmenes de cada reunión, registrando los acuerdos, las decisiones tomadas y las tareas asignadas. Esta documentación sistemática fue fundamental para que todos los miembros tuvieran claridad sobre los próximos pasos y sirvió como referencia para evaluar el progreso alcanzado a lo largo del proyecto.  <br>  <br>Rios Piñan, Dayro Richard  <br>**TB1:** Redacté observaciones y recomendaciones de mejora en documentos formales, empleando un lenguaje técnico pero accesible, lo que permitió a los destinatarios comprender fácilmente las necesidades de ajuste y mejora. Además, consolidé esta información en informes periódicos que facilitaban la toma de decisiones basada en datos.  <br>  <br>Navarro Chinga, Antonio Jhair  <br>**TB1:** Generé actas detalladas de las reuniones realizadas, en las cuales documenté no solo los compromisos adquiridos por cada miembro, sino también los plazos de cumplimiento y las dependencias entre tareas. Este registro riguroso permitió garantizar la transparencia, responsabilidad y continuidad en las acciones.  <br>  <br>Espinoza Chávez, Moisés Filemón  <br>**TB1:** Documenté de manera sistemática los hallazgos obtenidos a partir de entrevistas y sesiones de trabajo grupal, estructurándolos en informes claros, precisos y visualmente amigables. Esta documentación facilitó la comprensión de los requerimientos del usuario y la toma de decisiones estratégicas dentro del equipo.|Los participantes demostraron una comunicación escrita efectiva y profesional, adaptando su estilo de redacción según el público objetivo y el contexto de comunicación. El uso adecuado de informes, actas y reportes de avance no solo promovió la claridad y transparencia del trabajo realizado, sino que también fortaleció la coordinación interna y la toma de decisiones informadas, contribuyendo de manera directa al éxito del proyecto.|
+
 
 ---
 
