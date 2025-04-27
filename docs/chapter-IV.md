@@ -574,6 +574,32 @@ Mobile:
 ![topic-7](/assets/imgs/chapter-IV/wireframe/plan-standard/topic-7.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+- User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
+![topic-1](/assets/imgs/chapter-IV/register.png)
+
+El usuario llena un formulario de registro, elige un plan (Standard o Pro) y se suscribe para utilizar las funcionalidades de la aplicación, con beneficios y precios visibles para cada plan.
+
+- User goal: Como propietario de vehículo urbano, quiero iniciar sesión en la plataforma.
+![topic-2](/assets/imgs/chapter-IV/login.png)
+
+El usuario ingresa sus credenciales en la pantalla de login. Si son correctas, accede a la pantalla principal donde puede visualizar diagnósticos, conectar su vehículo y acceder a la biblioteca.
+
+- User goal: Como mecánico automotriz, quiero conectar el escáner al vehículo vía Bluetooth.
+![topic-3](/assets/imgs/chapter-IV/bluetooth-conection.png)
+
+El mecánico accede a la sección de conexión Bluetooth, sigue las instrucciones de vinculación del dispositivo, y tras conectar exitosamente el escáner, puede iniciar el diagnóstico, adaptándose al plan STANDARD o PRO.
+
+- User goal: Como propietario de vehículo urbano, quiero registrar mi vehículo en la aplicación.
+![topic-4](/assets/imgs/chapter-IV/add-new-vihecle.png)
+
+El propietario ingresa al sistema, accede a la opción de agregar un nuevo vehículo, completa la información necesaria y visualiza el estado del vehículo registrado, diferenciando los permisos entre plan STANDARD y PRO.
+
+- User goal: Como conductor independiente, quiero editar mis datos personales dentro de la plataforma.
+![topic-5](/assets/imgs/chapter-IV/editing-personal-information.png)
+
+Desde su perfil, el conductor puede actualizar información como nombre, correo y otros datos. Los usuarios del plan STANDARD encuentran restricciones en ciertas secciones, mientras que el plan PRO permite editar y visualizar todo el contenido.
+
 ### 4.4.3. Web Applications Mock-ups
 **Link:** [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
