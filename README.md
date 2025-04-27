@@ -30,6 +30,9 @@
   - **Link de la organización:** [https://github.com/open-source-crew-tech](https://github.com/open-source-crew-tech)
 
   - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report)
+
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+![commits img](/assets/imgs/chapter-I/commits.png)
 ---
 
 # Student Outcome
