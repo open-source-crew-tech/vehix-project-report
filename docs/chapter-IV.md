@@ -707,6 +707,175 @@ Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el t
 ![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+
+- User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
+![topic-1](/assets/imgs/chapter-IV/user-flow/register.png)
+
+El usuario llena un formulario de registro, elige un plan (Standard o Pro) y se suscribe para utilizar las funcionalidades de la aplicación, con beneficios y precios visibles para cada plan.
+
+- User goal: Como propietario de vehículo urbano, quiero iniciar sesión en la plataforma.
+![topic-2](/assets/imgs/chapter-IV/user-flow/Login.png)
+
+El usuario ingresa sus credenciales en la pantalla de login. Si son correctas, accede a la pantalla principal donde puede visualizar diagnósticos, conectar su vehículo y acceder a la biblioteca.
+
+- User goal: Como mecánico automotriz, quiero conectar el escáner al vehículo vía Bluetooth.
+![topic-3](/assets/imgs/chapter-IV/user-flow/bluetooth-connection.png)
+
+El mecánico accede a la sección de conexión Bluetooth, sigue las instrucciones de vinculación del dispositivo, y tras conectar exitosamente el escáner, puede iniciar el diagnóstico, adaptándose al plan STANDARD o PRO.
+
+- User goal: Como propietario de vehículo urbano, quiero registrar mi vehículo en la aplicación.
+![topic-4](/assets/imgs/chapter-IV/user-flow/add-new-vehicle.png)
+
+El propietario ingresa al sistema, accede a la opción de agregar un nuevo vehículo, completa la información necesaria y visualiza el estado del vehículo registrado, diferenciando los permisos entre plan STANDARD y PRO.
+
+- User goal: Como conductor independiente, quiero editar mis datos personales dentro de la plataforma.
+![topic-5](/assets/imgs/chapter-IV/user-flow/editing-personal-information.png)
+
+Desde su perfil, el conductor puede actualizar información como nombre, correo y otros datos. Los usuarios del plan STANDARD encuentran restricciones en ciertas secciones, mientras que el plan PRO permite editar y visualizar todo el contenido.
+
+- User goal: Como conductor independiente, quiero ver una descripción sencilla del problema detectado en mi vehículo.
+![topic-6](/assets/imgs/chapter-IV/user-flow/see-description.png)
+
+El conductor accede al diagnóstico rápido del vehículo, donde se muestra un resumen de las fallas detectadas. Los usuarios con plan PRO acceden al detalle técnico, mientras que los de plan STANDARD visualizan contenido bloqueado.
+
+- User goal: Como conductor independiente, quiero encontrar talleres mecánicos cercanos a mi ubicación.
+![topic-7](/assets/imgs/chapter-IV/user-flow/locate-a-mechanics-workshop.png)
+
+Después de realizar un escaneo vehicular, el usuario accede a una sección que muestra talleres mecánicos cercanos basados en GPS. Los usuarios del plan PRO visualizan detalles de talleres, mientras que los usuarios del plan STANDARD deben actualizar su plan para acceder a esta información.
+
+- User goal: Como mecánico automotriz, quiero acceder a una biblioteca automotriz.
+![topic-8](/assets/imgs/chapter-IV/user-flow/library.png)
+
+El usuario entra a la sección de biblioteca donde puede elegir entre videos tutoriales, artículos técnicos, manuales, avances del sector y recomendaciones de mantenimiento, facilitando su actualización profesional.
+
+- User goal: Como mecánico automotriz, quiero realizar un diagnóstico detallado del vehículo.
+![topic-9](/assets/imgs/chapter-IV/user-flow/pro-vehicle-diagnostics.png)
+
+Desde la sección de diagnóstico, el mecánico puede acceder a múltiples funcionalidades como pronóstico de fallas, vida útil del vehículo, diagnóstico rápido, historial de escaneos y reparaciones recientes, todo pensado para un análisis técnico completo.
+
+- User goal: Como conductor independiente, quiero renovar mi suscripción dentro de la plataforma.
+![topic-10](/assets/imgs/chapter-IV/user-flow/renew-subscription.png)
+
+El usuario accede a su perfil, visualiza el estado de su suscripción y procede a renovarla o cambiar de plan mediante un proceso de pago sencillo para no perder el acceso a las funcionalidades.
+
+- User goal: Como propietario de vehículo urbano, quiero realizar un escaneo básico de mi vehículo.
+![topic-11](/assets/imgs/chapter-IV/user-flow/standar-diagnosis.png)
+
+El usuario accede al diagnóstico estándar donde puede visualizar datos generales del vehículo y fallas encontradas. Parte del contenido técnico queda bloqueado para los usuarios de plan STANDARD, incentivando la actualización al plan PRO para obtener información más detallada.
+
+- User goal: Como propietario de vehículo urbano, quiero realizar el pago de mi suscripción de forma rápida.
+![topic-12](/assets/imgs/chapter-IV/user-flow/subscription-payment.png)
+
+Después de registrarse, el usuario elige entre el plan Standard o el plan Pro y procede a realizar el pago ingresando los datos requeridos. Dependiendo del plan seleccionado, el usuario accede a diferentes beneficios en la aplicación.
+
+- User goal: Como mecánico automotriz, quiero visualizar el estado técnico del vehículo con datos detallados.
+![topic-13](/assets/imgs/chapter-IV/user-flow/technical-data.png)
+
+Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identificados en el último escaneo. Los usuarios con plan PRO acceden a información detallada, mientras que los usuarios de plan STANDARD tienen contenido bloqueado que los invita a actualizar su plan.
+
+- User goal: Como conductor independiente, quiero consultar el estado de mi suscripción.
+![topic-14](/assets/imgs/chapter-IV/user-flow/view-subscription-status.png)
+
+Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
+
+
+**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/2d4d7fa2-3681-48f3-ab65-b0a939d8a934/edit?viewport_loc=-26575%2C-4225%2C46975%2C19525%2C0_0&invitationId=inv_07979f6b-6654-4d6f-9531-c3db9200aa75)
+
+
+- User goal: Como propietario de vehículo, quiero registrar un nuevo vehículo en mi cuenta.
+![topic-1](/assets/imgs/chapter-IV/user-flow/mobile/add-new-vehicle.png)
+
+El usuario accede a la sección de vehículos, selecciona agregar uno nuevo, introduce los datos correspondientes y finalmente puede visualizar la información básica y alertas del vehículo registrado.
+
+- User goal: Como propietario de vehículo, quiero conectar un escáner Bluetooth a mi vehículo.
+![topic-2](/assets/imgs/chapter-IV/user-flow/mobile/bluetooth-connection.png)
+
+El usuario ingresa a la sección de conexión Bluetooth, sigue las instrucciones de emparejamiento de dispositivos, conecta exitosamente el escáner y procede a iniciar el proceso de escaneo en su vehículo.
+
+- User goal: Como usuario registrado, quiero actualizar mi información personal y método de pago.
+![topic-3](/assets/imgs/chapter-IV/user-flow/mobile/editing-personal-information.png)
+
+Desde el menú de perfil, el usuario puede editar su nombre, correo, teléfono y actualizar su método de pago, además de visualizar su tipo de plan de suscripción y fecha del próximo cobro.
+
+
+- User goal: Como conductor, quiero encontrar talleres mecánicos cercanos a mi ubicación.
+![topic-4](/assets/imgs/chapter-IV/user-flow/mobile/locate-a-nerby-auto-repair-shop.png)
+
+Después de acceder al estado de su vehículo, el usuario puede localizar talleres cercanos a través de un mapa interactivo con información detallada de cada taller automotriz.
+
+- User goal: Como usuario registrado, quiero iniciar sesión en la plataforma.
+![topic-5](/assets/imgs/chapter-IV/user-flow/mobile/login.png)
+
+El usuario ingresa su usuario y contraseña en la pantalla de login. Una vez autenticado, accede al panel principal donde puede consultar el estado de sus vehículos y su historial de escaneos.
+
+- User goal: Como usuario, quiero cerrar sesión en la aplicación.
+![topic-6](/assets/imgs/chapter-IV/user-flow/mobile/logout.png)
+
+Desde el menú lateral, el usuario selecciona la opción "Log out", lo que lo redirige nuevamente a la pantalla de inicio de sesión, asegurando el cierre de su cuenta activa.
+
+- User goal: Como mecánico automotriz o conductor del plan PRO, quiero realizar un diagnóstico avanzado de mi vehículo.
+![topic-7](/assets/imgs/chapter-IV/user-flow/mobile/pro-diagnosis.png)
+
+El usuario del plan PRO accede a distintas secciones de diagnóstico avanzado que incluyen pronóstico de fallas, vida útil del vehículo, diagnósticos rápidos, historial de escaneos y localización de reparaciones recientes con mayor nivel de detalle.
+
+- User goal: Como mecánico automotriz del plan PRO, quiero acceder a una biblioteca de contenidos técnicos, manuales y avances automotrices.
+![topic-8](/assets/imgs/chapter-IV/user-flow/mobile/pro-library.png)
+
+Desde la sección de biblioteca, los usuarios PRO pueden ingresar a contenido exclusivo como artículos técnicos, manuales de reparación, noticias del sector y recomendaciones sobre mantenimiento y reparaciones, todo organizado de manera intuitiva.
+
+- User goal: Como nuevo usuario, quiero registrarme en la plataforma.
+![topic-9](/assets/imgs/chapter-IV/user-flow/mobile/register.png)
+
+El usuario completa el formulario de registro ingresando sus datos personales, eligiendo un género, y creando su cuenta, lo que le permite acceder a la plataforma y gestionar su suscripción.
+
+- User goal: Como usuario del plan PRO, quiero ver un resumen detallado de las fallas detectadas en mi vehículo.
+![topic-10](/assets/imgs/chapter-IV/user-flow/mobile/see-summary-description-of-the-vehicle-failure-plan-pro.png)
+
+El usuario visualiza un resumen gráfico de las áreas del vehículo que presentan fallos, acompañado de una descripción técnica detallada para facilitar la comprensión y posible solución de los problemas detectados.
+
+- User goal: Como usuario del plan Standard, deseo ver una versión resumida de las fallas de mi vehículo.
+![topic-11](/assets/imgs/chapter-IV/user-flow/mobile/see-summary-description-of-the-vehicle-failure-standard-plan.png)
+
+Después de realizar un escaneo básico, el usuario puede visualizar una lista limitada de las principales fallas detectadas.
+
+- User goal: Como usuario registrado, quiero actualizar mi información personal y método de pago.
+![topic-12](/assets/imgs/chapter-IV/user-flow/mobile/editing-personal-information.png)
+
+Desde el menú de perfil, el usuario puede editar su nombre, correo, teléfono y actualizar su método de pago, además de visualizar su tipo de plan de suscripción y fecha del próximo cobro.
+
+- User goal: Como usuario del plan Standard, deseo acceder a artículos y guías disponibles gratuitamente.
+![topic-13](/assets/imgs/chapter-IV/user-flow/mobile/standar-library.png)
+
+El usuario navega en la biblioteca y puede consultar artículos, guías y recomendaciones, con restricciones en algunas secciones premium.
+
+- User goal: Como usuario, quiero adquirir el plan PRO.
+![topic-14](/assets/imgs/chapter-IV/user-flow/mobile/subscription-payment-pro.png)
+
+El usuario se registra, elige el plan PRO, revisa el resumen de compra y completa el pago para acceder a funciones premium.
+
+- User goal: Como usuario, quiero adquirir el plan Standard.
+![topic-15](/assets/imgs/chapter-IV/user-flow/mobile/subscription-payment-standar.png)
+
+El usuario se registra, selecciona el plan Standard, revisa los detalles de la suscripción y completa el proceso de pago.
+
+- User goal: Como usuario del plan Standard, deseo ver el estado de mi suscripción y cuándo debo renovarla.
+![topic-16](/assets/imgs/chapter-IV/user-flow/mobile/view-pro-plan-subscription-standar.png)
+
+Desde la sección "Personal Information", el usuario revisa el tipo de plan activo, el método de pago y la fecha del siguiente cobro.
+
+- User goal: Como usuario del plan PRO, deseo visualizar el estado y detalles de mi suscripción activa.
+![topic-17](/assets/imgs/chapter-IV/user-flow/mobile/view-pro-plan-subscription-status.png)
+
+En el perfil de usuario, se muestra el tipo de plan PRO contratado, la información de pago y la fecha de renovación.
+
+- User goal: Como usuario del plan Standard, deseo validar mi suscripción y estado de conexión Bluetooth de forma sencilla.
+![topic-18](/assets/imgs/chapter-IV/user-flow/mobile/view-subscription-status.png)
+
+ El usuario puede ver su historial de escaneos, los dispositivos conectados y el estado general de su plan Standard.
+
 ## 4.5. Web Applications Prototyping
 **Link:** [Prototipo en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
