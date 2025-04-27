@@ -50,7 +50,7 @@
 
   - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report
   
-  -   - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
 
 ---
 
