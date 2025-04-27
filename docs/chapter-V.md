@@ -419,6 +419,8 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 
 Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
 
+link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
+
 ![banner img](/assets/imgs/chapter-V/banner_evidence.png)
 
 ![first_time_evidence img](/assets/imgs/chapter-V/first_time_evidence.png)
