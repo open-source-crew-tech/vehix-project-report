@@ -574,6 +574,8 @@ Mobile:
 ![topic-7](/assets/imgs/chapter-IV/wireframe/plan-standard/topic-7.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/register.png)
