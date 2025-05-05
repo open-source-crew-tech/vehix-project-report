@@ -571,8 +571,23 @@ Edad: 25 años
 Distrito: Chorrillos
 
 
-Resumen: Lucas es un conductor joven que vive en la ciudad, se lleva bien con la tecnología y sabe que debe cuidar su auto, aunque no lo hace de forma muy organizada. Normalmente espera a que el tablero del carro le avise o a escuchar ruidos raros para llevarlo al taller. Ya tuvo que pagar una reparación cara por no haber hecho el mantenimiento a tiempo, así que está abierto a opciones que le ayuden a prevenir ese tipo de problemas.
-Le gusta la idea de usar una app para recibir alertas, saber qué le pasa a su auto y mejorar su forma de manejar. Cree que sería muy útil tener una herramienta que lo ayude a evitar fallas grandes y a cuidar mejor su carro. Está dispuesto a pagar entre 20 y 30 soles al mes si el servicio realmente le da beneficios que pueda notar.
+Resumen: 
+Lucas es un conductor joven que vive en la ciudad. Usa su vehículo con frecuencia, aunque no lleva un control organizado del mantenimiento. Actúa solo cuando el auto muestra alertas o presenta fallas. Ya enfrentó una reparación costosa por no hacer mantenimiento a tiempo, lo que lo motivó a buscar formas de prevención.
+
+Actitudes y motivaciones:
+Quiere evitar fallas grandes, ahorrar dinero y mejorar su conducción. Le interesa recibir alertas e información clara sobre el estado del auto. Está dispuesto a pagar entre 20 y 30 soles mensuales por una app que ofrezca beneficios tangibles.
+
+Uso de tecnología:
+Se siente cómodo con aplicaciones móviles. Usa principalmente smartphone (Android) y navegador Chrome. Consulta YouTube y redes sociales para resolver dudas sobre su auto.
+
+Frustraciones:
+No saber cuándo hacer mantenimiento, depender de alertas del tablero, y enfrentar reparaciones evitables.
+
+Influencias y canales:
+Confía en apps con buena experiencia de usuario como Waze o Spotify. Busca información en redes, videos y recomendaciones de amigos.
+
+Skills:
+Tiene conocimientos básicos de mecánica, interpreta alertas simples y está abierto a aprender más si la tecnología es clara y útil.
 
 Entrevista 2:
 
