@@ -572,22 +572,8 @@ Distrito: Chorrillos
 
 
 Resumen: 
-Lucas es un conductor joven que vive en la ciudad. Usa su vehículo con frecuencia, aunque no lleva un control organizado del mantenimiento. Actúa solo cuando el auto muestra alertas o presenta fallas. Ya enfrentó una reparación costosa por no hacer mantenimiento a tiempo, lo que lo motivó a buscar formas de prevención.
+Lucas es un conductor joven de Chorrillos que usa su vehículo con frecuencia, pero no lleva un control ordenado del mantenimiento. Solo actúa cuando el auto presenta fallas, lo que ya le costó una reparación cara. Está interesado en prevenir problemas, ahorrar dinero y mejorar su conducción. Le gustaría usar una app que le envíe alertas y le brinde información clara, y está dispuesto a pagar entre 40 y 60 soles mensuales si realmente nota beneficios. Es hábil con el uso de la tecnología, usa principalmente su smartphone Android y el navegador Chrome, y consulta YouTube y redes sociales para resolver dudas. Le frustran las fallas inesperadas y depender solo de las alertas del tablero. Tiene conocimientos básicos de mecánica y está abierto a aprender más si la herramienta es clara y práctica. 
 
-Actitudes y motivaciones:
-Quiere evitar fallas grandes, ahorrar dinero y mejorar su conducción. Le interesa recibir alertas e información clara sobre el estado del auto. Está dispuesto a pagar entre 20 y 30 soles mensuales por una app que ofrezca beneficios tangibles.
-
-Uso de tecnología:
-Se siente cómodo con aplicaciones móviles. Usa principalmente smartphone (Android) y navegador Chrome. Consulta YouTube y redes sociales para resolver dudas sobre su auto.
-
-Frustraciones:
-No saber cuándo hacer mantenimiento, depender de alertas del tablero, y enfrentar reparaciones evitables.
-
-Influencias y canales:
-Confía en apps con buena experiencia de usuario como Waze o Spotify. Busca información en redes, videos y recomendaciones de amigos.
-
-Skills:
-Tiene conocimientos básicos de mecánica, interpreta alertas simples y está abierto a aprender más si la tecnología es clara y útil.
 
 Entrevista 2:
 
@@ -605,7 +591,7 @@ Edad: 25 años
 
 Distrito: Lima, Villa el Salvador
 
-Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control estricto del mantenimiento. Su experiencia con una reparación costosa por falta de revisión lo hace más receptivo a soluciones preventivas. Está cómodo con la tecnología y usaría una app siempre que sea fácil de entender. Le interesa recibir alertas sobre fallas y consejos para mejorar su conducción. Valora poder evitar gastos imprevistos y alargar la vida útil de su vehículo, y estaría dispuesto a pagar un monto accesible si la app realmente le ayuda.
+Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control riguroso del mantenimiento. Tras una reparación costosa por falta de revisión, ahora está más abierto a soluciones preventivas. Se siente cómodo con la tecnología y usaría una app si es simple e intuitiva. Le interesa recibir alertas sobre fallas, consejos de conducción y recordatorios de mantenimiento. Usa principalmente su smartphone Android y el navegador Chrome, y suele informarse por YouTube y redes sociales. Le frustra no tener señales claras sobre el estado del auto y valora herramientas que le ayuden a evitar gastos imprevistos. Tiene conocimientos básicos de mecánica y está dispuesto a aprender si la app es clara y útil. Su objetivo es mantener su vehículo en buen estado sin complicarse, evitando fallas costosas y prolongando su vida útil mediante herramientas tecnológicas que lo guíen de forma sencilla y práctica
 
 Entrevista 3:
 
@@ -643,7 +629,11 @@ Edad: 25 años
 
 Distrito: Chorrillos 
 
-Resumen: Sebastián es un conductor que realiza el mantenimiento de su vehículo de manera reactiva, aproximadamente cada tres o cuatro meses, sin seguir un calendario fijo. Suele acudir al taller solo cuando escucha ruidos extraños o percibe alguna falla. Esta falta de control ya le ha generado problemas costosos, como una falla en la bomba de gasolina en plena jornada, lo que lo obligó a cancelar su trabajo y asumir una reparación costosa. En el día a día, se guía únicamente por los testigos del tablero y no cuenta con herramientas que le brinden un diagnóstico claro del estado de su vehículo. Reconoce que una conducción brusca acelera el desgaste, pero a veces no puede evitarlo debido al ritmo de trabajo. Probó una app que se conectaba a un escáner OBD prestado, pero la experiencia fue negativa porque mostraba códigos técnicos que no entendía. Por eso, valora una aplicación sencilla, con alertas claras, resúmenes semanales del estado del auto, recomendaciones de conducción y recordatorios de mantenimiento. Está dispuesto a pagar una suscripción mensual si esta le permite prevenir fallas, reducir gastos en reparaciones y trabajar con mayor tranquilidad. Su perfil representa a un usuario práctico que busca soluciones accesibles y fáciles de usar.
+Resumen: Sebastián, un joven de 25 años, que vive en Chorrillos, realiza el mantenimiento de su vehículo de forma reactiva, cada 3 o 4 meses, solo cuando detecta fallas evidentes como ruidos extraños. Esto ya le ha causado problemas serios, como una avería en la bomba de gasolina que afectó su trabajo e ingresos. Se guía únicamente por las luces del tablero y no cuenta con herramientas para conocer el estado real del auto.
+
+Reconoce que su conducción brusca acelera el desgaste, pero a veces es inevitable por el ritmo laboral. Probó una app conectada a un escáner OBD, pero la experiencia fue negativa porque no entendía los códigos técnicos. Por eso, valora una app sencilla con alertas claras, resúmenes semanales, recomendaciones de conducción y recordatorios de mantenimiento.
+
+Accede principalmente desde su smartphone Android usando el navegador Chrome. Aunque entiende las alertas básicas del tablero, necesita una interfaz más comprensible. Se inclina por marcas de autos como Kia y Toyota, y usualmente usa apps como Youtube e instagram. Está dispuesto a pagar una suscripción mensual si le ayuda a prevenir fallas, reducir gastos y trabajar con mayor tranquilidad. Se frustra por no poder anticiparse a los problemas mecánicos y desea una solución práctica y fácil de usar.
 
 Entrevista 5:
 
