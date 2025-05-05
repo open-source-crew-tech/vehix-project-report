@@ -469,6 +469,19 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué valor tendría para ti poder corregir malas prácticas de conducción con ayuda de una app?
 
+¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
+
+¿Tienes conocimientos técnicos sobre mecánica automotriz, mantenimiento o diagnóstico?
+
+¿Qué redes sociales usas más?
+
+¿Dónde buscas normalmente información sobre tu auto (YouTube, blogs, talleres, apps, amigos)?
+
+¿Te planteaste o tienes algún objetivo en mente con respecto al uso y mantenimiento del vehículo?
+
+¿Qué te frustra sobre tener un vehículo?
+
+
 #### Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):
 ¿Cada cuánto tiempo realizas el mantenimiento de tu vehículo y cómo decides cuándo hacerlo?
 
