@@ -18,13 +18,13 @@ Segemento 3:
 
 | Epic /Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | ----- | ----- | ----- |
-| EP01 | Gestión de usuarios | \- | \- | \- |
-| EP02 | Información de la plataforma (Landing Page) | \- | \- | \- |
-| EP03 | Diagnóstico y mantenimiento vehicular | \- | \- | \- |
-| EP04 | Conectividad del vehículo | \- | \- | \- |
-| EP05 | Gestión de mecánicos | \- | \- | \- |
-| EP05 | Suscripciones y pagos | \- | \- | \- |
-| EP07 | Funcionalidades API RESTFUL (Developer) | \-  | \- | \- |
+| EP01 | Gestión de usuarios |**Como** conductor independiente **quiero** crear una cuenta en la aplicación **para** asegurar mis datos y registros| \- | \- |
+| EP02 | Información de la plataforma (Landing Page) |**Como** visitante del segmento de propietarios de vehículos urbanos **quiero** información detallada y precisa de lo que ofrece el sitio web **para** poder encontrar información necesaria. | \- | \- |
+| EP03 | Diagnóstico y mantenimiento vehicular | **Como** conductor independiente **quiero** realizar un estudio de mi vehículo en tiempo real y rápido **para** prevenir mantener mi carro en buen estado. | \- | \- |
+| EP04 | Conectividad del vehículo | **Como** propietario de vehículos urbanos **quiero** conectar mi vehículo por medio de la aplicación **para** enterarme de los datos de este | \- | \- |
+| EP05 | Gestión de mecánicos | **Como** mecánico automotriz **quiero** quiero examinar vehículos por la aplicación **para** obtener un diagnóstico rápido y eficiente| \- | \- |
+| EP05 | Suscripciones y pagos | **Como** conductor independiente **quiero** suscribirme a su aplicación **para** obtener acceso completo a todas las funciones disponibles | \- | \- |
+| EP07 | Funcionalidades API RESTFUL (Developer) | **Como** desarrollador **quiero** manejar la aplicación mediante APIrest **para** controlar los datos y el flujo de este por toda la solución.  | \- | \- |
 | US01 | Registro de cuenta | **Como** propietario de vehículo urbano, **quiero** crear una cuenta **para** ingresar a la aplicación | **Escenario 1: Registro exitoso Dado** que el propietario de vehículo urbano ingresa información válida, **Cuando** solicita el registro, **Entonces** su cuenta se activa correctamente y puede acceder a la plataforma. **Escenario 2: Registro con errores Dado** que el propietario de vehículo urbano ingresa información incompleta o incorrecta, **Cuando** intenta registrarse, **Entonces** el sistema le notifica sobre el problema y le permite corregirlo.  | EP01 |
 | US02 | Navegación rápida | **Como** visitante del segmento mecánico automotriz **quiero** moverme rápidamente por las secciones de la plataforma **para** mayor comodidad. | **Escenario 1: Acceso fluido a secciones Dado** que el visitante mecánico automotriz se encuentra explorando la plataforma, **Cuando** solicita una sección específica, **Entonces** la información se carga rápidamente y sin obstáculos. **Escenario 2: Retroalimentación visual Dado** que el visitante mecánico automotriz se encuentra explorando en la plataforma, **Cuando** interactúa con una sección específica **Entonces** el sistema indica la interacción con un elemento navegable.  | EP02 |
 | US03 | Evidencia de beneficios | **Como** visitante del segmento propietarios de vehículo urbano **quiero** ver los beneficios de usar la plataforma, **para** motivarme a probarla. | **Escenario 1: Visualización de beneficios Dado** que el visitante propietario de vehículo urbano navega por la landing page **Cuando** ve la información de los beneficios **Entonces** puede identificar rápidamente los precios y los beneficios de usar la plataforma. **Escenario 2: Identificación de planes Dado** que el visitante propietario de vehículo urbano navega por la landing page **Cuando** ve la información de los beneficios **Entonces** se identifica e interesa por la aplicación  | EP02 |
