@@ -550,6 +550,8 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ### 2.2.2. Registro de entrevistas
 
+A continuación, se presentarán las entrevistas realizadas, desarrollando un resumen de cada una, extrayendo las respuestas e identificando las características objetivas y subjetivas.
+
 link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EYpGQVx-EgBErpjNXjetCO8BCMPzhP1T3tUCnnB_lBSyow?e=Sxl1uU
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
@@ -572,7 +574,8 @@ Distrito: Chorrillos
 
 
 Resumen: 
-Lucas es un conductor joven de Chorrillos que usa su vehículo con frecuencia, pero no lleva un control ordenado del mantenimiento. Solo actúa cuando el auto presenta fallas, lo que ya le costó una reparación cara. Está interesado en prevenir problemas, ahorrar dinero y mejorar su conducción. Le gustaría usar una app que le envíe alertas y le brinde información clara, y está dispuesto a pagar entre 40 y 60 soles mensuales si realmente nota beneficios. Es hábil con el uso de la tecnología, usa principalmente su smartphone Android y el navegador Chrome, y consulta YouTube y redes sociales para resolver dudas. Le frustran las fallas inesperadas y depender solo de las alertas del tablero. Tiene conocimientos básicos de mecánica y está abierto a aprender más si la herramienta es clara y práctica. 
+Lucas es un conductor joven de Chorrillos que usa su vehículo con frecuencia, pero no lleva un control ordenado del mantenimiento. Solo actúa cuando el auto presenta fallas, lo que ya le costó una reparación cara. Está interesado en prevenir problemas, ahorrar dinero y mejorar su conducción. Le gustaría usar una app que le envíe alertas y le brinde información clara, y está dispuesto a pagar entre 40 y 60 soles mensuales si realmente nota beneficios. 
+Es hábil con el uso de la tecnología, usa principalmente su smartphone Android y el navegador Chrome, y consulta YouTube y redes sociales para resolver dudas. Le frustran las fallas inesperadas y depender solo de las alertas del tablero. Tiene conocimientos básicos de mecánica y está abierto a aprender más si la herramienta es clara y práctica. 
 
 
 Entrevista 2:
@@ -591,7 +594,8 @@ Edad: 25 años
 
 Distrito: Lima, Villa el Salvador
 
-Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control riguroso del mantenimiento. Tras una reparación costosa por falta de revisión, ahora está más abierto a soluciones preventivas. Se siente cómodo con la tecnología y usaría una app si es simple e intuitiva. Le interesa recibir alertas sobre fallas, consejos de conducción y recordatorios de mantenimiento. Usa principalmente su smartphone Android y el navegador Chrome, y suele informarse por YouTube y redes sociales. Le frustra no tener señales claras sobre el estado del auto y valora herramientas que le ayuden a evitar gastos imprevistos. Tiene conocimientos básicos de mecánica y está dispuesto a aprender si la app es clara y útil. Su objetivo es mantener su vehículo en buen estado sin complicarse, evitando fallas costosas y prolongando su vida útil mediante herramientas tecnológicas que lo guíen de forma sencilla y práctica
+Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control riguroso del mantenimiento. Tras una reparación costosa por falta de revisión, ahora está más abierto a soluciones preventivas. Se siente cómodo con la tecnología y usaría una app si es simple e intuitiva. Le interesa recibir alertas sobre fallas, consejos de conducción y recordatorios de mantenimiento. 
+Usa principalmente su smartphone Android y el navegador Chrome, y suele informarse por YouTube y redes sociales. Le frustra no tener señales claras sobre el estado del auto y valora herramientas que le ayuden a evitar gastos imprevistos. Tiene conocimientos básicos de mecánica y está dispuesto a aprender si la app es clara y útil. Su objetivo es mantener su vehículo en buen estado sin complicarse, evitando fallas costosas y prolongando su vida útil mediante herramientas tecnológicas que lo guíen de forma sencilla y práctica
 
 Entrevista 3:
 
@@ -689,7 +693,18 @@ Edad: 53 años
 
 Distrito: Villa el salvador
 
-Resumen: Se entrevistó a Richard Rios, un mecánico automotriz, realizando las respectivas preguntas de la entrevista para conocer los desafíos de su trabajo y como la tecnología podría ser de ayuda mediante una app. Richard comenta que los clientes la mayoría de veces no conocen que parte del carro está fallando cuando llegan a su taller. También destaca que le uso de una app sería beneficioso para tener un historial de mantenimiento del vehículo que va a reparaar, lo cual lo ayudaría a atender a los clientes de manera más efectiva. Destaca también lo importante que sería para él tener una app que realicé diagnósticos más precisos, para ofrecer un mejor servicio. Termina la entrevista diciendo que estaría a dispuesto a pagar por una suscripción por usar una app que le ofrezca visibilidad de su taller y ayuda para mejorar su trabajo diario.
+Resumen: Richard Rios, mecánico con formación principalmente empírica, comenta que la mayoría de sus clientes llegan al taller sin saber qué le ocurre a su vehículo, lo que le hace perder tiempo en diagnósticos que podrían haberse detectado con anticipación. Este tipo de situaciones retrasa su flujo de trabajo y puede afectar la calidad del servicio.
+
+Ve con muy buenos ojos el uso de una app que proporcione diagnósticos previos, ya que eso le permitiría atender con mayor precisión y rapidez. Considera especialmente útil contar con un panel que muestre el historial técnico del vehículo, lo cual mejoraría la comunicación con el cliente y la toma de decisiones. Para él, una herramienta con diagnósticos precisos y datos de sensores sería clave para ofrecer un servicio más profesional.
+
+Richard también se muestra interesado en que su taller aparezca en un mapa digital dentro de la app, lo que le daría mayor visibilidad y podría atraer nuevos clientes. Está dispuesto a pagar una suscripción mensual si la plataforma le brinda herramientas útiles y mejora su trabajo diario.
+
+En cuanto a la información técnica que considera más útil, menciona: códigos de falla interpretados en lenguaje claro, historial de mantenimientos, y alertas sobre componentes críticos. Actualmente utiliza escáneres OBD y herramientas básicas, pero no apps digitales específicas ni sistemas de gestión.
+
+Accede principalmente desde su smartphone Android y usa con frecuencia el navegador Chrome, aunque también utiliza una laptop para tareas administrativas.
+
+Richard valora más marcas como Mobil y Amelie, además valora la tecnología que mejora la eficiencia del taller. Su objetivo profesional es brindar un servicio más moderno y confiable. Lo que más le frustra de su trabajo es la falta de información previa del vehículo, el tiempo que pierde en explicaciones repetitivas, y la falta de herramientas tecnológicas que le permitan mejorar su productividad.
+
 
 Entrevista 8:
 
