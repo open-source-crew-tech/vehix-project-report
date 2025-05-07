@@ -89,15 +89,15 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual del **mantenimiento vehicular en Perú** se ha enfocado principalmente en **talleres tradicionales, reparaciones reactivas y usuarios con poco conocimiento técnico que dependen en gran medida de mecánicos externos**.
+El estado actual del **mantenimiento vehicular en Perú** depende principalmente de servicios tradicionales y reactivos, donde la mayoría de conductores no cuentan con acceso a información en tiempo real sobre las condiciones de sus vehículos. Los conductores particulares y profesionales suelen postergar el mantenimiento por falta de conocimientos técnicos, tiempo o herramientas predictivas, mientras que los mecánicos trabajan muchas veces sin apoyo digital ni sistemas estructurados de diagnóstico.
 
-Lo que los productos y servicios actuales no abordan es **la falta de herramientas digitales accesibles, comprensibles y proactivas que empoderen a los conductores comunes a tomar el control del estado de su vehículo**.
+Lo que los productos y servicios actuales no resuelven es **la necesidad de una solución tecnológica de bajo costo, accesible y fácil de usar que permita realizar mantenimiento preventivo y predictivo, brindando alertas oportunas, explicaciones simples y decisiones basadas en datos**.
 
-Nuestro producto, **Vehix**, abordará esta brecha al **ofrecer una solución móvil que combina un adaptador de diagnóstico Bluetooth, alertas en tiempo real y visualización clara del estado técnico, para facilitar el mantenimiento preventivo en usuarios no técnicos**.
+Nuestro producto, **Vehix**, cubrirá esta brecha al **ofrecer una app móvil conectada a un adaptador Bluetooth que recolecta y analiza datos del vehículo en tiempo real para generar diagnósticos básicos, alertas de mantenimiento, historial de intervenciones y recomendaciones personalizadas**.
 
-Nuestro enfoque inicial estará en **conductores urbanos de Perú —especialmente trabajadores independientes como repartidores y taxistas— que dependen de su vehículo a diario y necesitan soporte confiable y económico**.
+Nuestro enfoque inicial estará dirigido a **conductores urbanos independientes (como repartidores y taxistas), conductores particulares y mecánicos tradicionales que desean modernizar sus diagnósticos y generar confianza con sus clientes a través de datos técnicos claros y confiables**.
 
-Sabremos que hemos tenido éxito cuando veamos **una reducción del 30% en reparaciones correctivas, un aumento del 50% en mantenimientos preventivos, y más del 25% de usuarios suscritos a un plan pago en los primeros 6 meses**.
+Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en reparaciones correctivas, un aumento del 50% en acciones de mantenimiento preventivo, más del 25% de usuarios suscritos al plan mensual, y un 60% de calificaciones positivas a talleres certificados dentro de la app**.
 
 #### 1.2.2.2. Lean UX Assumptions
 
