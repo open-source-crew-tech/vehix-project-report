@@ -89,12 +89,11 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos, y el poco conocimiento técnico. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
+Vehix fue concebido como una solución tecnológica para ayudar a los conductores a realizar un mantenimiento preventivo adecuado de sus vehículos, brindando información en tiempo real sobre el estado técnico del auto. Su objetivo es extender la vida útil del vehículo, reducir los costos de reparación y mejorar la experiencia de conducción a través de decisiones informadas.
 
-A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
+Sin embargo, hemos observado que muchos conductores en Perú siguen enfrentando dificultades para mantener sus vehículos adecuadamente, debido a la falta de conocimientos técnicos y a la inexistencia de herramientas accesibles que les permitan interpretar datos relevantes sobre el estado de sus autos. Esto ha provocado un incremento en fallos mecánicos imprevistos, mayores gastos por reparaciones correctivas, y una reducción en la vida útil del vehículo, lo que impacta directamente en la economía personal y la seguridad del conductor.
 
-Ante esta situación, surge nuestra pregunta de negocio: 
-***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y técnico, y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo?***
+¿Cómo podríamos mejorar nuestra solución para que los conductores logren un mantenimiento preventivo exitoso, como se evidencie por una disminución del 30 % en reparaciones correctivas, un aumento del 50 % en intervenciones preventivas realizadas a tiempo, y una mejora significativa en el índice de satisfacción del usuario con respecto a la salud técnica de su vehículo?
 
 #### 1.2.2.2. Lean UX Assumptions
 
