@@ -89,11 +89,15 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-Vehix fue concebido como una solución tecnológica para ayudar a los conductores a realizar un mantenimiento preventivo adecuado de sus vehículos, brindando información en tiempo real sobre el estado técnico del auto. Su objetivo es extender la vida útil del vehículo, reducir los costos de reparación y mejorar la experiencia de conducción a través de decisiones informadas.
+El estado actual del **mantenimiento vehicular en Perú** se ha enfocado principalmente en **talleres tradicionales, reparaciones reactivas y usuarios con poco conocimiento técnico que dependen en gran medida de mecánicos externos**.
 
-Sin embargo, hemos observado que muchos conductores en Perú siguen enfrentando dificultades para mantener sus vehículos adecuadamente, debido a la falta de conocimientos técnicos y a la inexistencia de herramientas accesibles que les permitan interpretar datos relevantes sobre el estado de sus autos. Esto ha provocado un incremento en fallos mecánicos imprevistos, mayores gastos por reparaciones correctivas, y una reducción en la vida útil del vehículo, lo que impacta directamente en la economía personal y la seguridad del conductor.
+Lo que los productos y servicios actuales no abordan es **la falta de herramientas digitales accesibles, comprensibles y proactivas que empoderen a los conductores comunes a tomar el control del estado de su vehículo**.
 
-¿Cómo podríamos mejorar nuestra solución para que los conductores logren un mantenimiento preventivo exitoso, como se evidencie por una disminución del 30 % en reparaciones correctivas, un aumento del 50 % en intervenciones preventivas realizadas a tiempo, y una mejora significativa en el índice de satisfacción del usuario con respecto a la salud técnica de su vehículo?
+Nuestro producto, **Vehix**, abordará esta brecha al **ofrecer una solución móvil que combina un adaptador de diagnóstico Bluetooth, alertas en tiempo real y visualización clara del estado técnico, para facilitar el mantenimiento preventivo en usuarios no técnicos**.
+
+Nuestro enfoque inicial estará en **conductores urbanos de Perú —especialmente trabajadores independientes como repartidores y taxistas— que dependen de su vehículo a diario y necesitan soporte confiable y económico**.
+
+Sabremos que hemos tenido éxito cuando veamos **una reducción del 30% en reparaciones correctivas, un aumento del 50% en mantenimientos preventivos, y más del 25% de usuarios suscritos a un plan pago en los primeros 6 meses**.
 
 #### 1.2.2.2. Lean UX Assumptions
 
