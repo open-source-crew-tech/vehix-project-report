@@ -119,9 +119,9 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 - Reducir en un 35% el tiempo promedio entre la detección de fallas y su reparación.
 - Incrementar en un 50% los mantenimientos preventivos realizados por usuario mensual.
 - Aumentar la satisfacción del usuario con respecto al control técnico del vehículo en un 40%.
-- Reducir en un 35% el tiempo promedio entre la detección del fallo y la reparación efectiva.
 - Lograr que el 60% de los usuarios califiquen con 4 estrellas o más a talleres certificados.
 - Lograr que al menos el 25% de los usuarios activos se suscriban a planes pagos.
+- Disminuir en un 30% los gastos en reparaciones correctivas por usuario en un periodo de 6  meses.
 
 **User Assumptions**
 
@@ -174,20 +174,60 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 + Facilidad de uso sin necesidad de conocimientos mecánicos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-- _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
 
-- _Creemos que existe un mercado creciente de propietarios de vehículos que buscan soluciones tecnológicas para mejorar la eficiencia y reducir los costos de mantenimiento de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando recibamos un aumento del 40% de comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
+- **Hypothesis Statements 1:**
+Creemos que lograremos que el 70% de los diagnósticos básicos sean realizados directamente por los usuarios, sin necesidad de acudir a un taller
+Si conductores con poco conocimiento técnico
+Alcanzan la autonomía para diagnosticar fallas básicas desde su celular sin ayuda externa
+Con el adaptador de diagnóstico Vehix con conexión Bluetooth.
 
-- _Creemos que la aplicación Vehix puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción del 15% a más en los costos de mantenimiento y reparación de los vehículos de los usuarios a través de encuestas por medio de la app.
+- **Hypothesis Statements 2:**
+Creemos que lograremos alcanzar una calificación promedio de 4 estrellas o más en encuestas sobre confianza en los diagnósticos
+Si usuarios que no comprenden la jerga técnica automotriz
+Alcanzan la capacidad de entender el estado del auto con explicaciones claras y visuales
+Con la funcionalidad de traducción automática de códigos de falla a lenguaje sencillo.
 
-- _Creemos que la aplicación Vehix puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 25% de comentarios positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
+- **Hypothesis Statements 3:**
+Creemos que lograremos aumentar la satisfacción del usuario con respecto a la salud técnica del vehículo en un 40%
+Si conductores que desean tener control sobre el estado de su vehículo
+Alcanzan una comprensión visual confiable del estado técnico de su auto
+Con la visualización gráfica del estado del vehículo.
 
-- _Creemos que la aplicación Vehix puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
+- **Hypothesis Statements 4:**
+Creemos que lograremos reducir en un 35% el tiempo promedio entre la detección de fallas y su reparación
+Si usuarios que necesitan tomar decisiones rápidas
+Alcanzan la capacidad de revisar el historial de intervenciones y monitorear el estado del vehículo a lo largo del tiempo
+Con el historial de diagnósticos y alertas guardado por fecha.
+
+- **Hypothesis Statements 5:**
+Creemos que lograremos reducir los costos de reparación correctiva en un 30%
+Si usuarios que normalmente ignoran señales tempranas
+Alcanzan la habilidad de anticipar fallas antes de que se vuelvan costosas
+Con la funcionalidad de alertas de tiempo real de fallas.
+
+- **Hypothesis Statements 6:**
+Creemos que lograremos incrementar en un 50% los mantenimientos preventivos realizados por usuario mensual
+Si conductores que no llevan un control estructurado de mantenimiento
+Alcanzan recomendaciones de mantenimiento personalizadas según sus hábitos de conducción
+Con la funcionalidad de recomendaciones preventivas basadas en patrones de uso del vehículo.
+
+- **Hypothesis Statements 7:**
+Creemos que lograremos aumentar la satisfacción del usuario con respecto al control técnico del vehículo en un 40%
+Si conductores que desean tomar mejores decisiones sobre mantenimiento
+Alcanzan la capacidad de revisar el historial de intervenciones y planificar futuros mantenimientos
+Con el historial completo de intervenciones realizadas.
+
+- **Hypothesis Statements 8:**
+Creemos que lograremos que el 60% de los usuarios califiquen con 4 estrellas o más a talleres certificados
+Si usuarios que necesitan ayuda profesional cerca de su ubicación
+Alcanzan acceso rápido a talleres validados cerca de su ubicación
+Con la funcionalidad de geolocalización de talleres cercanos validados por Vehix.
+
+- **Hypothesis Statements 9:**
+Creemos que lograremos que al menos el 25% de los usuarios activos se suscriban a planes pagos
+Si usuarios que buscan funciones avanzadas para gestionar mejor su vehículo
+Alcanzan acceso a funcionalidades avanzadas según su plan de suscripción (Standard o PRO)
+Con los planes Vehix: Standard y PRO con beneficios diferenciados.
 
 #### 1.2.2.4. Lean UX Canvas
 ![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.png)
