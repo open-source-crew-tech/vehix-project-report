@@ -154,12 +154,16 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 - Acceden a funcionalidades avanzadas según su plan de suscripción (Standard o PRO)
 
 **Features**
-+ **Apdatador diagnóstico para vehículos:** Un adapatador diagnóstico con chip ELM327 instalado en el vehículo que exporta datos a tu celular sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
-+ **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
-+ **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
-+ **Asistente de conducción inteligente:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
-+ **Informes detallados sobre el rendimiento del vehículo:** Resúmenes periódicos que proporcionen a los usuarios una visión completa de cómo están cuidando su vehículo y qué acciones se deben tomar a continuación.
-
+- **Traducción automática de códigos de falla a lenguaje sencillo:** Convierte los códigos técnicos que genera el vehículo (como P0420, U0101, etc.) en descripciones simples y entendibles para cualquier usuario, facilitando la toma de decisiones sin necesidad de conocimientos mecánicos.
+- **Adaptador de diagnóstico Vehix con conexión Bluetooth:** Dispositivo físico que se conecta al puerto OBD-II del vehículo y envía datos técnicos al celular mediante Bluetooth. Permite escanear el estado del motor, sensores y otros sistemas del auto en tiempo real desde la app.
+- **Visualización gráfica del estado del vehículo:** Muestra el estado general del auto en un panel visual intuitivo, con indicadores de salud para componentes clave como motor, batería, sistema de frenos, temperatura y más. Ayuda al usuario a entender de forma visual cómo se encuentra su auto.
+- **Historial de diagnósticos y alertas guardado por fecha:** Registra todos los eventos importantes detectados por el sistema (fallas, advertencias, escaneos) en una línea de tiempo organizada. Esto permite al usuario revisar fácilmente el historial técnico del vehículo en cualquier momento.
+- **Alertas de tiempo real de fallas:** Notifica al instante cuando el vehículo detecta un problema urgente o crítico. Las alertas llegan directamente al celular del usuario para actuar rápidamente y evitar daños mayores.
+- **Recomendaciones preventivas basadas en patrones de uso del vehículo:** Analiza cómo maneja el usuario (distancia recorrida, frenado, uso del motor, etc.) y sugiere mantenimientos preventivos específicos adaptados a sus hábitos, como cambio de aceite, revisión de frenos, etc.
+- **Historial completo de intervenciones realizadas:** Permite al usuario registrar las reparaciones o mantenimientos que ha hecho (manualmente o automáticamente) con fechas, tipo de trabajo y taller. Esto ayuda a llevar un control del mantenimiento y facilita futuras decisiones.
+- **Geolocalización de talleres cercanos validados por Vehix:** Muestra en un mapa los talleres certificados por Vehix, permitiendo al usuario encontrar rápidamente un lugar confiable para atender su vehículo según su ubicación.
+- **Planes Vehix: Standard y PRO con beneficios diferenciados:** Vehix ofrece un modelo de suscripción mensual con planes escalables. El plan Standard brinda acceso a las funciones esenciales, mientras que el PRO incluye características premium como reportes detallados, historial extendido, soporte técnico preferencial y más.
+  
 **User Benefits**
 + Monitoreo inteligente y continuo del estado técnico del vehículo.
 + Detección temprana de fallos y alertas preventivas para evitar averías.
