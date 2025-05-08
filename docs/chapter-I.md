@@ -230,7 +230,7 @@ Alcanzan acceso a funcionalidades avanzadas según su plan de suscripción (Stan
 Con los planes Vehix: Standard y PRO con beneficios diferenciados.
 
 #### 1.2.2.4. Lean UX Canvas
-![lean ux canvas img](/assets/imgs/chapter-I/lean_ux_canvas.PNG)
+![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.PNG)
 
 ## 1.3. Segmentos objetivos
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
