@@ -112,10 +112,16 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 - El mantenimiento preventivo digitalizado reducirá los costos generales para los usuarios.
 
 **Business Outcomes**
-+ Los usuarios seguirán suscritos al servicio a largo plazo si perciben un valor claro en la mejora de la durabilidad de sus vehículos y la reducción de costos de reparación.
-+ Una vez validado el producto en un mercado objetivo inicial, se busca ampliar el alcance a más conductores en diversas regiones.  
-+ La suscripción mensual debería generar un flujo de ingresos constante, lo que permitirá expandir el negocio y financiar mejoras continuas en el producto.
-+ A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
+
+- Lograr que el 70% de los diagnósticos básicos sean realizados directamente por los usuarios, sin necesidad de acudir a un taller.
+- Alcanzar una calificación promedio de 4 estrellas o más en encuestas sobre confianza en los diagnósticos.
+- Incrementar la satisfacción del usuario con respecto a la salud técnica de su vehículo en un 40%.
+- Reducir en un 35% el tiempo promedio entre la detección de fallas y su reparación.
+- Incrementar en un 50% los mantenimientos preventivos realizados por usuario mensual.
+- Aumentar la satisfacción del usuario con respecto al control técnico del vehículo en un 40%.
+- Reducir en un 35% el tiempo promedio entre la detección del fallo y la reparación efectiva.
+- Lograr que el 60% de los usuarios califiquen con 4 estrellas o más a talleres certificados.
+- Lograr que al menos el 25% de los usuarios activos se suscriban a planes pagos.
 
 **User Assumptions**
 + Creo que mis clientes necesitan una solución práctica y accesible para monitorear el estado de sus vehículos en tiempo real, y mejorar la los diagnósticos y comunicación mecánico-conductor, ya que muchos de estos desconocen cuándo deben realizar mantenimiento preventivo o detectar fallas antes de que se conviertan en problemas costosos o peligrosos.
