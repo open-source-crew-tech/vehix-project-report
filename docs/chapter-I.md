@@ -136,9 +136,22 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 - los mecánicos ven valor en mejorar la confianza con sus clientes, si pueden mostrarles diagnósticos respaldados por datos generados por el vehículo.
 
 **User Outcomes**
-+ Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
-+ Con un monitoreo adecuado y la implementación de las recomendaciones de mantenimiento preventivo, los usuarios lograrán que sus vehículos tengan una vida útil más larga.
-+ Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
+
+- Realizan diagnósticos básicos desde su celular sin necesidad de acudir a un taller.
+- Ahorran dinero al prevenir fallas costosas mediante diagnósticos tempranos.
+- Tienen más control sobre el estado de su auto sin depender siempre de un taller.
+- Mecánicos ganan visibilidad y clientes al colaborar con la plataforma.
+- Se fortalece la confianza entre usuario y mecánico gracias a explicaciones simples.
+- Pueden entender el estado de su auto con explicaciones claras y visuales.
+- Reciben diagnósticos en lenguaje simple, facilitando decisiones inmediatas.
+- Pueden acceder rápidamente a talleres validados cerca de su ubicación.
+- Anticipan fallas antes de que se vuelvan costosas.
+- Prolongan la vida útil del vehículo gracias al mantenimiento preventivo.
+- Obtienen información confiable sobre el estado técnico del auto, lo que les brinda mayor seguridad al conducir.
+- Pueden revisar el historial de intervenciones y monitorear el estado del vehículo a lo largo del tiempo.
+- Pueden diagnosticar fallas básicas desde su celular sin ayuda externa, ganando autonomía sobre su vehículo.
+- Reciben recomendaciones de mantenimiento personalizadas según sus hábitos de conducción, lo que les permite anticipar fallas y actuar a tiempo.
+- Acceden a funcionalidades avanzadas según su plan de suscripción (Standard o PRO)
 
 **Features**
 + **Apdatador diagnóstico para vehículos:** Un adapatador diagnóstico con chip ELM327 instalado en el vehículo que exporta datos a tu celular sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
