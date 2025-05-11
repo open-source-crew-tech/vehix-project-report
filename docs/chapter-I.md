@@ -103,13 +103,12 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 
 **Business Assumptions**
 
-- **Los conductores están dispuestos a invertir en una solución tecnológica** que les ayude a evitar gastos mayores en reparaciones mediante el mantenimiento preventivo y predictivo.
-- **Los mecánicos independientes quieren modernizar sus diagnósticos** para ganar más clientes, generar confianza y profesionalizar sus servicios con el respaldo de datos técnicos.
+- ** Creemos que los conductores están dispuestos a invertir en una solución tecnológica** que les ayude a evitar gastos mayores en reparaciones mediante el mantenimiento preventivo y predictivo.
+- **Creemos que los mecánicos independientes quieren modernizar sus diagnósticos** para ganar más clientes, generar confianza y profesionalizar sus servicios con el respaldo de datos técnicos.
 - **Una parte significativa de los usuarios preferirá pagar una suscripción mensual (Standard o PRO)** si con ello obtiene alertas, diagnósticos personalizados y ahorro en el mantenimiento del vehículo.
-- **Los conductores valoran la simplicidad y claridad en los diagnósticos**, especialmente aquellos sin conocimientos técnicos.
-- **La inclusión de talleres certificados y geolocalizados dentro de la app generará confianza**, mejorará la experiencia de usuario y fomentará relaciones duraderas con los talleres.
-- Si se reduce el número de fallos imprevistos, los usuarios recomendarán la app a otros.
-- El mantenimiento preventivo digitalizado reducirá los costos generales para los usuarios.
+- **Creemos que los conductores valoran la simplicidad y claridad en los diagnósticos**, especialmente aquellos sin conocimientos técnicos.
+- Creemos si se reduce el número de fallos imprevistos, los usuarios recomendarán la app a otros.
+- Creemos que el mantenimiento preventivo digitalizado reducirá los costos generales para los usuarios.
 
 **Business Outcomes**
 
