@@ -103,7 +103,7 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 
 **Business Assumptions**
 
-- ** Creemos que los conductores están dispuestos a invertir en una solución tecnológica** que les ayude a evitar gastos mayores en reparaciones mediante el mantenimiento preventivo y predictivo.
+- **Creemos que los conductores están dispuestos a invertir en una solución tecnológica** que les ayude a evitar gastos mayores en reparaciones mediante el mantenimiento preventivo y predictivo.
 - **Creemos que los mecánicos independientes quieren modernizar sus diagnósticos** para ganar más clientes, generar confianza y profesionalizar sus servicios con el respaldo de datos técnicos.
 - **Una parte significativa de los usuarios preferirá pagar una suscripción mensual (Standard o PRO)** si con ello obtiene alertas, diagnósticos personalizados y ahorro en el mantenimiento del vehículo.
 - **Creemos que los conductores valoran la simplicidad y claridad en los diagnósticos**, especialmente aquellos sin conocimientos técnicos.
