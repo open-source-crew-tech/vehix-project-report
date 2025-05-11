@@ -136,7 +136,6 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 
 **User Outcomes**
 
-- Realizan diagnósticos básicos desde su celular sin necesidad de acudir a un taller.
 - Ahorran dinero al prevenir fallas costosas mediante diagnósticos tempranos.
 - Tienen más control sobre el estado de su auto sin depender siempre de un taller.
 - Mecánicos ganan visibilidad y clientes al colaborar con la plataforma.
