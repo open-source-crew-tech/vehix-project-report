@@ -124,15 +124,15 @@ Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en r
 
 **User Assumptions**
 
-- Los usuarios no tienen conocimientos técnicos de mecánica, por lo que necesitan explicaciones simples y visuales para entender el estado de su vehículo.
-- Los conductores postergan el mantenimiento por falta de tiempo, dinero o recordatorios claros, no porque no les importe.
-- Los usuarios quieren tener más control sobre su vehículo, pero no cuentan con herramientas que les permitan monitorearlo en tiempo real.
-- Los conductores estarían dispuestos a usar una app que les ahorre dinero, evite fallas imprevistas y prolongue la vida útil de su auto.
-- Valoran poder ver alertas y diagnósticos en su celular, sin tener que ir al taller si no es necesario.
-- Muchos mecánicos trabajan de forma empírica, sin acceso a información técnica en tiempo real.
-- Están dispuestos a pagar una pequeña suscripción mensual si eso les permite recibir alertas, diagnósticos y recomendaciones personalizadas.
-- los mecánicos tradicionales están interesados en herramientas que faciliten y mejoren el diagnóstico, siempre que sean económicas y fáciles de usar.
-- los mecánicos ven valor en mejorar la confianza con sus clientes, si pueden mostrarles diagnósticos respaldados por datos generados por el vehículo.
+- Creemos que los usuarios no tienen conocimientos técnicos de mecánica, por lo que necesitan explicaciones simples y visuales para entender el estado de su vehículo.
+- Creemos que los conductores postergan el mantenimiento por falta de tiempo, dinero o recordatorios claros, no porque no les importe.
+- Creemos que los usuarios quieren tener más control sobre su vehículo, pero no cuentan con herramientas que les permitan monitorearlo en tiempo real.
+- Creemos que Los conductores estarían dispuestos a usar una app que les ahorre dinero, evite fallas imprevistas y prolongue la vida útil de su auto.
+- Creemos que Los usuarios valoran poder ver alertas y diagnósticos en su celular, sin tener que ir al taller si no es necesario.
+- Creemos que los mecánicos trabajan de forma empírica, sin acceso a información técnica en tiempo real.
+- Creemos que los usuarios están dispuestos a pagar una pequeña suscripción mensual si eso les permite recibir alertas, diagnósticos y recomendaciones personalizadas.
+- Creemos que los mecánicos tradicionales están interesados en herramientas que faciliten y mejoren el diagnóstico, siempre que sean económicas y fáciles de usar.
+- Creemos que los mecánicos ven valor en mejorar la confianza con sus clientes, si pueden mostrarles diagnósticos respaldados por datos generados por el vehículo.
 
 **User Outcomes**
 
