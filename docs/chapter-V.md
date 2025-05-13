@@ -697,6 +697,8 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
 
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
 <table>
 	<tbody>
 		<tr>
@@ -742,11 +744,12 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 		</tr>
 		<tr>
 			<td>Sprint 2 Velocity</td>
-			<td>???</td>
+			<td>16</td>
 		</tr>
 		<tr>
 			<td>Sum of Story points</td>
-			<td>???</td>
+			<td>42</td>
 		</tr>
 	</tbody>
 </table>
+
