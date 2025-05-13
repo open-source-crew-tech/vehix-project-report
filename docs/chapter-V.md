@@ -753,3 +753,14 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, don
 	</tbody>
 </table>
 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+A continuación mostramos los líderes y colaboradoeres de los aspectos a realizarse.
+
+| Team Member (Last Name, First Name) | GitHub Username | Diagnostic view from web application | Improve Landing Page |
+| ------------------------------------|-----------------|-------------------------------------------|-----------------|
+| Rios Piñan, Dayro Richard|Addicted2u| C | C |
+| Julca Minaya, Sergio Gino|sergioJM05| L | C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L |
+| Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | C | 
+| Espinoza Chávez, Moisés Filemón | MoisesECh | C | C |
