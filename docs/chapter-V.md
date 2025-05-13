@@ -764,3 +764,58 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 | Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L |
 | Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | C | 
 | Espinoza Chávez, Moisés Filemón | MoisesECh | C | C |
+
+
+#### 5.2.2.3. Sprint Backlog 2
+
+
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td colspan="7">Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>User Story</strong></td>
+			<td colspan="6"><strong>Work-item / Task</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Description</strong></td>
+			<td><strong>Estimation (Hours)</strong></td>
+			<td><strong>Assisgned To</strong></td>
+			<td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US08</td>
+			<td rowspan="3">Diagnóstico vehicular PRO</td>
+			<td>T1</td>
+			<td>Crear la vista diagnóstico rápido</td>
+			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Vinculación de la vista maintenance a la vista diagnóstico rápido</td>
+			<td>Dentro de la vista maintenance habrá un componente que redirigirá a la vista diagnóstico rápido para una navegación óptima</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Añadir estilos y propiedades responsive</td>
+			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		
+	</tbody>
+</table>
