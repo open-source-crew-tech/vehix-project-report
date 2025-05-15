@@ -884,6 +884,8 @@ En el perfil de usuario, se muestra el tipo de plan PRO contratado, la informaci
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
+![context](/assets/imgs/chapter-IV/arquitecture/context/context.png)
+
 El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
 
 **Actores principales:**
@@ -908,6 +910,8 @@ Todos los usuarios acceden al sistema VEHIX a través de un navegador web, utili
 - **Auth0:** Servicio de autenticación encargado de verificar la identidad de los usuarios y otorgarles acceso seguro a la plataforma VEHIX.
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+![containers](/assets/imgs/chapter-IV/arquitecture/containers/container.png)
 
 El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
 
@@ -948,6 +952,8 @@ El **diagrama de contenedores** representa la arquitectura interna de alto nivel
 
 #### **Diagrama de Componentes: Vehix Single Page Application**
 
+![components](/assets/imgs/chapter-IV/arquitecture/components/single-page-aplication-component.png)
+
 Este diagrama representa los **componentes internos** del contenedor **Vehix Single Page Application**, la aplicación Angular que se ejecuta en el navegador del usuario. Aquí se detallan los distintos módulos funcionales y servicios de frontend, junto con sus responsabilidades e interacciones, tanto internas como externas.
 
 ##### **Componentes principales (Angular Components)**
@@ -985,6 +991,8 @@ Este diagrama representa los **componentes internos** del contenedor **Vehix Sin
 
 #### **Diagrama de Componentes: Profile and References**
 
+![components](/assets/imgs/chapter-IV/arquitecture/components/profile-and-references.png)
+
 El contenedor **Profile and References** dentro del sistema VEHIX se encarga de gestionar toda la información relacionada con el perfil del usuario, sus preferencias y los datos asociados a su vehículo. Este diagrama descompone su estructura en tres componentes principales que colaboran para brindar una funcionalidad coherente y bien organizada.
 
 ##### **Componentes**
@@ -1005,6 +1013,7 @@ El contenedor **Profile and References** dentro del sistema VEHIX se encarga de 
 - `ProfileController` también interactúa con `VehicleService` para gestionar los datos del vehículo registrado por el usuario.
 
 #### Diagrama de Componentes: Assets and Resource Management
+
 
 El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
 
@@ -1029,6 +1038,8 @@ El contenedor **Assets and Resource Management** forma parte de la arquitectura 
 - Ambos servicios utilizan el modelo `ResourcesModel` para representar y manipular los datos asociados a recursos del sistema.
 
 #### **Diagrama de Componentes: Analytics Context**
+
+![components](/assets/imgs/chapter-IV/arquitecture/components/analytics-context.png)
 
 El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se especializa en recolectar, analizar y visualizar datos de uso del sistema. Este contenedor permite generar informes útiles tanto para los usuarios con el objetivo de mejorar el rendimiento del sistema y la experiencia del usuario mediante el análisis de patrones de comportamiento y uso vehicular.
 
@@ -1063,6 +1074,8 @@ El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se
 
 #### **Diagrama de Componentes: Subscription and Payments**
 
+![components](/assets/imgs/chapter-IV/arquitecture/components/subscription-and-payments.png)
+
 El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la administración de planes de suscripción, procesamiento de pagos y generación de facturas. Este módulo permite a los usuarios acceder a funcionalidades premium mediante pagos integrados con proveedores externos como Visa, Mastercard o American Express.
 
 ##### **Componentes principales**
@@ -1094,6 +1107,8 @@ El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la a
 
 #### **Diagrama de Componentes: Identity and Guest Management**
 
+![components](/assets/imgs/chapter-IV/arquitecture/components/identity-and-guest-management.png)
+
 El contenedor **Identity and Guest Management** dentro de la arquitectura de VEHIX es responsable de gestionar el proceso de autenticación de usuarios, registro de nuevos perfiles y control de acceso basado en roles. Este contenedor asegura que sólo usuarios autorizados puedan acceder a funcionalidades específicas, manteniendo la seguridad y privacidad del sistema.
 
 ##### **Componentes principales**
@@ -1124,6 +1139,8 @@ El contenedor **Identity and Guest Management** dentro de la arquitectura de VEH
 - Tanto `AuthServiceBackend` como `UserRegistrationService` delegan en **Auth0** la verificación de credenciales y autenticación segura.
 
 #### Diagrama de Componentes: Service Operation and Monitoring Context
+
+![components](/assets/imgs/chapter-IV/arquitecture/components/service-operation-monitoring.png)
 
 El contenedor **Service Operation and Monitoring Context** es uno de los núcleos funcionales más importantes del sistema VEHIX. Se encarga del **monitoreo en tiempo real** del estado del vehículo y la generación de alertas basadas en los datos recibidos por sensores y servicios de localización GPS. Este módulo es fundamental para garantizar una experiencia de usuario proactiva y preventiva.
 
