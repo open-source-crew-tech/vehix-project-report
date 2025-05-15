@@ -817,6 +817,7 @@ Este segmento agrupa a personas cuyo vehículo es su herramienta de trabajo prin
 
 ¿Se sienten motivados a cambiar sus hábitos de conducción y prevención si la información se les facilita?
 
+![chart img](/assets/imgs/chapter-II/analysis-chart-10.png)
 
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
