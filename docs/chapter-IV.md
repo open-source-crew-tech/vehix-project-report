@@ -1014,6 +1014,7 @@ El contenedor **Profile and References** dentro del sistema VEHIX se encarga de 
 
 #### Diagrama de Componentes: Assets and Resource Management
 
+![components](/assets/imgs/chapter-IV/arquitecture/components/assets-and-resource-managements.png)
 
 El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
 
