@@ -1104,8 +1104,16 @@ Vista problem forecasting
 ![image-1](/assets/imgs/chapter-V/problem_forecasting_ex_ev.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+A continuación se muestra el proyecto el cual evidencia el desplique de la aplicación
+![image-1](/assets/imgs/chapter-V/despliegue1.png)
+![image-2](/assets/imgs/chapter-V/despliegue2.png)
+![image-3](/assets/imgs/chapter-V/despliegue3.png)
+![image-4](/assets/imgs/chapter-V/despliegue4.png)
+![image-5](/assets/imgs/chapter-V/despliegue5.png)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+A continuacíon se presenta la aplicación desplegada
+![image-6](/assets/imgs/chapter-V/despliegue6.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
