@@ -1119,7 +1119,7 @@ A continuacíon se presenta la aplicación desplegada
 
 En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
 
-![image-1](/assets/imgs/chapter-V/1.PNG)
+![image-1](/assets/imgs/chapter-V/1.png)
 
-![image-2](/assets/imgs/chapter-V/2.PNG)
+![image-2](/assets/imgs/chapter-V/2.png)
 
