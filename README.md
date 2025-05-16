@@ -3,7 +3,7 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 # Carrera de Ingienería de Software - 2510
 ## Desarrollo de Aplicaciones Open Source - 1ASI0729
-![UPC_logo_transparente (2)](https://github.com/user-attachments/assets/eb94fcf1-814b-4c8c-a994-58815e9aa5de)
+![UPC_logo_transparente](/assets/imgs/chapter-I/upc_logo.png)
 
 # Informe de Trabajo Final
 ### Profesor: Angel Augusto Velasquez Nuñez
