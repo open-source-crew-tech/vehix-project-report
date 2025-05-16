@@ -43,21 +43,27 @@
 | 2.0     | 20/04/2024  | Rios Piñan, Dayro Richard                      | Finaliza cambios en HU y Product Backlog                              |
 | 2.1     | 22/04/2024  | Espinoza Chávez, Moisés Filemón                      | Arreglos generales, HU, C4 Diagrams                          |
 | 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+| 2.3     | 16/05/2025  | Baca Camargo, Vitaly Arturo       | Identifica el sprint 2               |
+| 2.4     | 16/05/2026  |  Sergio Gino Julca Minaya       |  Actualiza el lean ux processs             |
+| 2.5     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
+| 2.6     | 16/05/2026  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
+| 2.7     | 16/05/2026  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
+| 2.8     | 16/05/2026  |  Espinoza Chávez, Moisés Filemón          |  correcion de user personas            |
 
 # Project Report Collaboration Insights 
 
   - **Link de la organización:** [https://github.com/open-source-crew-tech](https://github.com/open-source-crew-tech)
 
-  - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report
+  - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report)
   
   - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/)
 
-  - **Link de Repositorio FrontEnd:** []()
+  - **Link de Repositorio FrontEnd:** [https://github.com/sergioJM05/vehix-frontend](https://github.com/sergioJM05/vehix-frontend)
 
-    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4: 
     ![commits img](/assets/imgs/chapter-I/commits.png)
 
-    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8: 
     ![commits2 img](/assets/imgs/chapter-I/commits2.png)
 ---
 
