@@ -996,5 +996,3 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 		</tr>
 	</tbody>
 </table>
-
-#### 5.2.2.4. Development Evidence for Sprint Review
