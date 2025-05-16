@@ -1077,3 +1077,10 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
+
+![image-1](/assets/imgs/chapter-V/1.PNG)
+
+![image-2](/assets/imgs/chapter-V/2.PNG)
+
