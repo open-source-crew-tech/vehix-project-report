@@ -881,7 +881,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Mostrar resumen de la falla</td>
 			<td>Se muestra una breve descripción de la falla del vehículo en un párrafo</td>
 			<td>1.5</td>
-			<td>Piero Elescano</td>
+			<td>Dayro Rios</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -889,7 +889,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Añadir gráfico</td>
 			<td>Se añaden gráficos estadísticos</td>
 			<td>2</td>
-			<td>Piero Elescano</td>
+			<td>Dayro Rios</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -897,7 +897,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que la vista sea responsive</td>
 			<td>2</td>
-			<td>Piero Elescano</td>
+			<td>Dayro Rios</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -907,7 +907,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Crear la vista diagnóstico</td>
 			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
 			<td>0.5</td>
-			<td>Antonio Navarro</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -915,7 +915,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Vinculación de la vista maintenance a la vista diagnóstico</td>
 			<td>Dentro de la vista maintenance habrá un componente que redirigirá a la vista diagnóstico rápido para una navegación óptima</td>
 			<td>0.5</td>
-			<td>Antonio Navarro</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -923,7 +923,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
 			<td>1</td>
-			<td>Antonio Navarro</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -931,15 +931,16 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>Añadir componentes</td>
 			<td>Se crean los componentes respectivos</td>
 			<td>3</td>
-			<td>Antonio Navarro</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
-		</tr><tr>
+		</tr>
+		<tr>
 			<td rowspan="4">EP05-US25</td>
 			<td rowspan="4">Datos técnicos</td>
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los datos técnicos</td>
-			<td>0.5</td>
+			<td>3</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
@@ -947,7 +948,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>T3</td>
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
-			<td>1</td>
+			<td>1.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
@@ -955,7 +956,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>T3</td>
 			<td>Añadir descripciones</td>
 			<td>Se añaden descripciones de los datos estadísticos</td>
-			<td>3</td>
+			<td>1</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
@@ -963,7 +964,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>T4</td>
 			<td>Añadir imágenes</td>
 			<td>Se añaden imágenes para tener una mejor referencia</td>
-			<td>3</td>
+			<td>0.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
@@ -973,24 +974,24 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los gráficos estadísticos</td>
-			<td>0.5</td>
-			<td>Antonio Navarro</td>
+			<td>3</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T3</td>
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
-			<td>1</td>
-			<td>Antonio Navarro</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T3</td>
 			<td>Añadir descripciones</td>
 			<td>Se añaden descripciones concisas de los datos estadísticos</td>
-			<td>3</td>
-			<td>Antonio Navarro</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 	</tbody>
