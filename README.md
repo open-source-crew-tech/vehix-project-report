@@ -50,11 +50,15 @@
 
   - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report
   
-  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/)
+
+  - **Link de Repositorio FrontEnd:** []()
 
     A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+    ![commits img](/assets/imgs/chapter-I/commits.png)
 
-![commits img](/assets/imgs/chapter-I/commits.png)
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
+    ![commits2 img](/assets/imgs/chapter-I/commits2.png)
 ---
 
 # Student Outcome
