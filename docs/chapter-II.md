@@ -849,17 +849,17 @@ A continuación, se mostrarán los user personas, los cuales fueron creados en b
 
 **Segmento 1**
 
-![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
+![user personas segment 1 img](/assets/imgs/chapter-II/user-persona-segment-1.png)
 
 
 **Segmento 2**
 
-![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
+![user personas segment 2 img](/assets/imgs/chapter-II/user-persona-segment-2.png)
 
 
 **Segmento 3**
 
-![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
+![user_personas_segment 3 img](/assets/imgs/chapter-II/user-persona-segment-3.png)
 
 
 ### 2.3.2. User Task Matrix
