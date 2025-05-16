@@ -772,7 +772,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 	<tbody>
 		<tr>
 			<td><strong>Sprint #</strong></td>
-			<td colspan="7">Sprint 1</td>
+			<td colspan="7">Sprint 2</td>
 		</tr>
 		<tr>
 			<td colspan="2"><strong>User Story</strong></td>
