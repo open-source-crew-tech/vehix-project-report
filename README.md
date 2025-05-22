@@ -56,7 +56,7 @@
 
   - **Link del repositorio:** [https://github.com/open-source-crew-tech/vehix-project-report](https://github.com/open-source-crew-tech/vehix-project-report)
   
-  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/)
+  - **Link de Landing Page:** [https://open-source-crew-tech.github.io/vehix-landing-page/](https://open-source-crew-tech.github.io/vehix-landing-page/)
 
   - **Link de Repositorio FrontEnd:** [https://github.com/sergioJM05/vehix-frontend](https://github.com/sergioJM05/vehix-frontend)
 
