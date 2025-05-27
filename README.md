@@ -185,6 +185,14 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
 ##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
 
+### [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
+#### [5.3.1. Design Interviews](/docs/chapter-V.md/#531-design-interviews)
+#### [5.3.2. Interview Record](/docs/chapter-V.md/#531-interview-record)
+#### [5.3.3. Evaluation based on heuristics](/docs/chapter-V.md/#533-evaluation-based-on-heuristics)
+
+### [5.4. Video About the Product](/docs/chapter-V.md/#54-video-about-the-product)
+
+
 ## [Conclusiones](/docs/conclusions.md)
 
 ## [Bibliografía](/docs/bibliography.md)
