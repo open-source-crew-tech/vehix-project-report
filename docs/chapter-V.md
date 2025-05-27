@@ -1123,7 +1123,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 
 ![image-2](/assets/imgs/chapter-V/2.png)
 
-### 5.2.3. Software Development Environment Configuration.
+### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
 #### 5.2.3.2. Aspect Leaders and Collaborators
 #### 5.2.3.3. Sprint Backlog 3
