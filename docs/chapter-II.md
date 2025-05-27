@@ -1,6 +1,9 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+En esta sección tiene como objetivo, identificar cuales son los principales competidores directos con modelos de negocios fundamentados en productos digitales afines, o en su caso, competidores indirectos que ofrecen soluciones parcialmente comparables.
+
 ### 2.1.1. Análisis competitivo
+En esta sección se realiza el análisis competitivo de los competidores identificados posteriormente con el propósito de obtener una visión más precisa de cómo se posiciona nuestro producto frente a la competencia y adquirir aprendizajes que nos permitan mejorarlo continuamente. 
 
 <table class="tabla-md">
         <thead>
@@ -412,7 +415,12 @@
       </table>
                                 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+En esta sección se examinarán las estrategias y tácticas que se implementarán para capitalizar las debilidades de la competencia y hacer frente a sus fortalezas. Asimismo, se abordarán las amenazas y oportunidades que presentan los competidores.
+
 **Análisis Foda**
+
+A continuación se presenta el análisis FODA con el fin de identificar las oportunidades y amenazas presentes en el mercado, además de evaluar nuestras fortalezas y debilidades a nivel interno.
+
 ![foda](/assets/imgs/chapter-II/foda.png)
 
 Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, Vehix aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
@@ -445,6 +453,8 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
   + Asegurar compatibilidad con diferentes marcas y modelos de vehículos.
   + Ofrecer soporte técnico en múltiples idiomas y zonas horarias.
 ## 2.2. Entrevistas
+En esta sección se realiza la investigación y la recolección de información a traves de las entrevistas de los usuarios para cada segmento objetivo, con el fin de conocer mejor a nuestros segmentos.
+
 ### 2.2.1. Diseño de entrevistas
 
 Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
@@ -549,6 +559,7 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Que es lo que te frustra con respecto al trabajo que tienes?
 
 ### 2.2.2. Registro de entrevistas
+En esta sección presentamos los registros de las entrevistas que realizamos para cada uno de nuestro segmento objectivo.
 
 A continuación, se presentarán las entrevistas realizadas, desarrollando un resumen de cada una, extrayendo las respuestas e identificando las características objetivas y subjetivas.
 
@@ -763,8 +774,7 @@ Además, destaca la importancia de contar con una herramienta que permita realiz
 Luis accede principalmente desde su smartphone Android y laptop, utilizando Chrome como navegador habitual. Su formación es una combinación de experiencia empírica y estudios técnicos. Actualmente usa hojas de cálculo básicas para organizar su trabajo, además usa apps como Youtube y busca información en foros para mantenerse informado. Cree que esta tecnología beneficiaría tanto a mecánicos como a clientes, haciendo el proceso más claro y rápido. Le preocupa que algunos usuarios no sepan interpretar correctamente la información técnica, pero considera que con una interfaz simple esto se puede resolver. No tiene marcas o apps que lo inspiren, pero valora las herramientas digitales que sean prácticas y confiables. Su objetivo es mejorar la calidad del servicio que ofrece y modernizar su taller, y lo que más le frustra es la falta de información previa al momento de revisar un auto y el tiempo que se pierde explicando fallas sin apoyo visual o técnico claro.
 
 ### 2.2.3. Análisis de entrevistas
-
-A continuación, se presenarán los análisis de entrevistas, los cuáles han sido hechos recaudando la información de las entrevistas previamente realizadas
+En esta sección se realiza el análisis de cada entrevista para cada segmento objetivo. Con el fin de obtener información para el desarrollo de nuestra aplicación. A continuación, se presenarán los análisis de entrevistas, los cuáles han sido hechos recaudando la información de las entrevistas previamente realizadas
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
@@ -842,10 +852,12 @@ Este segmento representa a profesionales automotrices con experiencia —en su m
 
 
 
-## 2.3. Solution Profile
-### 2.3.1. User Personas
+## 2.3. Needfinding
 
-A continuación, se mostrarán los user personas, los cuales fueron creados en base a los analisis de entrevistas y los resúmenes de cada una de ellas.
+Con el fin de desarrollar un producto alineado con las necesidades específicas del cliente, nos hemos enfocado e identificar los User Persona, la User Task Matrix, los User Journey Maps y el Empathy Mapping.
+
+### 2.3.1. User Personas
+Después de un análisis de las entrevistas de cada segmento objetivo. Hemos elaborado perfiles de usuario teniendo en cuenta las características identificadas en cada entrevista. A continuación, se mostrarán los user personas, los cuales fueron creados en base a los analisis de entrevistas y los resúmenes de cada una de ellas.
 
 **Segmento 1**
 
@@ -876,6 +888,8 @@ A continuación, se mostrarán los user personas, los cuales fueron creados en b
 ![user task matrix segment 3](/assets/imgs/chapter-II/user-task-matrix-segment-3.png)
 
 ### 2.3.3. User Journey Mapping
+Esta sección presenta los User Journey Maps correspondientes a cada User Persona, ofreciendo una visión integral del recorrido del usuario desde el comienzo hasta el final. Estos mapas reflejan el estado actual (As-Is) de cada segmento, sin proponer aún soluciones.
+
 **Segmento 1**
 
 ![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
@@ -891,6 +905,8 @@ A continuación, se mostrarán los user personas, los cuales fueron creados en b
 ![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
 
 ### 2.3.4. Empathy Mapping
+El siguiente paso dentro del proceso de needfinding consiste en evaluar a nuestros segmentos objetivos mediante empathy maps, con el fin de comprender mejor a estos segmentos e identificar sus necesidades más profundas.
+
 **Segmento 1**
 
 ![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
@@ -906,6 +922,8 @@ A continuación, se mostrarán los user personas, los cuales fueron creados en b
 ![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
 
 ### 2.3.5. As-is Scenario Mapping
+En esta sección se desarrollará el As-Is Scenario Mapping para ambos segmentos, detallando cómo deben estructurarse las experiencias en cada una de sus fases.
+
 **Segmento 1**
 
 ![as-is-scenario-segmento-1](/assets/imgs/chapter-II/as-is-scenario-segmento-1.jpg)
@@ -919,6 +937,7 @@ A continuación, se mostrarán los user personas, los cuales fueron creados en b
 ![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
 
 ## 2.4. Ubiquitous Language
+En esta sección se crea un glosario con los términos esenciales del dominio del negocio, siguiendo el enfoque de Ubiquitous Language en Domain Driven Design. Este glosario ofrece definiciones precisas y claras de los conceptos relevantes al problema y su solución, promoviendo una comunicación eficiente entre todos los integrantes del equipo.
 
 | Termino (Ingles)          | Definicion                                                                                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
