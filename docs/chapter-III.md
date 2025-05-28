@@ -1,5 +1,7 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+En esta sección se abordará el To-Be Scenario Mapping para cada uno de las User Persona, en el cual describiremos en filas Phases, Doing, Thinking y Feeling.
+
 Segmento 1:
 
 ![to-be-scenario-mapping-segment-1](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.jpg)
@@ -13,7 +15,8 @@ Segemento 3:
 ![to-be-scenario-mapping-segment-3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
 
 ## 3.2. User Stories
-## 3.2. User Stories
+En esta sección el equipo redacta la definición y la elaboración de los User Stories. Las historias de usuario son un recurso clave para construir software y diseñar proyectos con enfoque en las necesidades y experiencias de las personas.
+
 | Epic /Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | ----- | ----- | ----- |
 | EP01 | Gestión de usuarios |**Como** conductor independiente **quiero** crear una cuenta en la aplicación **para** asegurar mis datos y registros| \- | \- |
@@ -69,8 +72,12 @@ Segemento 3:
 
 
 ## 3.3. Impact Mapping
+En este sección, nuestro equipo expone el uso del Impact Mapping, una técnica visual y participativa que permite conectar metas estratégicas con los resultados esperados, fomentando la alineación y el enfoque del equipo.
+
 ![impactmapping](/assets/imgs/chapter-III/Impact-map.png)
 ## 3.4. Product Backlog
+En el Product Backlog mostraremos una lista ordenada de nuestras historias de usuario, priorizadas de acuerdo con el consenso del equipo. Para estimar la complejidad de cada tarea, empleamos la secuencia de Fibonacci (1, 2, 3, 5, 8) como referencia. 
+
 <table>
         <tr>
           <td><strong>#Orden</strong></td>

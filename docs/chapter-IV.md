@@ -1,20 +1,22 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
-Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
+En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
 
 ### 4.1.1. General Style Guidelines
-### 4.1.1.1 Colores
+Aquí se muestran las normas básicas que nos permiten mantener una presentación clara y coherente de nuestros productos.
+
+#### **Colores**
    
   La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
 
   Esta combinación logra un equilibrio entre seriedad y accesibilidad, ideal para una aplicación enfocada en el mantenimiento vehicular.
 
-   #### **Colores principales:** 
+* Colores principales
    
    La gama de grises elegida permite mantener una interfaz visualmente limpia, neutra y moderna,
    facilitando el enfoque en el contenido y las funcionalidades sin distracciones visuales innecesarias. Además, el gris proporciona un equilibrio entre profesionalismo y accesibilidad.
    
-   ##### **Escala de grises**
+* Escala de grises
    
 | Color                                      | Justificación                                                                                                                                                                          |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,9 +27,9 @@ Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunic
 
 ![escala-gris](/assets/imgs/chapter-IV/escala-gris.PNG)
 
- ##### **Escala de negros**
- 
- La escala de negros con diferentes niveles de opacidad se usa estratégicamente para reforzar el contraste, resaltar contenido principal y crear una sensación de profundidad en la interfaz.
+* Escala de negros
+
+  La escala de negros con diferentes niveles de opacidad se usa estratégicamente para reforzar el contraste, resaltar contenido principal y crear una sensación de profundidad en la interfaz.
 
 | RGBA                                          | Justificación                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -38,41 +40,39 @@ Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunic
 
 ![escala-negra](/assets/imgs/chapter-IV/escala-negra.PNG)
  
- #### **Color de acento:**
+* Color de acento
 
-- **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
+  **Turquesa suave (#A9D8DC):** 
+se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
 
 ![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
 
-### 4.1.1.2 Tipografía
+#### **Tipografía**
 
 En **Vehix**, la tipografía es un componente esencial para transmitir claridad, profesionalismo y accesibilidad en cada pantalla de la aplicación. Se ha definido el uso de tres fuentes principales, combinando elegancia, legibilidad y modernidad.
 
- #### **PT Serif Regular**
+ * PT Serif Regular
 
- - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
-
-- **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
+   - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
+   - **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
 
 ![pt-serif](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
  
- #### **Roboto Regular**
- 
-- **Uso:** Contenido general, campos de formularios y textos secundarios.
-
-- **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
+* Roboto Regular
+  
+  - **Uso:** Contenido general, campos de formularios y textos secundarios.
+  - **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
 
 ![roboto-regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
 
- #### **Montserrat Regular**
-
-- **Uso:** Títulos principales, subtítulos y botones.
-
-- **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
+* Montserrat Regular
+  
+  - **Uso:** Títulos principales, subtítulos y botones.
+  - **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
 
 ![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
-###  4.1.1.3 Spacing:
+#### **Spacing**
 
 Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
 
@@ -85,7 +85,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 - **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
 
 
-### 4.1.1.4 Branding:
+#### **Branding**
 
  #### **Logo**
 
@@ -103,7 +103,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 
 - **Ausencia de íconos gráficos:** Por decisión estratégica, el logotipo **no incluye ilustraciones** (como autos, herramientas o ruedas), con el fin de mantener una imagen minimalista y evitar asociaciones literales que limiten la escalabilidad de la marca.
 
-### 4.1.1.5 Tono de Comunicación
+#### **Tono de Comunicación**
 
 Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para lograrlo, se han definido las siguientes **dimensiones de tono**.
 
@@ -127,8 +127,10 @@ Se aplicó el patrón de lectura F para estructurar la pantalla en bloques horiz
 ![img-web](/assets/imgs/chapter-IV/img-web.PNG)
 
 ## 4.2. Information Architecture
+En Vehix, la estructura de la información está diseñada para facilitar el acceso y la comprensión del contenido tanto en la página principal como en sus plataformas web y móviles. Se aplican métodos organizativos eficientes, como la disposición jerárquica y la clasificación temática, además de un etiquetado claro que favorece la exploración del sitio y la localización rápida de elementos. Asimismo, se incorpora una navegación amigable con herramientas de búsqueda precisas y filtros detallados, lo que permite a los usuarios encontrar lo que buscan de forma sencilla. Todo esto contribuye a ofrecer una interacción fluida y una experiencia consistente y agradable para quienes visitan y utilizan Vehix.
+
 ### 4.2.1. Organization Systems
-En este apartado se indicarán los sistemas de organización que se han usado para el "Landing page" y la aplicación web. Entre los tipos de estructuras que han sido escogidas son: jerárquica y secuenciale. Además también indicaremos los esquemas de categorización de contenido.
+En este sección se indicarán los sistemas de organización que se han usado para el "Landing page" y la aplicación web. Entre los tipos de estructuras que han sido escogidas son: jerárquica y secuenciale. Además también indicaremos los esquemas de categorización de contenido.
 
 Para la landing page se ha utilizado una estructura jerárquica en la landing page de Vehix porque permite organizar la información de forma clara y progresiva, guiando al usuario desde lo más general hasta lo más específico.
 
@@ -315,8 +317,7 @@ Palabras clave más técnicas para posicionar la aplicación en entornos especia
 Reconoce al equipo desarrollador, reforzando la identidad y el crédito del grupo creador del sistema.
 
 ### 4.2.4. Searching Systems
-
-El sistema de búsqueda en **Vehix** está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
+Para garantizar una experiencia de busqueda satisfactoria y eficiente para los usuarios de **Vehix** hemos implementado el sistema de búsqueda el cual está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
 
 #### **Landing Page**
 
@@ -416,6 +417,7 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
    
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+Para la elaboración del esquema de nuestra landing page, hemos utilizado la herramienta de Figma para el proceso de diseño t desarrollo. Esta herramienta nos permitió completar de manera eficiente y efectiva los wireframes.
 
 desktop:
 
@@ -439,7 +441,7 @@ desktop:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
-**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
+**Enlace:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
 mobile:
 
@@ -463,9 +465,10 @@ mobile:
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
-**Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
+**Enlace:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
 
 ### 4.3.2. Landing Page Mock-up
+Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos permitió poner en práctica los principios y elementos de diseño previamente definidos. Estos principios y heurísticas son clave para ofrecer una experiencia más clara, intuitiva y centrada en el usuario final de nuestra plataforma.
 
 Desktop:
 
@@ -489,7 +492,7 @@ Desktop:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
-**Link:** [Landing Page Mock-up Desktpo (ANGULAR)](https://www.figma.com/design/lRwE2inDrGxkbKubGMD60s/Landing-Page-material?node-id=6-2&t=g0WNp2SZQcUv5WAn-1)
+**Enlace:** [Landing Page Mock-up Desktpo (ANGULAR)](https://www.figma.com/design/lRwE2inDrGxkbKubGMD60s/Landing-Page-material?node-id=6-2&t=g0WNp2SZQcUv5WAn-1)
 
 Mobile:
 
@@ -513,11 +516,14 @@ Mobile:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
 
-**Link:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
+**Enlace:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales. 
 ### 4.4.1. Web Applications Wireframes
-**Link:** [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+A continuación, hemos creado el diseño de los wireframes para el diseño de nuestras aplicaciones, lo que ayudará a planificar la interfaz y la navegación antes de empezar su desarrollo. Para este proyecto utilizamos la herramienta Figma para la elaboración de los wireframes de manera colaborativa y eficiente.
+
+**Enlace:** [Wireframes en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/wireframe/log-in/log-in.png)
@@ -574,8 +580,11 @@ Mobile:
 ![topic-7](/assets/imgs/chapter-IV/wireframe/plan-standard/topic-7.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart
 
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/register.png)
@@ -648,7 +657,9 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 ### 4.4.3. Web Applications Mock-ups
-**Link:** [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, ya que nos brindan una vista previa de la estética y la organización de los componentes antes de iniciar el proceso de desarrollo. A continuación, se  le presenta el Enlace de los mock-ups elaborados en la herramienta de Figma.
+
+**Enlace:** [Mock-ups en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
@@ -707,9 +718,10 @@ Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el t
 ![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
 
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
-
+A continuación, se muestran los diagramas de flujo que ilustran los recorridos de los usuarios en función de los User Goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/user-flow/register.png)
@@ -782,7 +794,7 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/2d4d7fa2-3681-48f3-ab65-b0a939d8a934/edit?viewport_loc=-26575%2C-4225%2C46975%2C19525%2C0_0&invitationId=inv_07979f6b-6654-4d6f-9531-c3db9200aa75)
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/2d4d7fa2-3681-48f3-ab65-b0a939d8a934/edit?viewport_loc=-26575%2C-4225%2C46975%2C19525%2C0_0&invitationId=inv_07979f6b-6654-4d6f-9531-c3db9200aa75)
 
 
 - User goal: Como propietario de vehículo, quiero registrar un nuevo vehículo en mi cuenta.
@@ -877,16 +889,19 @@ En el perfil de usuario, se muestra el tipo de plan PRO contratado, la informaci
  El usuario puede ver su historial de escaneos, los dispositivos conectados y el estado general de su plan Standard.
 
 ## 4.5. Web Applications Prototyping
-**Link:** [Prototipo en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
+A continuación, se muestra el prototipo elaborado a partir de los mockups previamente diseñados y documentados. Este prototipo nos permite visualizar y validar algunos de los flujos que posteriormente serán implementados en el desarrollo del código.
+
+**Enlace:** [Prototipo en Figma (ANGULAR)](https://www.figma.com/design/K1IvSygg5TLNZ1OypNJV42/aplication-web-angular-material?node-id=6-2&t=9PJfXaLh7mZjTde0-1)
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 
 ## 4.6. Domain-Driven Software Architecture
+En esta sección utilizaremos el modelo C4 para definir la arquitectura del software, abarcando niveles como el contexto, los contenedores y los componentes. Este enfoque facilita una visión clara y comprensible de la estructura del sistema, tanto para el equipo de desarrollo como para los stakeholders externos.
+
 ### 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
 
 ![context](/assets/imgs/chapter-IV/arquitecture/context/context.png)
-
-El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
 
 **Actores principales:**
 
@@ -910,10 +925,9 @@ Todos los usuarios acceden al sistema VEHIX a través de un navegador web, utili
 - **Auth0:** Servicio de autenticación encargado de verificar la identidad de los usuarios y otorgarles acceso seguro a la plataforma VEHIX.
 
 ### 4.6.2. Software Architecture Container Diagrams
+El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
 
 ![containers](/assets/imgs/chapter-IV/arquitecture/containers/container.png)
-
-El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
 
 #### **Contenedores del sistema VEHIX**
 
@@ -949,12 +963,12 @@ El **diagrama de contenedores** representa la arquitectura interna de alto nivel
 
 
 ### 4.6.3. Software Architecture Components Diagrams
+Estos diagramas de componentes representan la arquitectura de las funcionalidades clave de Vehix. Permiten visualizar su estructura interna y la forma en que se integran con servicios y sistemas externos.
 
 #### **Diagrama de Componentes: Vehix Single Page Application**
+Este diagrama representa los **componentes internos** del contenedor **Vehix Single Page Application**, la aplicación Angular que se ejecuta en el navegador del usuario. Aquí se detallan los distintos módulos funcionales y servicios de frontend, junto con sus responsabilidades e interacciones, tanto internas como externas.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/single-page-aplication-component.png)
-
-Este diagrama representa los **componentes internos** del contenedor **Vehix Single Page Application**, la aplicación Angular que se ejecuta en el navegador del usuario. Aquí se detallan los distintos módulos funcionales y servicios de frontend, junto con sus responsabilidades e interacciones, tanto internas como externas.
 
 ##### **Componentes principales (Angular Components)**
 
@@ -990,10 +1004,10 @@ Este diagrama representa los **componentes internos** del contenedor **Vehix Sin
 - **AuthService:** Controla el flujo de autenticación del usuario utilizando Auth0.
 
 #### **Diagrama de Componentes: Profile and References**
+El contenedor **Profile and References** dentro del sistema VEHIX se encarga de gestionar toda la información relacionada con el perfil del usuario, sus preferencias y los datos asociados a su vehículo. Este diagrama descompone su estructura en tres componentes principales que colaboran para brindar una funcionalidad coherente y bien organizada.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/profile-and-references.png)
 
-El contenedor **Profile and References** dentro del sistema VEHIX se encarga de gestionar toda la información relacionada con el perfil del usuario, sus preferencias y los datos asociados a su vehículo. Este diagrama descompone su estructura en tres componentes principales que colaboran para brindar una funcionalidad coherente y bien organizada.
 
 ##### **Componentes**
 
@@ -1013,10 +1027,9 @@ El contenedor **Profile and References** dentro del sistema VEHIX se encarga de 
 - `ProfileController` también interactúa con `VehicleService` para gestionar los datos del vehículo registrado por el usuario.
 
 #### Diagrama de Componentes: Assets and Resource Management
+El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/assets-and-resource-managements.png)
-
-El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
 
 ##### **Componentes principales**
 
@@ -1039,10 +1052,9 @@ El contenedor **Assets and Resource Management** forma parte de la arquitectura 
 - Ambos servicios utilizan el modelo `ResourcesModel` para representar y manipular los datos asociados a recursos del sistema.
 
 #### **Diagrama de Componentes: Analytics Context**
+El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se especializa en recolectar, analizar y visualizar datos de uso del sistema. Este contenedor permite generar informes útiles tanto para los usuarios con el objetivo de mejorar el rendimiento del sistema y la experiencia del usuario mediante el análisis de patrones de comportamiento y uso vehicular.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/analytics-context.png)
-
-El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se especializa en recolectar, analizar y visualizar datos de uso del sistema. Este contenedor permite generar informes útiles tanto para los usuarios con el objetivo de mejorar el rendimiento del sistema y la experiencia del usuario mediante el análisis de patrones de comportamiento y uso vehicular.
 
 ##### **Componentes principales**
 
@@ -1074,10 +1086,9 @@ El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se
 - Todo el flujo parte del controlador y termina con la visualización clara y útil para el usuario.
 
 #### **Diagrama de Componentes: Subscription and Payments**
+El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la administración de planes de suscripción, procesamiento de pagos y generación de facturas. Este módulo permite a los usuarios acceder a funcionalidades premium mediante pagos integrados con proveedores externos como Visa, Mastercard o American Express.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/subscription-and-payments.png)
-
-El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la administración de planes de suscripción, procesamiento de pagos y generación de facturas. Este módulo permite a los usuarios acceder a funcionalidades premium mediante pagos integrados con proveedores externos como Visa, Mastercard o American Express.
 
 ##### **Componentes principales**
 
@@ -1107,10 +1118,9 @@ El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la a
 - `BillingService` también se encarga de contactar al proveedor externo de pagos (Payments) para ejecutar la transacción.
 
 #### **Diagrama de Componentes: Identity and Guest Management**
+El contenedor **Identity and Guest Management** dentro de la arquitectura de VEHIX es responsable de gestionar el proceso de autenticación de usuarios, registro de nuevos perfiles y control de acceso basado en roles. Este contenedor asegura que sólo usuarios autorizados puedan acceder a funcionalidades específicas, manteniendo la seguridad y privacidad del sistema.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/identity-and-guest-management.png)
-
-El contenedor **Identity and Guest Management** dentro de la arquitectura de VEHIX es responsable de gestionar el proceso de autenticación de usuarios, registro de nuevos perfiles y control de acceso basado en roles. Este contenedor asegura que sólo usuarios autorizados puedan acceder a funcionalidades específicas, manteniendo la seguridad y privacidad del sistema.
 
 ##### **Componentes principales**
 
@@ -1140,10 +1150,9 @@ El contenedor **Identity and Guest Management** dentro de la arquitectura de VEH
 - Tanto `AuthServiceBackend` como `UserRegistrationService` delegan en **Auth0** la verificación de credenciales y autenticación segura.
 
 #### Diagrama de Componentes: Service Operation and Monitoring Context
+El contenedor **Service Operation and Monitoring Context** es uno de los núcleos funcionales más importantes del sistema VEHIX. Se encarga del **monitoreo en tiempo real** del estado del vehículo y la generación de alertas basadas en los datos recibidos por sensores y servicios de localización GPS. Este módulo es fundamental para garantizar una experiencia de usuario proactiva y preventiva.
 
 ![components](/assets/imgs/chapter-IV/arquitecture/components/service-operation-monitoring.png)
-
-El contenedor **Service Operation and Monitoring Context** es uno de los núcleos funcionales más importantes del sistema VEHIX. Se encarga del **monitoreo en tiempo real** del estado del vehículo y la generación de alertas basadas en los datos recibidos por sensores y servicios de localización GPS. Este módulo es fundamental para garantizar una experiencia de usuario proactiva y preventiva.
 
 ##### **Componentes principales**
 
@@ -1178,9 +1187,14 @@ El contenedor **Service Operation and Monitoring Context** es uno de los núcleo
 
 
 ## 4.7. Software Object-Oriented Design
+En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+
 ### 4.7.1. Class Diagram
+En esta vista se le presenta el diagrama de clase con sus entidades respectivas del sistema y sus relaciones de manera visual, lo que facilita la comprensión de cómo se organiza el sistema y cómo interactúan entre sí los distintos componentes del software.
+
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 ### 4.7.2. Class Dictionary
+El diccionario de clases describe en detalle las propiedades y responsabilidades de cada entidad dentro del sistema, sirviendo como una guía integral para comprender el comportamiento y la lógica del software.
 
 #### **WorkShop**
 
@@ -1314,5 +1328,9 @@ El contenedor **Service Operation and Monitoring Context** es uno de los núcleo
 
 
 ## 4.8. Database Design
+En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama que ilustra cómo están organizadas las entidades y sus vínculos, facilitando un manejo eficiente de los datos tanto para almacenarlos como para consultarlos.
+
 ### 4.8.1. Database Diagram
+Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
+
 ![database-diagram](/assets/imgs/chapter-IV/vehix-db.png)
