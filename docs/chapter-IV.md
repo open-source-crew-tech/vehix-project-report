@@ -416,6 +416,8 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 	-  Resultados y recomendaciones
    
 ## 4.3. Landing Page UI Design
+En esta sección se presenta el diseño de la Landing Page de Vehix, enfocado en captar la atención de los usuarios objetivo desde el primer contacto. El diseño busca comunicar claramente el valor del producto, generar confianza e incentivar la acción mediante una interfaz moderna, intuitiva y alineada a los principios de usabilidad.
+
 ### 4.3.1. Landing Page Wireframe
 Para la elaboración del esquema de nuestra landing page, hemos utilizado la herramienta de Figma para el proceso de diseño t desarrollo. Esta herramienta nos permitió completar de manera eficiente y efectiva los wireframes.
 
