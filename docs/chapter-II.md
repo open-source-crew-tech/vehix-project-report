@@ -577,7 +577,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 
 Entrevista 1:
 
-![lucas img](/assets/imgs/chapter-II/lucas_interview.png)
+![lucas img](/assets/imgs/chapter-II/lucas.png)
 
 [00:00 - 3:19]
 
@@ -606,7 +606,7 @@ Su objetivo es mantener su auto en buen estado sin gastar de más. Le frustra de
 
 Entrevista 2:
 
-![johnny img](/assets/imgs/chapter-II/johnny_interview.png)
+![johnny img](/assets/imgs/chapter-II/johnny.png)
 
 [3:19 - 6:35]
 
@@ -636,7 +636,7 @@ Le frustra no tener avisos claros cuando algo está mal en el auto y tener que r
 
 Entrevista 3:
 
-![rocio img](/assets/imgs/chapter-II/rocio_interview.png)
+![rocio img](/assets/imgs/chapter-II/rocio.png)
 
 [6:35 - 9:58]
 
@@ -753,7 +753,7 @@ Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrom
 
 Entrevista 7:
 
-![richard img](/assets/imgs/chapter-II/richard_interview.png)
+![richard img](/assets/imgs/chapter-II/richard.png)
 
 [23:42 - 30:19] 
 
@@ -810,7 +810,7 @@ Accede principalmente desde su smartphone Android y laptop con Windows, utilizan
 
 Entrevista 9:
 
-![richard img](/assets/imgs/chapter-II/luis_interview.png)
+![richard img](/assets/imgs/chapter-II/luis.png)
 
 [35:20 - 39:00] 
 
