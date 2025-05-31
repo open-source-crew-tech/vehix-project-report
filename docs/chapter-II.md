@@ -1001,7 +1001,11 @@ Después de un análisis de las entrevistas de cada segmento objetivo. Hemos ela
 
 ![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
 ### 2.3.2. User Task Matrix
-En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos.
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos, que está dada por nuestros tres segmentos objetivos:
+ + Primer segmento: Propietaria de vehículo urbano, que esta representada por Carla Torres Alvarado. 
+ + Segundo segmento: Taxista, representado por Martin Lopez Carranza
+ + Tercer Segmento: Mecánico Automotriz, representado por Juan Carlos Rojas
+
 
 ![user-task-matrix](/assets/imgs/chapter-II/user-task-matrix.png)
 
