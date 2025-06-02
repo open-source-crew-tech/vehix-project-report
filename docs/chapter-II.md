@@ -1003,8 +1003,8 @@ Después de un análisis de las entrevistas de cada segmento objetivo. Hemos ela
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos, que está dada por nuestros tres segmentos objetivos:
  + Primer segmento: Propietaria de vehículo urbano, que esta representada por Carla Torres Alvarado. 
- + Segundo segmento: Taxista, representado por Martin Lopez Carranza
- + Tercer Segmento: Mecánico Automotriz, representado por Juan Carlos Rojas
+ + Segundo segmento: Taxista, representado por Martin Lopez Carranza.
+ + Tercer Segmento: Mecánico Automotriz, representado por Juan Carlos Rojas.
 
 
 ![user-task-matrix](/assets/imgs/chapter-II/user-task-matrix.png)
@@ -1027,7 +1027,7 @@ Existen varias tareas que coinciden con los tres segmentos:
  + Primer segmento, Carla Torres Alvarado:
 Considera importante cuidar su vehículo. Realiza revisiones, mantenimientos con menor frecuencia, y se centra en evitar problemas y gastos imprevistos, aunque solo va al taller cuando siente que es muy necesario. También, prefiere confiar en la opinión de un especialista, antes de tratar de entender los problemas mecánicos.
  + Segundo segmento, Martín López Carranza:
-Para este segmento, el monitoreo es una actividad constante, ya que su vehículo es su herramienta de trabajo, por lo que su buen funcionamiento impacta directamente en sus ingresos. Para él detectar síntomas o problemas inusuales es una tarea habitual, para así anticiparse a los problemas. Suele depender de técnicos para diagnósticos y reparaciones complejas. A diferencia de los demás, Martín es precavido en el cuidado de su vehículo, porque esté está vinculado a su economía.
+Para este segmento, el monitoreo es una actividad constante, ya que su vehículo es su herramienta de trabajo, por lo que su buen funcionamiento impacta directamente en sus ingresos. Para él, detectar síntomas o problemas inusuales es una tarea habitual, para así anticiparse a los problemas. Suele depender de técnicos para diagnósticos y reparaciones complejas. A diferencia de los demás, Martín es precavido en el cuidado de su vehículo, porque esté está vinculado a su economía.
  + Tercer Segmento, Juan Carlos Rojas:
 Para este segmento, su principal responsabilidad es diagnosticar fallas en diferentes vehículos, así como comunicarlos de manera clara al cliente, asegurándose de que comprendan el problema. A diferencia de los otros segmentos, para el mecánico, el manejo y la comunicación de información técnica no es una tarea ocasional, sino una función esencial y diaria.
 
