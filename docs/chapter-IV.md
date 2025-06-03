@@ -423,23 +423,43 @@ Para la elaboración del esquema de nuestra landing page, hemos utilizado la her
 
 desktop:
 
-![header](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+**Hero section**: La sección principal de la landing page.
 
-![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/explanatory-video.png)
+![header img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
 
-![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
-![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
+![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/introductory-video.png)
 
-![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
+![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
+
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
@@ -447,23 +467,43 @@ desktop:
 
 mobile:
 
-![header](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+**Hero section**: La sección principal de la landing page.
 
-![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/explanatory-video.png)
+![header img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
 
-![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscriptions.png)
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
-![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
+![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/introductory-video.png)
 
-![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
+![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
+
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
@@ -474,23 +514,43 @@ Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos pe
 
 Desktop:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+![explanatory img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
+
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
+![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we.png)
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we-web.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
+
+![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
+
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
+![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
@@ -498,25 +558,45 @@ Desktop:
 
 Mobile:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+![explanatory-video img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
+
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
+![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we.png)
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we-web.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
 
-![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
+
+![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
+![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
 **Enlace:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
 
