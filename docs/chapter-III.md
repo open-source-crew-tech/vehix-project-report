@@ -2,20 +2,28 @@
 ## 3.1. To-Be Scenario Mapping
 En esta sección se abordará el To-Be Scenario Mapping para cada uno de las User Persona, en el cual describiremos en filas Phases, Doing, Thinking y Feeling.
 
-Segmento 1:
+**Segmento 1: Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.**
+
+En el siguiente escenario se muestran las fases que se ha considerado a través de una lluvia de ideas con el equipo, siendo: Uso diaria del auto, notan un comportamiento extraño, problema evidente y post-reparación. Siendo estos los escenarios clave donde se presenta del gran aporte de la aplicación con respecto a sus requisitos. Asimismo, se recata el análisis en tiempo real del vehículo, como actividad principal.
 
 ![to-be-scenario-mapping-segment-1](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.jpg)
 
-Segemento 2: 
+
+**Segmento 2: Conductores independientes que generan ingresos con su vehículo.**
+
+En el siguiente escenario se muestran las fases que se ha considerado a través de una lluvia de ideas con el equipo, siendo: Inicio de jornada laboral, Durante el trabajo, Falla crítica o emergencia y Evaluación del gasto. Siendo estos los escenarios clave donde se presenta del gran aporte de la aplicación con respecto a sus requisitos. Asimismo, se recata la ayuda activa de la aplicación para poder derivar a mecánicos cercanos y a la vez el diagnóstico rápido para manejar sin preocupación.
 
 ![to-be-scenario-mapping-segment-2](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-2.jpg)
 
-Segemento 3:
+
+**Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes.**
+
+En el siguiente escenario se muestran las fases que se ha considerado a través de una lluvia de ideas con el equipo, siendo: Cliente llega con una falla, Diagnóstico, Datos útiles y Registro del caso. Siendo estos los escenarios clave donde se presenta del gran aporte de la aplicación con respecto a sus requisitos. Asimismo, el diagnóstico rápido, ahorro de tiempo y lenguage técnico.
 
 ![to-be-scenario-mapping-segment-3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
 
 ## 3.2. User Stories
-En esta sección el equipo redacta la definición y la elaboración de los User Stories. Las historias de usuario son un recurso clave para construir software y diseñar proyectos con enfoque en las necesidades y experiencias de las personas.
+En esta sección el equipo redacta la definición y la elaboración de los User Stories (Como, Quiero y Para). Las historias de usuario son un recurso clave para construir software y diseñar proyectos con enfoque en las necesidades y experiencias de las personas. De manera que se a usado la sintaxis Gherkin para los tests de aceptación.
 
 | Epic /Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | ----- | ----- | ----- |
@@ -72,11 +80,11 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 
 
 ## 3.3. Impact Mapping
-En este sección, nuestro equipo expone el uso del Impact Mapping, una técnica visual y participativa que permite conectar metas estratégicas con los resultados esperados, fomentando la alineación y el enfoque del equipo.
+En esta sección, nuestro equipo expone el uso del Impact Mapping, una técnica visual y participativa que permite conectar metas estratégicas con los resultados esperados, fomentando la alineación y el enfoque del equipo.
 
 ![impactmapping](/assets/imgs/chapter-III/Impact-map.png)
 ## 3.4. Product Backlog
-En el Product Backlog mostraremos una lista ordenada de nuestras historias de usuario, priorizadas de acuerdo con el consenso del equipo. Para estimar la complejidad de cada tarea, empleamos la secuencia de Fibonacci (1, 2, 3, 5, 8) como referencia. 
+A continuación se detalla el Product Backlog del proyecto Vehix. En el Product Backlog mostraremos una lista ordenada de nuestras historias de usuario, priorizadas de acuerdo con el consenso del equipo. Para estimar la complejidad de cada tarea, empleamos la secuencia de Fibonacci (1, 2, 3, 5, 8) como referencia. 
 
 <table>
         <tr>
@@ -387,5 +395,5 @@ A continuación, se le hace presente el link del product backlog
 
 **Link:**  [Product Backlog](https://antonionavarroch24.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiYjc5OTdkY2Q0ZTlmNGFmN2FkYWIxNWU3Zjk0NzY1MWEiLCJwIjoiaiJ9)
 
-Además se le presenta la captura de imagen del proct backlog el cual ha sido diseñado en la herramienta de Jira
+Además se presenta la captura de imagen del product backlog, el cual ha sido diseñado en la herramienta de Jira
 ![Jira](/assets/imgs/chapter-III/jira.png)
