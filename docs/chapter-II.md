@@ -995,22 +995,23 @@ Con el fin de desarrollar un producto alineado con las necesidades específicas 
 ### 2.3.1. User Personas
 Después de un análisis de las entrevistas de cada segmento objetivo. Hemos elaborado perfiles de usuario teniendo en cuenta las características identificadas en cada entrevista. A continuación, se mostrarán los user personas, los cuales fueron creados en base a los análisis de entrevistas y los resúmenes de cada una de ellas.
 
-**Segmento 1**
+**Segmento 1:** <br>
 Para la elaboración de el User persona para el segmento 1 (Propietarios de vehículos urbanos), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
 
 
-**Segmento 2**
+**Segmento 2:** <br>
 Para la elaboración de el User persona para el segmento 2 (Conductores independientes que generan ingresos con su vehículo), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3:** <br>
 Para la elaboración de el User persona para el segmento 3 (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
+
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos, que está dada por nuestros tres segmentos objetivos:
  + Primer segmento: Propietaria de vehículo urbano, que está representada por Carla Torres Alvarado. 
@@ -1047,19 +1048,19 @@ Para este segmento, su principal responsabilidad es diagnosticar fallas en difer
 ### 2.3.3. User Journey Mapping
 Esta sección presenta los User Journey Maps correspondientes a cada User Persona, ofreciendo una visión integral del recorrido del usuario desde el comienzo hasta el final. Estos mapas reflejan el estado actual (As-Is) de cada segmento, sin proponer aún soluciones.
 
-**Segmento 1**
+**Segmento 1:** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 1 (Propietarios de vehículos urbanos), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
 
 
-**Segmento 2**
+**Segmento 2:** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 2 (Conductores independientes que generan ingresos con su vehículo), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-2](/assets/imgs/chapter-II/user-journey-mapping-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3:** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 3 (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
@@ -1068,19 +1069,19 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ### 2.3.4. Empathy Mapping
 El siguiente paso dentro del proceso de needfinding consiste en evaluar a nuestros segmentos objetivos mediante empathy maps, con el fin de comprender mejor a estos segmentos e identificar sus necesidades más profundas.
 
-**Segmento 1**
+**Segmento 1:** <br>
 Por la presente heramienta se ha buscado abordar la elaboración del Empathy Mapping para el primer segmento (Propietarios de vehículos urbanos), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 
 ![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
 
 
-**Segmento 2**
+**Segmento 2:** <br>
 Por la presente heramienta se ha buscado abordar la elaboración del Empathy Mapping para el segundo segmento (Conductores independientes que generan ingresos con su vehículo), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 
 ![empathy-mapping-segment-2](/assets/imgs/chapter-II/empathy-mapping-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3:** <br>
 Por la presente heramienta se ha buscado abordar la elaboración del Empathy Mapping para el tercer segmento (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 
 ![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
@@ -1088,17 +1089,17 @@ Por la presente heramienta se ha buscado abordar la elaboración del Empathy Map
 ### 2.3.5. As-is Scenario Mapping
 En esta sección se desarrollará el As-Is Scenario Mapping para ambos segmentos, detallando cómo deben estructurarse las experiencias en cada una de sus fases.
 
-**Segmento 1**
+**Segmento 1:** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el primer segmento (Propietarios de vehículos urbanos).
 
 ![as-is-scenario-segmento-1](/assets/imgs/chapter-II/as-is-scenario-segmento-1.jpg)
 
-**Segmento 2**
+**Segmento 2:** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el segundo segmento (Conductores independientes que generan ingresos con su vehículo).
 
 ![as-is-scenario-segmento-2](/assets/imgs/chapter-II/as-is-scenario-segmento-2.jpg)
 
-**Segmento 3**
+**Segmento 3:** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el tercer segmento (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes).
 
 ![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
