@@ -3,7 +3,7 @@
 Seguidamente, se mostrará un repositorio centralizado y estructurado que funcionará como referencia para un desarrollo enfocado y coherente de nuestra solución. Además se incluyen otras secciones para Source Code Management, Development Environment Configuration y Deployment Configuration.
 
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección se detallan las herramientas y plataformas que se utilizaron para el desarrollo de la aplicacion Vehix
+En esta sección, se detalla la configuración del entorno de desarrollo utilizado para construir la aplicación Vehix. Se describen las herramientas y plataformas que facilitaron la planificación del proyecto, el diseño centrado en el usuario, el desarrollo frontend y backend, las pruebas automatizadas y la documentación técnica. Estas soluciones permitieron una colaboración efectiva entre los miembros del equipo, asegurando un desarrollo ágil, organizado y alineado con los objetivos del sistema.
 ## Gestión del Proyecto
 La gestión del proyecto es clave para coordinar actividades, tareas y equipos, asegurando que el proyecto Vehix avance dentro de los tiempos y objetivos planteados.
 
@@ -268,7 +268,7 @@ En esta sección se detalla y demuestra el proceso llevado a cabo para la implem
 En esta sección, documentaremos y explicaremos el desarrollo del Sprint 1 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
 
 #### 5.2.1.1. Sprint Planning 1
-En esta sección, especificáremos los principales aspectos del Sprint Planning Meeting 1.
+En esta sección, especificaremos los principales aspectos del Sprint Planning Meeting 1.
 
 <table>
 	<tbody>
@@ -1117,7 +1117,8 @@ Vista problem forecasting
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
-A continuación se muestra el proyecto el cual evidencia el desplique de la aplicación
+A continuación se muestra el proyecto el cual evidencia el despliegue de la aplicación
+
 ![image-1](/assets/imgs/chapter-V/despliegue1.png)
 ![image-2](/assets/imgs/chapter-V/despliegue2.png)
 ![image-3](/assets/imgs/chapter-V/despliegue3.png)
@@ -1131,7 +1132,7 @@ A continuacíon se presenta la aplicación desplegada
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
+En esta sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
 
 ![image-1](/assets/imgs/chapter-V/1.png)
 
@@ -1153,7 +1154,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
 
 #### 5.2.3.5. Execution evidence for Sprint Review
-Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
