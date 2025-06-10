@@ -423,47 +423,87 @@ Para la elaboración del esquema de nuestra landing page, hemos utilizado la her
 
 desktop:
 
+**Hero section**: La sección principal de la landing page.
+
 ![header](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
 **Enlace:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
-mobile:
+Mobile:
+
+**Hero section**: La sección principal de la landing page.
 
 ![header](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
 
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
+
 ![explanatory-video](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/explanatory-video.png)
+
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
 
 ![subscriptions](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscriptions.png)
 
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
+
 ![benefits](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
+
+**Testimonials**: Se mostrarán testimonios de usuarios.
 
 ![testimonials](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
 
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
+
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
+
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
 
 ![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
 
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
+
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
@@ -474,23 +514,43 @@ Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos pe
 
 Desktop:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
@@ -498,23 +558,43 @@ Desktop:
 
 Mobile:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
 
@@ -522,6 +602,7 @@ Mobile:
 
 ## 4.4. Web Applications UX/UI Design
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales. 
+
 ### 4.4.1. Web Applications Wireframes
 A continuación, hemos creado el diseño de los wireframes para el diseño de nuestras aplicaciones, lo que ayudará a planificar la interfaz y la navegación antes de empezar su desarrollo. Para este proyecto utilizamos la herramienta Figma para la elaboración de los wireframes de manera colaborativa y eficiente.
 
@@ -721,6 +802,7 @@ Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, 
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
+
 **Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
 
 A continuación, se muestran los diagramas de flujo que ilustran los recorridos de los usuarios en función de los User Goals.
