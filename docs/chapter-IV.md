@@ -619,45 +619,45 @@ Vistas para registro e ingreso del usuario, además está la vista para escoger 
 
 Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
 
-![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
+![maintenance](/assets/imgs/chapter-IV/wireframe/plan-pro/maintenance-view-1.png)
 
-![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
+![maintenance](/assets/imgs/chapter-IV/wireframe/plan-pro/maintenance-view-2.png)
 
 Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
 
-![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-1.png)
+![library](/assets/imgs/chapter-IV/wireframe/plan-pro/library-view-1.png)
 
-![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+![library](/assets/imgs/chapter-IV/wireframe/plan-pro/library-view-2.png)
 
 Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
 
-![sync](/assets/imgs/chapter-IV/wireframes/plan-pro/sync-views.png)
+![sync](/assets/imgs/chapter-IV/wireframe/plan-pro/sync-views.png)
 
 Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
 
-![profile](/assets/imgs/chapter-IV/wireframes/plan-pro/profile-views.png)
+![profile](/assets/imgs/chapter-IV/wireframe/plan-pro/profile-views.png)
 
 ### Plan STANDARD
 
 Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
 
-![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-11.png)
+![maintenance](/assets/imgs/chapter-IV/wireframe/plan-standard/maintenance-view-11.png)
 
-![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-22.png)
+![maintenance](/assets/imgs/chapter-IV/wireframe/plan-standard/maintenance-view-22.png)
 
 Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
 
-![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-11.png)
+![library](/assets/imgs/chapter-IV/wireframe/plan-standard/library-view-11.png)
 
-![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-22.png)
+![library](/assets/imgs/chapter-IV/wireframe/plan-standard/library-view-22.png)
 
 Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
 
-![sync](/assets/imgs/chapter-IV/wireframes/plan-standard/sync-view.png)
+![sync](/assets/imgs/chapter-IV/wireframe/plan-standard/sync-view.png)
 
 Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
 
-![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile-view.png)
+![profile](/assets/imgs/chapter-IV/wireframe/plan-standard/profile-view.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -776,7 +776,7 @@ Los siguientes mock-ups pertenecen al manejo de perfil del usuario.
 
 Los siguientes mock-ups pertenecen a la vista manejo de "home".
 
-![home](/assets/imgs/chapter-IV/mock-up/plan-pro/home.png)
+![home](/assets/imgs/chapter-IV/mock-up/plan-standard/home.png)
 
 ### Plan STANDARD
 
