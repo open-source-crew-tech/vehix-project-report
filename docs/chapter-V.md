@@ -273,56 +273,57 @@ En esta sección, especificaremos los principales aspectos del Sprint Planning M
 <table>
 	<tbody>
 		<tr>
-			<td>Sprint #</td>
+			<td><strong>Sprint #</strong></td>
 			<td>Sprint 1</td>
 		</tr>
 		<tr>
-			<td colspan="2">Spring Planing Background</td>
+			<td colspan="2"><strong>Spring Planing Background</strong></td>
 		</tr>
 		<tr>
-			<td>Date</td>
+			<td><strong>Date</strong></td>
 			<td>2025-05-22</td>
 		</tr>
 		<tr>
-			<td>Time</td>
+			<td><strong>Time</strong></td>
 			<td>4:50 PM</td>
 		</tr>
 		<tr>
-			<td>Location</td>
+			<td><strong>Location</strong></td>
 			<td>Remote mode through the GitHub platform</td>
 		</tr>
 		<tr>
-			<td colspan="2">Prepared by</td>
+			<td colspan="2"><strong>Prepared by</strong></td>
 		</tr>
 		<tr>
-			<td>Attends (to planinning meeting)</td>
+			<td><strong>Attends (to planinning meeting)</strong></td>
 			<td>All members of crewtech</td>
 		</tr>
 		<tr>
-			<td>Sprint 0 Review Summary</td>
+			<td><strong>Sprint 0 Review Summary</strong></td>
 			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
 		</tr>
 		<tr>
-			<td>Sprint 0 Retrospective Summary</td>
+			<td><strong>Sprint 0 Retrospective Summary</strong></td>
 			<td>Since this is our initial development sprint, a sprint summary has not yet been completed.</td>
 		</tr>
 		<tr>
-			<td colspan="2">Sprint Goal & User Stories</td>
+			<td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
 		</tr>
 		<tr>
-			<td>Spritn 1 Goal</td>
+			<td><strong>Spritn 1 Goal</strong></td>
 			<td>We're focusing on building our landing page. We believe this contributes to the sustainability of the product within our organization. This will be confirmed when we see a significant increase in engagement with our landing page.</td>
 		</tr>
 		<tr>
-			<td>Sprint 1 Velocity</td>
-			<td>12</td>
+			<td><strong>Sprint 1 Velocity</strong></td>
+			<td>11</td>
 		</tr>
 		<tr>
-			<td>Sum of Story points</td>
-			<td>26</td>
+			<td><strong>Sum of Story points</strong></td>
+			<td>34</td>
 		</tr>
 	</tbody>
 </table>
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 1.
@@ -336,6 +337,7 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 
 #### 5.2.1.3. Sprint Backlog 1
 Nuestro principal objetivo con este primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en Vehix informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de su pagina web. 
+
 <table>
 	<tbody>
 		<tr>
@@ -358,7 +360,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td rowspan="3">EP02-US02</td>
-			<td rowspan="3">Atajos</td>
+			<td rowspan="3">Búsqueda de Contenido</td>
 			<td>T1</td>
 			<td>Añadir lista de etiquetas</td>
 			<td>Se añadirán las etiquetas de “Home”,” Subscriptions”,” Benefits”,” Testimonial”, ¿” Who are we?”, “FAQ”, “Support” y “Compatitbility”</td>
@@ -384,7 +386,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td>EP02-US03</td>
-			<td>Evidencia de beneficios</td>
+			<td>Lista de beneficios</td>
 			<td>T4</td>
 			<td>Añadir lista de beneficios y estilo</td>
 			<td>Se añade una lista de beneficios de usar la plataforma y estilos correspondientes</td>
@@ -393,8 +395,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US31</td>
-			<td rowspan="2">Contextualización de la plataforma</td>
+			<td rowspan="2">EP02-US29</td>
+			<td rowspan="2">Acceso a la Aplicación desde la Página Principal</td>
 			<td>T5</td>
 			<td>Añadir descripción de la aplicación</td>
 			<td>Se agrega un párrafo atractivo y concreto para el visitante</td>
@@ -404,15 +406,15 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td>T6</td>
-			<td>Añadir imágenes y estilos</td>
-			<td>Se agrega imagen referencial de dispositivos compatibles y estilos correspondientes</td>
+			<td>Añadir imágenes y referencias</td>
+			<td>Se agarega imagenes referenciales al aplicativo y se agrega los botones de redirección</td>
 			<td>1</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US32</td>
-			<td rowspan="2">Testimonios</td>
+			<td rowspan="2">EP02-US30</td>
+			<td rowspan="2">Implementación de testimonios</td>
 			<td>T7</td>
 			<td>Añadir comentarios</td>
 			<td>Se agrega un comentario por cada usuario acerca de su experiencia con la aplicación</td>
@@ -429,8 +431,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US33</td>
-			<td rowspan="2">Suscripciones</td>
+			<td rowspan="2">EP02-US31</td>
+			<td rowspan="2">Crear planes de suscripción</td>
 			<td>T9</td>
 			<td>Añadir tipo de plan y precios</td>
 			<td>Se agregan los títulos de cada plan y sus precios</td>
@@ -447,25 +449,25 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US34</td>
-			<td rowspan="2">Video introductorio</td>
+			<td rowspan="2">EP02-US36</td>
+			<td rowspan="2">Soporte Multilingüe</td>
 			<td>T11</td>
-			<td>Creación de video</td>
-			<td>Se sube video de guía a YouTube acerca de cómo funciona la aplicación</td>
+			<td>Creación de archivo en.html</td>
+			<td>Se traduce el contenido de inglés a español en un archivo html</td>
 			<td>0.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T12</td>
-			<td>Añadir video y estilo</td>
-			<td>Se agrega el link del video de YouTube junto al estilo predefinido</td>
+			<td>Añadir botón de idioma</td>
+			<td>Se agrega el botón de idioma para que el usuario eliga el de su preferencia</td>
 			<td>0.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US35</td>
+			<td rowspan="2">EP02-US33</td>
 			<td rowspan="2">Soporte y redes</td>
 			<td>T13</td>
 			<td>Añadir redes</td>
@@ -483,8 +485,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US36</td>
-			<td rowspan="2">Diseño responsive</td>
+			<td rowspan="2">EP02-US34</td>
+			<td rowspan="2">Adaptación a diferentes dispositivos</td>
 			<td>T15</td>
 			<td>Correccion de errores</td>
 			<td>Se corrigen los errores de diseño responsive</td>
@@ -501,8 +503,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US37</td>
-			<td rowspan="2">Visualización de creadores</td>
+			<td rowspan="3">EP02-US35</td>
+			<td rowspan="3">Visualización de creadores</td>
 			<td>T17</td>
 			<td>Añadir imágenes y estilos</td>
 			<td>Se añade las fotos de cada integrante y se agregan el estilo correspondiente.</td>
@@ -519,16 +521,6 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US38</td>
-			<td rowspan="2">Visualización de redes</td>
-			<td>T19</td>
-			<td>Añadir pie de pagina</td>
-			<td>Se añade iconos referenciales de cada red social de la empresa</td>
-			<td>0.5</td>
-			<td>Sergio Julca</td>
-			<td>Done</td>
-		</tr>
-		<tr>
 			<td>T20</td>
 			<td>Añadir estilo al pie de pagina</td>
 			<td>Se añaden estilos predefinidos al pie de pagina</td>
@@ -537,7 +529,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP02-US39</td>
+			<td rowspan="3">EP02-US37</td>
 			<td rowspan="3">Preguntas frecuentes</td>
 			<td>T21</td>
 			<td>Añadir preguntas</td>
@@ -563,8 +555,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US40</td>
-			<td rowspan="2">Sección de vehículos compatibles</td>
+			<td rowspan="2">EP02-US38</td>
+			<td rowspan="2">Desarrollo de vehiculos compatibles</td>
 			<td>T24</td>
 			<td>Añadir información de vehículos compatibles</td>
 			<td>Se añade breve información de vehículos compatibles, resaltando el año y tipo de combustible.</td>
@@ -781,6 +773,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 
 #### 5.2.2.3. Sprint Backlog 2
 Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web y una segunda versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes.  
+
 <table>
 	<tbody>
 		<tr>
@@ -803,7 +796,7 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 		</tr>
 		<tr>
 			<td rowspan="4">EP03-US06</td>
-			<td rowspan="4">Historial de desgaste vehicular</td>
+			<td rowspan="4">Previsión de problemas</td>
 			<td>T1</td>
 			<td>Añadir imágenes</td>
 			<td>Se añaden imágenes para tener una mejor referencia</td>
@@ -836,8 +829,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US08</td>
-			<td rowspan="3">Diagnóstico vehicular PRO</td>
+			<td rowspan="3">EP03-US07</td>
+			<td rowspan="3">Diagnóstico vehicular</td>
 			<td>T1</td>
 			<td>Crear la vista diagnóstico</td>
 			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
@@ -862,13 +855,13 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US13</td>
+			<td rowspan="3">EP05-US12</td>
 			<td rowspan="3">Localizar un taller automotriz cercano</td>
 			<td>T1</td>
 			<td>Crear la estructura de la vista para encontrar un taller automotriz cercano</td>
 			<td>Se crea la estructura de la vista</td>
 			<td>1.5</td>
-			<td>Moises Espinoza</td>
+			<td>Moises </td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -888,8 +881,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US14</td>
-			<td rowspan="3">Ver descripción resumida de la falla del vehículo</td>
+			<td rowspan="3">EP06-US14</td>
+			<td rowspan="3">Estado de suscripción</td>
 			<td>T1</td>
 			<td>Mostrar resumen de la falla</td>
 			<td>Se muestra una breve descripción de la falla del vehículo en un párrafo</td>
@@ -914,21 +907,21 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="4">EP05-US18</td>
-			<td rowspan="4">Diagnostico Standard</td>
+			<td rowspan="4">EP05-US32</td>
+			<td rowspan="4">Guía de conexiones</td>
 			<td>T1</td>
-			<td>Crear la vista diagnóstico</td>
-			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
+			<td>Crear la vista sincronización</td>
+			<td>Dentro de la vista de "sync" crear la ruta correspondiente</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T2</td>
-			<td>Vinculación de la vista maintenance a la vista diagnóstico</td>
-			<td>Dentro de la vista maintenance habrá un componente que redirigirá a la vista diagnóstico rápido para una navegación óptima</td>
+			<td>Añadir componentes de dispositivos compatibles</td>
+			<td>Dentro de la vista de "sync", agregar los componentes que harán referencia a los dispositivos cercanos.</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -936,20 +929,20 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
 			<td>1</td>
-			<td>Moises Espinoza</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>T3</td>
+			<td>T4</td>
 			<td>Añadir componentes</td>
-			<td>Se crean los componentes respectivos</td>
+			<td>Se crean los componentes que falten</td>
 			<td>3</td>
-			<td>Moises Espinoza</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="4">EP05-US25</td>
-			<td rowspan="4">Datos técnicos</td>
+			<td rowspan="4">EP05-US23</td>
+			<td rowspan="4">Lengüage técnico</td>
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los datos técnicos</td>
@@ -982,8 +975,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US29</td>
-			<td rowspan="3">Estadística intuitiva</td>
+			<td rowspan="3">EP03-US27</td>
+			<td rowspan="3">Vida útil del coche</td>
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los gráficos estadísticos</td>
@@ -992,7 +985,7 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>T3</td>
+			<td>T2</td>
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
 			<td>2</td>
@@ -1144,12 +1137,565 @@ En esta sección, documentaremos y explicaremos el desarrollo del Sprint 3 en t�
 #### 5.2.3.1. Sprint Planning 3
 A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
 
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-05-27</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:30 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Presencial mode in classroom</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of CrewWeb</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have achived the creation of the landing page, interactive ind intuitive, with the respectives "call to action", which allows to redirect to our web application. But we need to remove the contact section.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>We consider that the call to action are importants in the development of the landing page to attract customers. Our product owner thinks that we need a better organization of our deliverables</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>we have achived the web application, developing the maintenance view and using internal and external API's. We consider that we achieved the objective, deploying the web application and showing the main views. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td> We consider that we have to improve the developent environment with gitflow, and update the project report with the new developed artifacts. </td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>our focus is on offering a login view,a sign up view and a library view, wich contains an different sections to read articles, watch videos and read documentation. Also allow the developer create requests (GET,POST,PUT and DELETE) of the vehicles, users, mechanics and technical history. We believe it delivers confidence and active use of the product to new customers. This will be confirmed when the customers interact actively with the new features that we will offer to them. </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
 En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
+| Team Member (Last Name, First Name) | GitHub Username | IAM | MONITORING | PREFERENCES | ANALYTICS | SUBSCRIPTIONS | ARM|
+| ------------------------------------|-----------------|-----|------------|-------------|-----------|---------------|----|
+| Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | C | C |
+| Julca Minaya, Sergio Gino | sergioJM05 | C | L | C | C | C | C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L | C | C| C | C |
+| Espinoza Chávez, Moisés Filemón | MoisesECh | C | C | C | C | C | C |
+
 
 #### 5.2.3.3. Sprint Backlog 3
 Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend. 
 
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>User Story</strong></td>
+			<td colspan="6"><strong>Work-item / Task</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Description</strong></td>
+			<td><strong>Estimation (Hours)</strong></td>
+			<td><strong>Assisgned To</strong></td>
+			<td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US10</td>
+			<td rowspan="4">Historial de vehículos</td>
+			<td>T1</td>
+			<td>Añadir datos complmentarios de vehículo en el db.json</td>
+			<td>Se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación del servicio vehiculo</td>
+			<td>Se añade y consume el servicio de vehículo</td>
+			<td>3</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Añadir componente para mostrar vehículo e i18n</td>
+			<td>Se añade el/los componente(s) mostrando los datos de la fake API. Asimismo se considera las 3 tecnologías fundamentales y el i18n</td>
+			<td>1.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Validaciones de negocio</td>
+			<td>Se añade validaciones para la cantidad de  vehículos, tipo de usuario y manejo de errores</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP05-US24</td>
+			<td rowspan="4">Biblioteca automotriz</td>
+			<td>T1</td>
+			<td>Añadir datos complementarios de vehículo en el db.json si se necesit a</td>
+			<td>se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes y consumo de servicios</td>
+			<td>Situarse en la vista "library", mostrar los componentes que lo incluyen como "articles" y "news" consumiendo los servicios correspondientes</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación con lógica de negocio</td>
+			<td>Validar el estado de plan y tipo de plan que tiene el usuario</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Redirecciones e in-app navigation</td>
+			<td>Se añade los botones e hupervínculos a los sitios estáticos correspondientes a cada sección de la biblioteca y considerandose las rutas predefinidas</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US12</td>
+			<td rowspan="4">Ingresar nuevo vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US16</td>
+			<td rowspan="4">Registrar mantenimiento realizado</td>
+			<td>T1</td>
+			<td>Crear componentes con respecto a fallas</td>
+			<td>Se crea componentes para registrar el mantimiento considerando el comentario de solucion</td>
+			<td>1.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Consumo de servicio de fallas y solución</td>
+			<td>Se crean las entidades de fallas y solucion, y se crea sus respectivo servicios</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validaciones de lógica de negocio sobre la solución</td>
+			<td>Se valida que el usuario tenga el plan pro, de lo contrario se considera "Upselling Content" </td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>In app navigation para registro de manenimiento</td>
+			<td>Se crea el enrutamiento correspondiente, considerando un nombre alusivo a la acción, cómo "maintenance register"</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP01-US30</td>
+			<td rowspan="4">Eliminación de vehículo</td>
+			<td>T1</td>
+			<td>Rehusar el servicio de vehículos y añadir solicitud http tipo DELETE</td>
+			<td>Se rehusa el servicio y se aumenta la funcionalidad "DELETE"</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creacion de componentes para la eliminacion de vehículo</td>
+			<td>Se añade el "delete icon" y se coloca por cada vehiculo</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Funcionalidad y validación de negocio</td>
+			<td>Se añade la funcionalidad poara eliminar y se valida si el usuario esta completamente seguro de realizar esa acción</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Verificar in-app navigation</td>
+			<td>Se verifica el estado de la ruta y se añade el lazy loading correspondiente</td>
+			<td>2</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US21</td>
+			<td rowspan="4">Vehículos registrados</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Vehículo en el Backend</td>
+			<td>Crear la estructura de datos que representará un vehículo en el backend.</td>
+			<td>3</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para Vehículos</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Vehículo. Esto incluye una operación para "crear" un nuevo vehículo en la tabla Vehicles.</td>
+			<td>1.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint POST para el Registro de Vehículos</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP POST. Este endpoint recibirá los datos del vehículo desde el frontend, los validará, utilizará la capa de acceso a datos para guardarlos en la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint POST.</td>
+			<td>Modificar el servicio de vehículos para que, en lugar de usar la Fake API, envíe los datos del vehículo al nuevo endpoint POST del backend real. Esto incluye manejar la suscripción a la respuesta del backend.</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US29</td>
+			<td rowspan="3">Estado del vehículo</td>
+			<td>T1</td>
+			<td>Consumir el servicio de vehiculo</td>
+			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes </td>
+			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Consideración de in-app navigation</td>
+			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
+			<td>1</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US26</td>
+			<td rowspan="3">Recordatorios de Revisiones técnicas</td>
+			<td>T1</td>
+			<td>Creación de entidad</td>
+			<td>Se añade la entidad de notificaciones</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Validaciones y consumo de servicios</td>
+			<td>Se añade las solicitudes http tipo GET y POST para la validación de creación de una nueva fecha para la revision ténica</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Visualización en desplegable</td>
+			<td>Se usa el componente a considerar y en el desplegable se muestran las notificaciones</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US23</td>
+			<td rowspan="3">Edición de información personal</td>
+			<td>T1</td>
+			<td>Actualización del servicio de "user"</td>
+			<td>Se añade en el servicio una petición http tipo "PUT", para actualizar los nueva información que ingrese el usuario</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de un componente card</td>
+			<td>Se añade dentro del componentes los inputs correspondientes y considerando i18n</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de datos</td>
+			<td>Se valida con la lógica de negocio que considera solo números para el dni. </td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US27</td>
+			<td rowspan="4">Registro de datos de vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US20</td>
+			<td rowspan="4">Mecánico cercanos</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Mecánico en el Backend</td>
+			<td>Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
+			<td>3</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Lógica de Llamada a la API de Google Maps en el Backend</td>
+			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados</td>
+			<td>1.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para la lectura de Mecánicos</td>
+			<td>Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend</td>
+			<td>1</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint GET.</td>
+			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US19</td>
+			<td rowspan="4">Historial técnico de vehiculo</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Historial ténico en el Backend</td>
+			<td>Crear la estructura de datos que representará un registro dentro del historial técnico de un vehículo. Esto implica decidir qué atributos tendrá cada evento</td>
+			<td>3</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para el Historial Técnico.</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Historial Técnico. Esto incluye una operación para "leer" los registros del historial técnico, específicamente buscando por el id de un vehículo.</td>
+			<td>1.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para el Historial Técnico de un Vehículo</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP GET para obtener el historial. Este endpoint recibirá el identificador del vehículo, utilizará la capa de acceso a datos para recuperar los registros del historial de la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td> Integrar el Frontend con el Nuevo Endpoint GET del Historial Técnico</td>
+			<td>Modificar el servicio de vehículos para que envíe una solicitud GET al nuevo endpoint del backend, pasando el id del vehículo.</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US15</td>
+			<td rowspan="2">Estado de suscripción</td>
+			<td>T1</td>
+			<td>Consumir servicio de suscripción</td>
+			<td>Consumir el servicio de suscripcion y de usuario de modo que se consiga el estado de suscripcion y fehca del usuario</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el componentes en la vista /profile de modo que aparezca los datos recuperados</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US09</td>
+			<td rowspan="3">Guardado de datos y cierre de sesión</td>
+			<td>T1</td>
+			<td>Consumir servicio user.singleton</td>
+			<td>Se consume el servicio del singleton para cerrar sesión y redirigirlo a la vista de registro</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el en la vista /profile de modo aparezca la opción de cerrar sesión</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de cerrado de sesión</td>
+			<td>Verificar que el singleton.user sea nulo</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-TS41</td>
+			<td rowspan="4">Actualizar datos de un vehículo</td>
+			<td>T1</td>
+			<td>Actualizar la Entidad de Vehículo en el Backend</td>
+			<td>Revisar la entidad Vehículo existente para asegurar que contiene todos los campos necesarios que un usuario podría querer actualizar. Si es necesario, añadir atributos</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Operación de Actualización (Update) en la Capa de Acceso a Datos para Vehículos.</td>
+			<td>Añadir o modificar la lógica en el componente para Vehículo que permita actualizar un registro existente en la base de datos. De manera que la operación toma el ID del vehículo a actualizar y los nuevos datos, y los cree en la tabla Vehicles.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint PUT para la Actualización de Vehículos</td>
+			<td>Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP PUT. Este endpoint recibirá el ID del vehículo a actualizar y los datos editados, validará la información, utilizará la capa de acceso a datos para aplicar la actualización y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Implementar la Interfaz de Usuario y la Integración Frontend para la Edición de Vehículo</td>
+			<td> Modificar los componentes correspondientes para que los usuarios puedan editar los datos de un vehículo existente. De manera que, tambien se debe cargar los datos actuales del vehículo, permitir la edición en un formulario y luego enviar los datos editados al nuevo endpoint PUT del backend.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
 #### 5.2.3.4. Development Evidence for Sprint Review
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
 
