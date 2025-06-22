@@ -1696,8 +1696,41 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 		</tr>
 	</tbody>
 </table>
+
+
 #### 5.2.3.4. Development Evidence for Sprint Review
+
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
+
+| Repository                      | Branch                          | Commit Id | Commit Message                          | Commit Message Body | Committed on |
+|--------------------------------|----------------------------------|-----------|------------------------------------------|----------------------|---------------|
+| sergioJM05/vehix-platform      | main                            | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | release                         | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | develop                         | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | feature/project-configuration   | 0a12508  | feat: add project configuration and dependencies. | –          | 03/06/2025    |
+| sergioJM05/vehix-platform      | develop                         | bf0e013  | feat: add project configuration and dependencies | –          | 03/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/package-configurations  | bf0e013  | chore: initial commit                    | –                    | 13/06/2025    |
+| sergioJM05/vehix-platform      | feature/monitoring-value-objects| a5180ac  | feat(monitoring): add monitoring value objects. | –          | 17/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/monitoring              | 1b7a87f  | feature(monitoring): add monitoring.     | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/monitoring              | 7940eed  | feature(monitoring): add monitoring.     | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | bf0e013  | feature/monitoring                       | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | fb93510  | feature: add docker an properties files. | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 470a56e  | feature: add docker and properties files.| Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | fb93510  | feature: add docker file.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | d29b852  | feature: update docker file.             | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | e3f3046  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 7a29267  | feature: update properties files.        | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | d1e5286  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 9a72de5  | feature/ update popm.xml                 | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 19ae1cf  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | ab497f6  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 28ed97d  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 605d635  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 1e36800  | feature: update properties and pom files.| –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | ca08c8f  | feature: update VehixPlatformApplication.| –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | d9627f8  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | e158eb9  | feature: update structure project.       | –                    | 21/06/2025    | 
+
 
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
@@ -1714,7 +1747,6 @@ En este sección se evidencia como el equipo a trabajado de manera colaborativa 
 
 ## 5.3. Validation Interviews
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
-
 
 ### 5.3.1. Design Interviews
 En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
@@ -1891,6 +1923,8 @@ Distrito: San Juan de Miraflores
 Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento de propietarios de vehículos de uso personal, se evaluó su interacción con la landing page y la aplicación web de Vehix. Ariana navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor que ofrece la plataforma. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios y beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control sobre el estado de su vehículo.
 
 Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
+
+Segmento 3: Propietarios de vehículos urbanos (uso personal)
 
 Entrevista 7: 
 
