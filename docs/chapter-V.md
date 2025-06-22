@@ -1696,8 +1696,41 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 		</tr>
 	</tbody>
 </table>
+
+
 #### 5.2.3.4. Development Evidence for Sprint Review
+
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
+
+| Repository                      | Branch                          | Commit Id | Commit Message                          | Commit Message Body | Committed on |
+|--------------------------------|----------------------------------|-----------|------------------------------------------|----------------------|---------------|
+| sergioJM05/vehix-platform      | main                            | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | release                         | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | develop                         | e56428e  | chore: initial commit                    | –                    | 02/06/2025    |
+| sergioJM05/vehix-platform      | feature/project-configuration   | 0a12508  | feat: add project configuration and dependencies. | –          | 03/06/2025    |
+| sergioJM05/vehix-platform      | develop                         | bf0e013  | feat: add project configuration and dependencies | –          | 03/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/package-configurations  | bf0e013  | chore: initial commit                    | –                    | 13/06/2025    |
+| sergioJM05/vehix-platform      | feature/monitoring-value-objects| a5180ac  | feat(monitoring): add monitoring value objects. | –          | 17/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/monitoring              | 1b7a87f  | feature(monitoring): add monitoring.     | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/monitoring              | 7940eed  | feature(monitoring): add monitoring.     | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | bf0e013  | feature/monitoring                       | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | fb93510  | feature: add docker an properties files. | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 470a56e  | feature: add docker and properties files.| Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | fb93510  | feature: add docker file.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | d29b852  | feature: update docker file.             | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | e3f3046  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 7a29267  | feature: update properties files.        | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | d1e5286  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | develop                         | 9a72de5  | feature/ update popm.xml                 | Pull request merge   | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 19ae1cf  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | ab497f6  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 28ed97d  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 605d635  | feature: update properties files.        | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | 1e36800  | feature: update properties and pom files.| –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | ca08c8f  | feature: update VehixPlatformApplication.| –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | d9627f8  | feature: update pomp.xml.                | –                    | 20/06/2025    |
+| AntonioNavarro24/vehix-platform | feature/aggregate-file-docker   | e158eb9  | feature: update structure project.       | –                    | 21/06/2025    | 
+
 
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
@@ -1723,12 +1756,206 @@ En este sección se evidencia como el equipo a trabajado de manera colaborativa 
 ## 5.3. Validation Interviews
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
 
-
 ### 5.3.1. Design Interviews
 En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
 
+En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
+
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Objetivo de la validación:
+Comprobar si los usuarios entienden el valor de la plataforma para el mantenimiento preventivo y registro de su vehículo.
+
+Elementos a incluir:
+
+- Claridad del mensaje principal en la landing page
+
+- Llamado a la acción (CTA)
+
+- Opiniones sobre testimonios y beneficios listados.
+
+- Visualización e interacción con el mapa digital
+
+- Visualización de mecánicos
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: Descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+Segmento 2: Conductores independientes (Uber, InDriver, taxi, delivery)
+
+Objetivo de la validación:
+Validar si la plataforma les ayuda a optimizar el tiempo de mantenimiento y reducir fallas inesperadas que afectan sus ingresos.
+
+Elementos a incluir:
+
+- Mensaje de valor centrado en eficiencia y reducción de tiempo de inactividad.
+
+- Testimonios de otros conductores.
+
+- Registro de vehículos
+
+- Visualización de problemas del vehículo
+
+- Escaneo del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+User Flow 11: Escaneo básico del vehículo
+
+Segmento 3: Mecánicos o técnicos automotrices
+
+Objetivo de la validación:
+Determinar si la aplicación puede mejorar la comunicación con sus clientes y ayudar en la gestión de diagnósticos.
+
+Elementos a incluir:
+
+- Enfoque en la gestión profesional de talleres o servicios técnicos.
+
+- Beneficios como digitalización de diagnósticos, historial del vehículo, contacto con clientes.
+
+- CTA dirigido: “Optimiza tu taller con Vehix”.
+
+- Visualización de los vehículos registrados
+
+- Visualización de la bibliteca automotriz y su contenido
+
+- Visualización de datos del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 3: Sincronización con el vehículo
+
+User Flow 4: Registro de vehículo
+
+User Flow 8: Acceso a biblioteca automotriz
+
+User Flow 13: Visualizar el estado técnico del vehículo con datos detallados
+
 ### 5.3.2. Interview Record
 En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
+
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Entrevista 1:
+
+![lucas val](/assets/imgs/chapter-V/lucas_val.png)
+
+[00:00 - 9:55]
+
+Duración: 9 minutos 55 segundos
+
+Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
+
+Nombre: Lucas 
+
+Apellidos: Sanchez Heredia
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con Lucas, un usuario representativo del segmento de propietarios de vehículos urbanos, se evaluaron tanto la landing page como la aplicación web de Vehix. Lucas interactuó activamente con la landing page, mostrando interés y comprensión del mensaje principal. La propuesta de valor fue clara y atractiva, y el llamado a la acción (CTA) fue identificado con facilidad. Los testimonios y beneficios listados fueron percibidos como útiles y confiables. Además, pudo visualizar correctamente el mapa digital y la lista de mecánicos cercanos, encontrándolos funcionales y relevantes. Los paneles de errores también fueron valorados positivamente, ya que aportan información útil para el diagnóstico.
+
+En cuanto a la aplicación web, Lucas completó con éxito todos los flujos de usuario asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron intuitivos y sin dificultades. El registro del vehículo (User Flow 4) se realizó de forma clara, y la descripción del problema (User Flow 6) permitió expresar fácilmente el fallo percibido. Finalmente, la funcionalidad que muestra talleres mecánicos cercanos (User Flow 7) fue destacada como una característica especialmente útil.
+
+Entrevista 2:
+
+![cesar val](/assets/imgs/chapter-V/cesar_val.png)
+
+[9:55 - 20:39]
+
+Duración: 10 minutos 44 segundos
+
+Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
+
+Nombre: Cesar 
+
+Apellidos: Bonifacio
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con César, también perteneciente al segmento de propietarios de vehículos urbanos de uso personal, se observaron reacciones positivas frente a la propuesta de Vehix. César exploró con atención la landing page, mostrando comprensión del mensaje principal y del propósito general de la plataforma. El llamado a la acción (CTA) fue claro para él, y consideró útiles los beneficios destacados y los testimonios de otros usuarios. Además, interactuó sin inconvenientes con el mapa digital y la visualización de mecánicos cercanos, funciones que consideró prácticas para casos de emergencia o mantenimiento regular. Los paneles de errores también llamaron su atención, reconociendo su utilidad para entender mejor el estado del vehículo.
+
+En lo referente a la aplicación web, César completó correctamente todos los flujos de usuario evaluados. El registro en la plataforma (User Flow 1) y el inicio de sesión (User Flow 2) fueron realizados sin complicaciones, mostrando fluidez en la interfaz. El registro de su vehículo (User Flow 4) le resultó sencillo, y destacó lo intuitivo del proceso. También logró describir el problema de su vehículo (User Flow 6) de manera clara gracias al diseño de la interfaz. Finalmente, valoró positivamente la opción de visualizar talleres mecánicos cercanos (User Flow 7), resaltando que es una función que usaría con frecuencia.
+
+Entrevista 3: 
+
+![ariana val](/assets/imgs/chapter-V/ariana_val.png)
+
+[20:39 - 28:45]
+
+Duración: 8 minutos 6 segundos
+
+Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=pr88mb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIzOS4xMn19)
+
+Nombre: Ariana 
+
+Apellidos: Yassan Laredo
+
+Edad: 25 años
+
+Distrito: San Juan de Miraflores
+
+Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento de propietarios de vehículos de uso personal, se evaluó su interacción con la landing page y la aplicación web de Vehix. Ariana navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor que ofrece la plataforma. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios y beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control sobre el estado de su vehículo.
+
+Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
+
+Segmento 3: Propietarios de vehículos urbanos (uso personal)
+
+Entrevista 7: 
+
+![richard val](/assets/imgs/chapter-V/richard_val.png)
+
+[28:45 - 42:18]
+
+Duración: 13 minutos 33 segundos
+
+Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=K5N5mZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTcyNS45OH19)
+
+Nombre: Richard 
+
+Apellidos: Rios Sandoval
+
+Edad: 54 años
+
+Distrito: Villa el Salvador
+
+Resumen: Durante la validación con Richard, mecánico automotriz, se evaluaron la landing page y la aplicación web de Vehix desde el enfoque profesional del Segmento 3. Richard comprendió rápidamente la propuesta de valor, destacando el mensaje principal y apreciando beneficios como la digitalización de diagnósticos, el historial del vehículo y el contacto con clientes. También valoró positivamente la visualización de vehículos registrados, la biblioteca automotriz y los paneles de errores, considerándolos herramientas útiles para su trabajo diario.
+
+Al ingresar a la aplicación web, Richard completó satisfactoriamente los flujos asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron simples e intuitivos. Pudo realizar la sincronización con el vehículo (User Flow 3) sin complicaciones, lo cual consideró un punto clave para agilizar diagnósticos. El registro de vehículos (User Flow 4) también fue directo, y destacó la importancia de esta función para mantener un control ordenado de sus clientes. Además, navegó por la biblioteca automotriz (User Flow 8), encontrando información técnica relevante y bien organizada, lo que consideró un gran apoyo para su trabajo. Finalmente, al visualizar el estado técnico del vehículo con datos detallados (User Flow 13), valoró especialmente los paneles de errores y la presentación clara de los datos, mencionando que esta información le permitiría comunicarse mejor con sus clientes y respaldar sus diagnósticos con evidencia concreta.
+
 
 ### 5.3.3. Evaluation based on heuristics
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
@@ -1736,10 +1963,10 @@ Esta sección contiene el proceso de evaluación de las sesiones de validación 
 #### Usability – Inclusive Design – Information Architecture
 ---
 CARRERA: Ingeniería de Software
-CURSO : Aplicaciones Web
+CURSO : Desarrollo de Aplicaciones Open Source
 SECCIÓN : 4368
 PROFESORES : Todos
-AUDITOR : CrewWeb
+AUDITOR : CrewTech
 CLIENTE(S) : 
 ---
 **SITE o APP A EVALUAR:**
@@ -1764,21 +1991,21 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
-|Nivel|Descripción|
+| Nivel | Descripción |
 |-----|-----------|
-|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 **TABLA RESUMEN:**
-|#|Problema|Escala de severidad|Heurística/Principio violado(a)|
+| # | Problema | Escala de severidad | Heurística/Principio violado(a) |
 |--|-------|-------------------|-------------------------------|
-|1|Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.|4|Usabilidad - Flexibilidad y eficiencia de uso|
-|2|El sistema no siempre confirma claramente el éxito de una acción importante.|3|Usabilidad - Visibilidad del estado del sistema|
-|3|El sistema no siempre confirma claramente el éxito de una acción importante.|2|Usabilidad - Visibilidad del estado del sistema|
-|4|La sección de analíticas no responde al hacer clic, sin avisar su estado.|3|Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario|
-|5|No hay un botón de retroceso fácil en las secciones de la librería.|2|Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares|
+| 1 | Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.| 4 | Usabilidad - Flexibilidad y eficiencia de uso |
+| 2 | El sistema no siempre confirma claramente el éxito de una acción importante. | 3 | Usabilidad - Visibilidad del estado del sistema |
+| 3 | El sistema no siempre confirma claramente el éxito de una acción importante. | 2 | Usabilidad - Visibilidad del estado del sistema |
+| 4 | La sección de analíticas no responde al hacer clic, sin avisar su estado. | 3 | Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario |
+| 5 | No hay un botón de retroceso fácil en las secciones de la librería. | 2 | Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares |
 
 
 **DESCRIPCIÓN DE RPOBLEMAS:**
