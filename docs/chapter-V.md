@@ -1704,7 +1704,11 @@ Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de l
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
+![Image](/assets/imgs/chapter-V/swagger.png)
 
+![Image](/assets/imgs/chapter-V/values_end_points.png)
+
+![Image](/assets/imgs/chapter-V/failure-connection.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
