@@ -1711,9 +1711,15 @@ En esta sección se incluye la relación de los endpoints documentados.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+![Image](/assets/imgs/chapter-V/swagger.png)
+
+
+En esta captura, se no hemos llegado a desplegar el backend por un error de conexión.
+![Image](/assets/imgs/chapter-V/failure-connection.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
+![Image](/assets/imgs/chapter-V/commits-evidents.png)
 
 ## 5.3. Validation Interviews
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
