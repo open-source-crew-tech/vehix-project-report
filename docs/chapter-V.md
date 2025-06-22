@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/5636a633-ea7e-4dc7-8979-398c2b476ddc)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 Seguidamente, se mostrará un repositorio centralizado y estructurado que funcionará como referencia para un desarrollo enfocado y coherente de nuestra solución. Además se incluyen otras secciones para Source Code Management, Development Environment Configuration y Deployment Configuration.
@@ -1704,7 +1705,9 @@ Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de l
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
+![Image](/assets/imgs/chapter-V/swagger.png)
 
+![Image](/assets/imgs/chapter-V/values_end_points.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
