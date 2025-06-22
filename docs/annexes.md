@@ -12,6 +12,12 @@ En este apartado se adjunta el video de la exposición realizada por los miembro
 
 Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EU2t5pvZsa1Lq_WH-Qvz3jkB8lhmcu7Umcjf8XwqoSbdxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3BAuhp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EU2t5pvZsa1Lq_WH-Qvz3jkB8lhmcu7Umcjf8XwqoSbdxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3BAuhp)
 
+### TB2
+En este apartado se adjunta el video de la exposición realizada por los miembros del equipo. Asimismo, se resalta el uso de una presentación y puntos claves a tratar.
+![image](https://github.com/user-attachments/assets/eb321c49-8718-476c-800c-bfab51500d6d)
+
+Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EXZyMAlBYmlNheYEU_KWWNgBO3Mv4QZ6KDTrb-wBoc54Rw?e=FcwWFa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EXZyMAlBYmlNheYEU_KWWNgBO3Mv4QZ6KDTrb-wBoc54Rw?e=FcwWFa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Presentación de los prototipos
 
 ### TB1
