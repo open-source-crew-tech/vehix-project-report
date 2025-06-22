@@ -14,7 +14,6 @@
 
 |           Estudiante           |     Código      |
 |--------------------------------|-----------------|
-| Baca Camargo, Vitaly Arturo    |   u20231c426    |
 | Espinoza Chávez, Moisés Filemón|   u202221383    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
@@ -44,11 +43,17 @@
 | 2.1     | 22/04/2024  | Espinoza Chávez, Moisés Filemón                      | Arreglos generales, HU, C4 Diagrams                          |
 | 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
 | 2.3     | 16/05/2025  | Baca Camargo, Vitaly Arturo       | Identifica el sprint 2               |
-| 2.4     | 16/05/2026  |  Sergio Gino Julca Minaya       |  Actualiza el lean ux processs             |
-| 2.5     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
-| 2.6     | 16/05/2026  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
-| 2.7     | 16/05/2026  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
-| 2.8     | 16/05/2026  |  Espinoza Chávez, Moisés Filemón          |  correcion de user personas            |
+| 2.4     | 16/05/2025  |  Sergio Gino Julca Minaya       |  Actualiza el lean ux processs             |
+| 2.5     | 16/05/2025  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
+| 2.6     | 16/05/2025  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
+| 2.7     | 16/05/2025  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
+| 3.1     | 22/06/2025  |  Rios Piñan, Dayro Richard          |  Desarrollo de IAM backend            |
+| 3.2     | 22/06/2025  |  Espinoza Chávez, Moisés Filemón          |  Correcciones de impact mapping            |
+| 3.3     | 22/06/2025  |  Julca Minaya, Sergio Gino          |  Desarrollo de MONITORING backend            |
+| 3.4     | 22/06/2025  |  Navarro Chinga, Antonio Jhair          |  Desarrollo MANAGEMENT            |
+| 3.5     | 22/06/2025  |  Julca Minaya, Sergio Gino          |  Elaboracion de sprint 3            |
+| 3.6     | 22/06/2025  |  Rios Piñan, Dayro Richard           |  Desarrollo de entrevistas            |
+
 
 # Project Report Collaboration Insights 
 
@@ -59,6 +64,8 @@
   - **Link de Landing Page:** [https://open-source-crew-tech.github.io/vehix-landing-page/](https://open-source-crew-tech.github.io/vehix-landing-page/)
 
   - **Link de Repositorio FrontEnd:** [https://github.com/sergioJM05/vehix-frontend](https://github.com/sergioJM05/vehix-frontend)
+
+  - **Link de Repositorio BackEnd:** [https://github.com/open-source-crew-tech/vehix-platform.git](https://github.com/open-source-crew-tech/vehix-platform.git)
 
     A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4: 
     ![commits img](/assets/imgs/chapter-I/commits.png)
